@@ -216,13 +216,12 @@ ALTER TABLE MEMBRESIA
 CREATE TABLE PERSONA
 (
 	nombre               VARCHAR2(30) NULL ,
-	colonia              VARCHAR2(50) NULL ,
-	calle                VARCHAR2(50) NULL ,
-	email                VARCHAR2(25) NULL ,
-	telefono             NUMBER(10) NULL ,
-	id_estado            NUMBER(3) NOT NULL ,
-	apellido_materno     VARCHAR2(30) NULL ,
-	apellido_paterno     VARCHAR2(30) NULL ,
+  apellido              VARCHAR2(30) NULL ,
+	direccion              VARCHAR2(50) NULL ,
+	ciudad                 VARCHAR2(50) NULL ,
+  estado                VARCHAR2(50) NULL ,
+	email                VARCHAR2(50) NULL ,
+	telefono             VARCHAR2(20) NULL ,
 	id_persoma           NUMBER(6) NOT NULL ,
 	tipo                 CHAR(1) NULL  CONSTRAINT  tipoPersonaRule CHECK (tipo IN ('E', 'P', 'C'))
 );
