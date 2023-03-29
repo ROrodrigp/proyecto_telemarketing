@@ -1686,38 +1686,7 @@ END;
 /
 
 
-CREATE  TRIGGER tI_PERSONA BEFORE INSERT ON PERSONA for each row
--- ERwin Builtin Trigger
--- INSERT trigger on PERSONA 
-DECLARE NUMROWS INTEGER;
-BEGIN
-    /* ERwin Builtin Trigger */
-    /* ESTADO  PERSONA on child insert restrict */
-    /* ERWIN_RELATION:CHECKSUM="0000e106", PARENT_OWNER="", PARENT_TABLE="ESTADO"
-    CHILD_OWNER="", CHILD_TABLE="PERSONA"
-    P2C_VERB_PHRASE="", C2P_VERB_PHRASE="", 
-    FK_CONSTRAINT="R_32", FK_COLUMNS="id_estado" */
-    SELECT count(*) INTO NUMROWS
-      FROM ESTADO
-      WHERE
-        /* %JoinFKPK(:%New,ESTADO," = "," AND") */
-        :new.id_estado = ESTADO.id_estado;
-    IF (
-      /* %NotnullFK(:%New," IS NOT NULL AND") */
-      
-      NUMROWS = 0
-    )
-    THEN
-      raise_application_error(
-        -20002,
-        'Cannot insert PERSONA because ESTADO does not exist.'
-      );
-    END IF;
 
-
--- ERwin Builtin Trigger
-END;
-/
 
 CREATE  TRIGGER  tD_PERSONA AFTER DELETE ON PERSONA for each row
 -- ERwin Builtin Trigger
