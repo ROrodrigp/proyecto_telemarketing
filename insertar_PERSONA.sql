@@ -1,1000 +1,2001 @@
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Miranda', 'Bucklee', '1 Merrick Crossing', 'Memphis', 'Tennessee', 'mbucklee0@zdnet.com', '615-960-5058', 989349, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Merle', 'Deerr', '079 Lyons Circle', 'Jacksonville', 'Florida', 'mdeerr1@businessweek.com', '904-106-6611', 491098, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pippo', 'Mallord', '479 Annamark Street', 'Denver', 'Colorado', 'pmallord2@photobucket.com', '303-583-9260', 699015, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Terrence', 'Alloisi', '0 East Trail', 'Pasadena', 'California', 'talloisi3@google.com', '323-358-0132', 705792, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wynn', 'Sharper', '58897 Amoth Street', 'Great Neck', 'New York', 'wsharper4@angelfire.com', '516-816-8631', 699648, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nina', 'Crutchfield', '24872 Londonderry Road', 'San Angelo', 'Texas', 'ncrutchfield5@arstechnica.com', '325-754-2199', 140674, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lesley', 'Stennard', '34 Corry Circle', 'Austin', 'Texas', 'lstennard6@cnn.com', '512-981-5093', 547860, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dionisio', 'Durbyn', '28 Havey Place', 'San Jose', 'California', 'ddurbyn7@edublogs.org', '408-877-3151', 329915, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aeriel', 'Mannock', '8 Debs Place', 'Denver', 'Colorado', 'amannock8@columbia.edu', '303-845-4262', 489426, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Julie', 'Roberds', '223 Eagan Court', 'Indianapolis', 'Indiana', 'jroberds9@shutterfly.com', '317-311-1544', 423099, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Janetta', 'Sydney', '7275 Morrow Center', 'Grand Forks', 'North Dakota', 'jsydneya@nsw.gov.au', '701-697-6206', 529904, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hadleigh', 'Cromb', '54 Onsgard Parkway', 'Houston', 'Texas', 'hcrombb@discuz.net', '713-222-1027', 666418, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bil', 'Geroldini', '0 Truax Parkway', 'Washington', 'District of Columbia', 'bgeroldinic@hugedomains.com', '202-380-0394', 360438, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Allene', 'Dupre', '9400 Sachs Junction', 'Canton', 'Ohio', 'adupred@webs.com', '330-465-9209', 297544, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ingamar', 'Baigent', '0327 Pankratz Terrace', 'New Orleans', 'Louisiana', 'ibaigente@yelp.com', '504-352-4235', 620784, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Manfred', 'Durrett', '5747 Eagan Drive', 'Whittier', 'California', 'mdurrettf@ted.com', '626-236-0358', 805296, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Andie', 'Walden', '6245 Prentice Terrace', 'Gaithersburg', 'Maryland', 'awaldeng@123-reg.co.uk', '240-467-4713', 874501, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Andrea', 'Steanson', '6316 Hoffman Plaza', 'Los Angeles', 'California', 'asteansonh@jimdo.com', '323-484-5804', 752949, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marena', 'Jirzik', '44 Forest Pass', 'Raleigh', 'North Carolina', 'mjirziki@oracle.com', '919-553-5571', 762819, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Karim', 'Tant', '7599 Amoth Pass', 'Saint Paul', 'Minnesota', 'ktantj@stumbleupon.com', '651-887-4336', 942747, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laurie', 'Curuclis', '4639 Tennessee Pass', 'Jamaica', 'New York', 'lcuruclisk@uiuc.edu', '917-187-2736', 600384, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hymie', 'Le Bosse', '295 Crowley Park', 'Long Beach', 'California', 'hlebossel@elegantthemes.com', '562-887-2789', 268173, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Reynolds', 'Brunstan', '148 Eagle Crest Street', 'Baton Rouge', 'Louisiana', 'rbrunstanm@sourceforge.net', '225-823-0933', 631492, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mechelle', 'Armell', '68740 Corscot Road', 'Fresno', 'California', 'marmelln@flickr.com', '559-609-7558', 472297, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rafe', 'Boland', '791 Knutson Court', 'Bowie', 'Maryland', 'rbolando@comsenz.com', '240-693-5779', 581231, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dougie', 'Clayson', '72 Lotheville Crossing', 'Oxnard', 'California', 'dclaysonp@people.com.cn', '805-856-7367', 578938, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dillie', 'Snelman', '5 Anhalt Park', 'Fort Smith', 'Arkansas', 'dsnelmanq@columbia.edu', '479-402-2866', 514327, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elton', 'Presdee', '59108 Portage Road', 'Houston', 'Texas', 'epresdeer@domainmarket.com', '713-920-3773', 352492, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fanechka', 'Van Driel', '840 Bobwhite Court', 'Rockford', 'Illinois', 'fvandriels@live.com', '815-594-8122', 972374, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meade', 'Bythway', '235 2nd Street', 'Pensacola', 'Florida', 'mbythwayt@uol.com.br', '850-807-7965', 322485, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Silva', 'O''Rudden', '81726 Anthes Street', 'El Paso', 'Texas', 'soruddenu@amazon.de', '915-841-0632', 639408, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Annette', 'Brayford', '6 Menomonie Circle', 'San Diego', 'California', 'abrayfordv@newyorker.com', '619-695-8475', 181254, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gilberte', 'Favelle', '67 Hintze Parkway', 'Alexandria', 'Virginia', 'gfavellew@tinyurl.com', '571-892-2878', 672752, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Harmon', 'Coughlan', '3391 Comanche Center', 'Woburn', 'Massachusetts', 'hcoughlanx@ameblo.jp', '339-685-4644', 281630, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Umeko', 'Winkworth', '43605 Westend Avenue', 'San Francisco', 'California', 'uwinkworthy@histats.com', '310-235-5055', 955628, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nadiya', 'Peggram', '7 Dennis Road', 'Lafayette', 'Indiana', 'npeggramz@imgur.com', '765-704-0598', 930622, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lira', 'Heardman', '06 Maryland Court', 'Frankfort', 'Kentucky', 'lheardman10@mayoclinic.com', '502-249-1283', 149391, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Renee', 'Bly', '0 Lakewood Gardens Junction', 'Charlotte', 'North Carolina', 'rbly11@aol.com', '704-285-5741', 80501, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Car', 'Discombe', '2260 Northview Circle', 'Dallas', 'Texas', 'cdiscombe12@mapy.cz', '469-694-1377', 309221, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Avis', 'Youster', '8 Village Lane', 'Atlanta', 'Georgia', 'ayouster13@yandex.ru', '404-596-7683', 665371, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carolyne', 'Oglevie', '740 Lakeland Point', 'Newton', 'Massachusetts', 'coglevie14@ebay.co.uk', '781-930-9660', 224345, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chrissie', 'Heffron', '1656 Sunnyside Court', 'Sacramento', 'California', 'cheffron15@sitemeter.com', '916-248-9020', 886618, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Willem', 'Dohms', '0113 Kingsford Crossing', 'Tucson', 'Arizona', 'wdohms16@ox.ac.uk', '520-921-5440', 763276, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lenora', 'Cromleholme', '73849 Spohn Court', 'Fresno', 'California', 'lcromleholme17@mysql.com', '209-836-3309', 434840, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Melessa', 'Byllam', '379 Karstens Plaza', 'San Francisco', 'California', 'mbyllam18@arizona.edu', '415-378-6126', 187455, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gabby', 'Friese', '15 Toban Center', 'Charleston', 'South Carolina', 'gfriese19@independent.co.uk', '843-523-6763', 480059, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Katalin', 'Vandenhoff', '4708 Sachtjen Terrace', 'Saint Louis', 'Missouri', 'kvandenhoff1a@pagesperso-orange.fr', '314-361-5384', 338200, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laryssa', 'D''Aeth', '05 Jenifer Terrace', 'Homestead', 'Florida', 'ldaeth1b@adobe.com', '786-809-9386', 571875, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Waring', 'Bougourd', '410 Heffernan Center', 'Saint Louis', 'Missouri', 'wbougourd1c@yandex.ru', '314-371-0447', 843182, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kiley', 'Crockatt', '11574 Reinke Terrace', 'Austin', 'Texas', 'kcrockatt1d@yahoo.co.jp', '512-623-4702', 174246, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kimbell', 'Aldin', '7 Farragut Pass', 'Charlotte', 'North Carolina', 'kaldin1e@ucoz.ru', '704-155-9501', 747177, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Murielle', 'Stitch', '706 Blaine Terrace', 'Kansas City', 'Missouri', 'mstitch1f@columbia.edu', '816-248-1791', 625892, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kelcey', 'Sherewood', '82 Petterle Avenue', 'Columbus', 'Ohio', 'ksherewood1g@linkedin.com', '614-744-0288', 223270, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Skippie', 'Bellson', '66152 Beilfuss Court', 'Jacksonville', 'Florida', 'sbellson1h@shop-pro.jp', '904-555-6085', 102408, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Millicent', 'Leneham', '11893 Vahlen Park', 'Saint Petersburg', 'Florida', 'mleneham1i@ezinearticles.com', '813-364-8979', 582177, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brenden', 'Croad', '176 Schurz Park', 'Washington', 'District of Columbia', 'bcroad1j@1688.com', '202-288-4145', 913820, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jocelyn', 'Grioli', '692 Grayhawk Avenue', 'Garden Grove', 'California', 'jgrioli1k@apache.org', '310-723-1643', 877351, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alaster', 'Izac', '8 Dayton Circle', 'Largo', 'Florida', 'aizac1l@diigo.com', '727-257-7219', 754576, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Barrie', 'Rings', '84 Moland Park', 'Laredo', 'Texas', 'brings1m@ed.gov', '956-788-5139', 551196, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Celestyna', 'Stovold', '12 Sunnyside Drive', 'Phoenix', 'Arizona', 'cstovold1n@biblegateway.com', '480-699-6797', 275496, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kirstyn', 'Stephenson', '255 Miller Parkway', 'Worcester', 'Massachusetts', 'kstephenson1o@dagondesign.com', '508-713-9018', 29101, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Starr', 'Heistermann', '427 Milwaukee Crossing', 'Cumming', 'Georgia', 'sheistermann1p@meetup.com', '706-937-1932', 249349, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Roana', 'Avieson', '3 Hoepker Circle', 'Columbus', 'Ohio', 'ravieson1q@goo.gl', '614-695-8897', 43467, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brew', 'Thyng', '591 Hanover Street', 'Atlanta', 'Georgia', 'bthyng1r@sphinn.com', '404-411-8615', 45402, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Berny', 'Dalziell', '00 Fallview Park', 'Oakland', 'California', 'bdalziell1s@businessweek.com', '510-657-0198', 273569, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Guenevere', 'Chelsom', '3 Linden Pass', 'Toledo', 'Ohio', 'gchelsom1t@mail.ru', '419-806-3716', 341773, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Camilla', 'Lethbrig', '67539 American Hill', 'Everett', 'Washington', 'clethbrig1u@shop-pro.jp', '425-277-0941', 308209, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Freda', 'McGarrie', '82 Sauthoff Terrace', 'Fort Lauderdale', 'Florida', 'fmcgarrie1v@t-online.de', '954-328-1417', 345824, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Livvy', 'MacCaffrey', '3112 Vernon Parkway', 'Dallas', 'Texas', 'lmaccaffrey1w@admin.ch', '903-105-3114', 830688, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ninnette', 'Quant', '3774 Summer Ridge Parkway', 'Temple', 'Texas', 'nquant1x@yahoo.co.jp', '254-401-0938', 239308, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kelley', 'Peiro', '24 Lukken Parkway', 'Salt Lake City', 'Utah', 'kpeiro1y@delicious.com', '801-191-2480', 525126, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pembroke', 'Grandin', '4 Barby Drive', 'Lynn', 'Massachusetts', 'pgrandin1z@quantcast.com', '339-213-3809', 759112, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ami', 'Cowdery', '026 Kingsford Pass', 'Kansas City', 'Missouri', 'acowdery20@webs.com', '816-581-8774', 738180, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tamarah', 'Ondrich', '7 Village Point', 'New York City', 'New York', 'tondrich21@apache.org', '917-384-9129', 593661, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vickie', 'Shutle', '31964 Karstens Way', 'Fort Myers', 'Florida', 'vshutle22@51.la', '239-146-0887', 677570, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Antonella', 'Bullin', '3 Service Park', 'Pompano Beach', 'Florida', 'abullin23@unicef.org', '754-189-0200', 391694, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mirna', 'De La Hay', '4710 Anniversary Park', 'New Haven', 'Connecticut', 'mdelahay24@army.mil', '203-368-4823', 993701, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Westley', 'Minchenton', '3 Declaration Alley', 'Tampa', 'Florida', 'wminchenton25@omniture.com', '813-244-1736', 256755, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Joey', 'Falloon', '7353 Texas Junction', 'Cleveland', 'Ohio', 'jfalloon26@kickstarter.com', '216-419-4567', 625944, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Randal', 'Eloy', '85 Rockefeller Junction', 'Dallas', 'Texas', 'reloy27@facebook.com', '214-658-9823', 825295, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shaine', 'Gleeton', '49636 Pleasure Plaza', 'Tampa', 'Florida', 'sgleeton28@ftc.gov', '813-589-9477', 768167, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Michaela', 'Maharey', '32 Corry Crossing', 'Portsmouth', 'New Hampshire', 'mmaharey29@wikispaces.com', '603-136-1623', 155044, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Christoper', 'Gramer', '2983 Walton Court', 'San Bernardino', 'California', 'cgramer2a@alibaba.com', '909-746-2074', 843576, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Currie', 'Heinl', '10 Cambridge Alley', 'Tucson', 'Arizona', 'cheinl2b@wp.com', '520-561-5972', 170532, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elysia', 'Licquorish', '017 Dennis Circle', 'Gary', 'Indiana', 'elicquorish2c@adobe.com', '219-254-1893', 558357, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mic', 'Couchman', '7 Arrowood Park', 'Gatesville', 'Texas', 'mcouchman2d@utexas.edu', '254-159-8975', 365425, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Monti', 'Doyley', '0155 Sutteridge Place', 'Trenton', 'New Jersey', 'mdoyley2e@facebook.com', '609-889-1439', 161745, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carlynn', 'Battleson', '3 Caliangt Hill', 'Boston', 'Massachusetts', 'cbattleson2f@hhs.gov', '617-208-7741', 406553, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gaynor', 'Orred', '210 Carberry Alley', 'Chicago', 'Illinois', 'gorred2g@bizjournals.com', '312-953-1549', 605552, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dwain', 'Dumpleton', '05097 Melody Plaza', 'Paterson', 'New Jersey', 'ddumpleton2h@engadget.com', '201-458-3310', 191056, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marlowe', 'Whittock', '5234 Pennsylvania Point', 'Montgomery', 'Alabama', 'mwhittock2i@springer.com', '334-270-0263', 419868, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tonie', 'Christmas', '433 Boyd Trail', 'Columbia', 'South Carolina', 'tchristmas2j@bloomberg.com', '803-940-0612', 371971, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Benetta', 'Axtens', '4663 Armistice Pass', 'Brea', 'California', 'baxtens2k@deviantart.com', '714-948-9343', 796305, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shane', 'Sprigings', '0798 Butternut Court', 'Schenectady', 'New York', 'ssprigings2l@cargocollective.com', '518-627-8841', 898237, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clarita', 'Aronovich', '1 Corscot Parkway', 'Portland', 'Oregon', 'caronovich2m@dailymail.co.uk', '503-591-7113', 92043, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Xavier', 'Rains', '82285 Vernon Junction', 'Houston', 'Texas', 'xrains2n@ocn.ne.jp', '281-158-9091', 327635, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Susy', 'Souten', '3 Pankratz Road', 'Milwaukee', 'Wisconsin', 'ssouten2o@cmu.edu', '414-667-1976', 241501, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Riobard', 'Bisiker', '4 Kenwood Street', 'Durham', 'North Carolina', 'rbisiker2p@yahoo.com', '919-116-4622', 366377, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Renate', 'Ransome', '65620 Spaight Circle', 'Austin', 'Texas', 'rransome2q@arizona.edu', '512-341-9258', 979635, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gusti', 'Wolters', '19727 Hudson Circle', 'Baltimore', 'Maryland', 'gwolters2r@oakley.com', '410-936-6014', 181279, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Roch', 'Sheppey', '3 Troy Pass', 'Baltimore', 'Maryland', 'rsheppey2s@clickbank.net', '410-540-5578', 266559, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gardie', 'MacGuffie', '90826 Sugar Circle', 'Montgomery', 'Alabama', 'gmacguffie2t@slideshare.net', '334-825-8581', 275764, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Myrvyn', 'Petr', '504 Beilfuss Hill', 'Washington', 'District of Columbia', 'mpetr2u@fema.gov', '202-983-1205', 662504, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hugh', 'Wadham', '4417 Summerview Crossing', 'Baltimore', 'Maryland', 'hwadham2v@rakuten.co.jp', '443-509-6288', 576262, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cyrillus', 'Strethill', '68740 Carpenter Court', 'Montgomery', 'Alabama', 'cstrethill2w@sciencedaily.com', '334-393-1152', 7199, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Val', 'Davey', '5056 Nobel Avenue', 'Savannah', 'Georgia', 'vdavey2x@springer.com', '912-344-4922', 479100, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alvira', 'Schimmang', '60788 Cherokee Point', 'Cincinnati', 'Ohio', 'aschimmang2y@ocn.ne.jp', '513-103-4248', 557055, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shay', 'Moreinis', '7 Linden Parkway', 'Charlotte', 'North Carolina', 'smoreinis2z@posterous.com', '704-782-9711', 769357, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Doloritas', 'Topper', '9 Beilfuss Parkway', 'New York City', 'New York', 'dtopper30@washington.edu', '212-416-9173', 785041, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Anthiathia', 'Boaler', '01438 Huxley Circle', 'Longview', 'Texas', 'aboaler31@people.com.cn', '903-239-1053', 338167, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Stacee', 'Alforde', '7513 Waxwing Pass', 'San Antonio', 'Texas', 'salforde32@bbc.co.uk', '210-500-9953', 52869, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Murial', 'Ortas', '1 Maple Avenue', 'Buffalo', 'New York', 'mortas33@merriam-webster.com', '716-527-3710', 525792, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Omar', 'Conant', '94 Lawn Street', 'Greensboro', 'North Carolina', 'oconant34@github.com', '336-879-2301', 486837, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elissa', 'Tiltman', '0808 Mayer Drive', 'Pueblo', 'Colorado', 'etiltman35@plala.or.jp', '719-847-3564', 65673, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nona', 'Elesander', '109 Aberg Parkway', 'Orlando', 'Florida', 'nelesander36@illinois.edu', '321-981-9324', 387015, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kleon', 'Duthy', '46 Holy Cross Circle', 'Brooklyn', 'New York', 'kduthy37@furl.net', '718-729-3708', 166569, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Giavani', 'Marsland', '30 Fair Oaks Parkway', 'Laurel', 'Maryland', 'gmarsland38@g.co', '410-124-1138', 485476, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Corbet', 'Statton', '803 Caliangt Alley', 'Dayton', 'Ohio', 'cstatton39@meetup.com', '937-892-0495', 293273, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ryley', 'Stienton', '0831 Kennedy Terrace', 'Birmingham', 'Alabama', 'rstienton3a@cdc.gov', '205-444-3864', 97411, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Amalie', 'Kulis', '2740 Duke Park', 'Saint Paul', 'Minnesota', 'akulis3b@posterous.com', '651-706-5619', 644413, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Antonietta', 'Tuftin', '84641 Annamark Avenue', 'Houston', 'Texas', 'atuftin3c@omniture.com', '713-608-6538', 241844, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Terza', 'Diess', '67655 Kennedy Street', 'Los Angeles', 'California', 'tdiess3d@nationalgeographic.com', '213-861-9534', 839631, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Al', 'Aldcorne', '204 Sullivan Avenue', 'Naperville', 'Illinois', 'aaldcorne3e@cyberchimps.com', '630-502-6680', 804268, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bent', 'Laville', '62 Cherokee Hill', 'Duluth', 'Minnesota', 'blaville3f@ted.com', '218-400-6231', 137589, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Towny', 'Withams', '3415 Bashford Lane', 'Staten Island', 'New York', 'twithams3g@sfgate.com', '718-593-6453', 133714, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dorothy', 'Grier', '73 Lyons Court', 'Valdosta', 'Georgia', 'dgrier3h@apple.com', '229-239-2840', 858133, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Catie', 'Conboy', '10 Carioca Alley', 'Fullerton', 'California', 'cconboy3i@weibo.com', '559-639-0763', 184244, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Noelle', 'Nazair', '72576 John Wall Terrace', 'Nashville', 'Tennessee', 'nnazair3j@t-online.de', '615-462-8823', 93075, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Orv', 'Sievewright', '5401 Northwestern Street', 'Washington', 'District of Columbia', 'osievewright3k@wiley.com', '703-547-5064', 440927, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Katrina', 'Filchakov', '536 Gale Parkway', 'Rochester', 'New York', 'kfilchakov3l@lycos.com', '585-690-0034', 154111, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lem', 'Bothwell', '58 Forest Dale Parkway', 'Maple Plain', 'Minnesota', 'lbothwell3m@bigcartel.com', '952-207-0100', 888778, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sephira', 'Newtown', '506 Veith Point', 'Lincoln', 'Nebraska', 'snewtown3n@washington.edu', '402-126-7956', 754039, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alexander', 'Spatarul', '306 Hooker Hill', 'Phoenix', 'Arizona', 'aspatarul3o@boston.com', '623-620-8070', 92954, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Devondra', 'Probert', '692 Elmside Crossing', 'Tallahassee', 'Florida', 'dprobert3p@yolasite.com', '850-791-0504', 649569, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gabbey', 'Mines', '1617 Ridge Oak Avenue', 'Lexington', 'Kentucky', 'gmines3q@networksolutions.com', '859-474-6728', 570655, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alexis', 'Brecknell', '02 Manufacturers Center', 'Hagerstown', 'Maryland', 'abrecknell3r@apache.org', '240-308-1922', 121674, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tuesday', 'Northam', '42 Shoshone Parkway', 'Cincinnati', 'Ohio', 'tnortham3s@ocn.ne.jp', '513-805-8029', 464517, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shayne', 'Nutley', '36891 Pennsylvania Hill', 'Durham', 'North Carolina', 'snutley3t@globo.com', '919-386-9408', 110678, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Si', 'Ower', '93114 Daystar Pass', 'Wilmington', 'Delaware', 'sower3u@si.edu', '302-298-4118', 23810, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jameson', 'Guyers', '4 Nancy Road', 'Dallas', 'Texas', 'jguyers3v@ustream.tv', '972-384-7751', 542766, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Justinn', 'Foxhall', '9748 Birchwood Place', 'Nashville', 'Tennessee', 'jfoxhall3w@bloglovin.com', '615-539-9728', 776273, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rory', 'Skillern', '69053 Alpine Place', 'Washington', 'District of Columbia', 'rskillern3x@behance.net', '202-925-3454', 774000, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clementine', 'Smee', '03571 Bonner Circle', 'Washington', 'District of Columbia', 'csmee3y@taobao.com', '202-258-2499', 60168, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Agneta', 'Reddyhoff', '77 Loeprich Parkway', 'Houston', 'Texas', 'areddyhoff3z@comcast.net', '281-974-8220', 493361, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Timmie', 'Gallo', '9 Marcy Way', 'San Jose', 'California', 'tgallo40@umn.edu', '408-757-0437', 822248, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Anthiathia', 'Sidebotton', '70 Red Cloud Pass', 'Saint Paul', 'Minnesota', 'asidebotton41@miibeian.gov.cn', '651-255-1211', 287344, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clarke', 'Eakeley', '663 Pepper Wood Crossing', 'Huntsville', 'Texas', 'ceakeley42@dailymotion.com', '936-119-4193', 180225, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Putnem', 'Yurin', '050 Paget Place', 'Wilmington', 'Delaware', 'pyurin43@blogs.com', '302-950-1052', 696852, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Amalle', 'Eastlake', '15540 Buell Drive', 'Orlando', 'Florida', 'aeastlake44@booking.com', '407-610-1449', 951524, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kacey', 'Sutlieff', '854 Mallard Avenue', 'Detroit', 'Michigan', 'ksutlieff45@go.com', '810-223-1489', 496908, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Georgie', 'Shillan', '79 Oneill Center', 'Sarasota', 'Florida', 'gshillan46@ehow.com', '941-899-2434', 774431, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Yehudi', 'Skatcher', '257 Jenifer Crossing', 'San Diego', 'California', 'yskatcher47@va.gov', '619-940-3314', 405325, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bayard', 'Dunkerly', '16 Dunning Place', 'Winston Salem', 'North Carolina', 'bdunkerly48@wufoo.com', '336-945-6361', 858287, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Glennie', 'Griswood', '386 Packers Parkway', 'Washington', 'District of Columbia', 'ggriswood49@sun.com', '202-610-5343', 324555, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dorothea', 'Schiementz', '20 Dahle Drive', 'New York City', 'New York', 'dschiementz4a@slashdot.org', '646-777-7700', 914254, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kipper', 'Kendrew', '459 Carberry Street', 'Tuscaloosa', 'Alabama', 'kkendrew4b@dedecms.com', '205-994-0081', 257039, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jo', 'Roddick', '24 Service Pass', 'Philadelphia', 'Pennsylvania', 'jroddick4c@ebay.co.uk', '215-848-1653', 670368, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Flore', 'O''Rafferty', '81 Gerald Avenue', 'Birmingham', 'Alabama', 'forafferty4d@artisteer.com', '205-495-7156', 407957, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dulcinea', 'Burgwyn', '93 Surrey Street', 'Sarasota', 'Florida', 'dburgwyn4e@mtv.com', '941-733-4730', 901399, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lulita', 'Bisseker', '81251 Mendota Point', 'Arlington', 'Texas', 'lbisseker4f@histats.com', '817-128-1716', 208807, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Editha', 'Vannah', '14417 Onsgard Plaza', 'Richmond', 'Virginia', 'evannah4g@apache.org', '804-635-2221', 916521, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tally', 'Toe', '276 Thompson Trail', 'El Paso', 'Texas', 'ttoe4h@npr.org', '915-208-3937', 284851, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shellysheldon', 'Epinay', '2158 Blaine Crossing', 'Mesa', 'Arizona', 'sepinay4i@surveymonkey.com', '602-179-5215', 774445, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Christel', 'Farrin', '36 Shasta Pass', 'Boise', 'Idaho', 'cfarrin4j@adobe.com', '208-392-9560', 140191, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Crosby', 'Fardon', '38076 Arkansas Hill', 'Little Rock', 'Arkansas', 'cfardon4k@sphinn.com', '501-275-2373', 206371, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Riley', 'Petegrew', '1 Erie Way', 'Washington', 'District of Columbia', 'rpetegrew4l@ft.com', '202-568-2479', 359356, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Veronike', 'Estoile', '33565 Anhalt Street', 'Washington', 'District of Columbia', 'vestoile4m@ihg.com', '202-109-1489', 813884, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vladimir', 'Lentsch', '19 Kipling Junction', 'Grand Rapids', 'Michigan', 'vlentsch4n@prnewswire.com', '616-417-7654', 183553, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Etan', 'Caveill', '83 Nevada Court', 'San Antonio', 'Texas', 'ecaveill4o@ning.com', '210-356-6899', 835171, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kayle', 'Ahern', '002 Commercial Junction', 'Albany', 'New York', 'kahern4p@google.es', '518-267-2078', 972715, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chlo', 'Cornwall', '518 Kropf Place', 'Winston Salem', 'North Carolina', 'ccornwall4q@prnewswire.com', '336-652-6273', 969097, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aurilia', 'Stilliard', '3 Hudson Way', 'Pittsburgh', 'Pennsylvania', 'astilliard4r@chron.com', '412-728-7489', 270400, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hart', 'Mancer', '95 Meadow Ridge Junction', 'Anchorage', 'Alaska', 'hmancer4s@mapy.cz', '907-814-4177', 205071, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Allys', 'Loncaster', '2 Lake View Street', 'North Hollywood', 'California', 'aloncaster4t@wikia.com', '818-493-7546', 395075, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ezechiel', 'Lensch', '7789 Cody Place', 'Phoenix', 'Arizona', 'elensch4u@163.com', '602-999-7794', 166141, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hayley', 'Weathey', '317 Sycamore Court', 'Washington', 'District of Columbia', 'hweathey4v@com.com', '202-695-0678', 427649, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tabbitha', 'Flint', '1 Burrows Place', 'Lincoln', 'Nebraska', 'tflint4w@nps.gov', '402-835-7168', 812434, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pen', 'Brea', '1 Lakeland Trail', 'Pensacola', 'Florida', 'pbrea4x@narod.ru', '850-690-5263', 127775, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fanny', 'Daenen', '7 Springs Court', 'Columbus', 'Mississippi', 'fdaenen4y@ox.ac.uk', '662-163-6704', 829014, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Antonio', 'Crucitti', '2923 Mayer Parkway', 'Sioux Falls', 'South Dakota', 'acrucitti4z@livejournal.com', '605-387-0868', 213231, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Waylon', 'Biggans', '02522 Trailsway Trail', 'Boston', 'Massachusetts', 'wbiggans50@usa.gov', '508-788-2431', 413479, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fawne', 'Stonhewer', '17429 Harbort Park', 'Dallas', 'Texas', 'fstonhewer51@craigslist.org', '214-389-1584', 382388, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sophi', 'Bickerdyke', '5 Packers Drive', 'Fort Smith', 'Arkansas', 'sbickerdyke52@livejournal.com', '479-967-7629', 195488, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Curtis', 'Mintoft', '4870 Tomscot Parkway', 'Portland', 'Oregon', 'cmintoft53@prnewswire.com', '503-756-5400', 862829, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jannel', 'Ewings', '50 Red Cloud Junction', 'Bronx', 'New York', 'jewings54@chicagotribune.com', '718-773-6019', 703115, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Madella', 'Coulson', '4868 Namekagon Way', 'Fort Wayne', 'Indiana', 'mcoulson55@hc360.com', '260-593-8037', 262190, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gale', 'Heindl', '87 Almo Junction', 'Annapolis', 'Maryland', 'gheindl56@tinypic.com', '301-157-7855', 849980, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Matilda', 'Allnatt', '74950 Sachtjen Park', 'New Haven', 'Connecticut', 'mallnatt57@squarespace.com', '203-196-0620', 47124, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cal', 'Wethers', '9962 Green Ridge Street', 'Seattle', 'Washington', 'cwethers58@icio.us', '206-429-6323', 956335, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vinita', 'Seddon', '8 Bluestem Drive', 'Oklahoma City', 'Oklahoma', 'vseddon59@tiny.cc', '405-791-9184', 754103, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lilllie', 'Kilborn', '0316 Melby Place', 'Racine', 'Wisconsin', 'lkilborn5a@usa.gov', '262-654-7815', 153581, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mariel', 'Fairlaw', '381 Superior Junction', 'Buffalo', 'New York', 'mfairlaw5b@dion.ne.jp', '716-926-8712', 500424, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Addia', 'Demaid', '6 Kedzie Center', 'Pasadena', 'California', 'ademaid5c@ning.com', '626-535-3385', 861982, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jorry', 'Kelly', '71 Armistice Court', 'Kansas City', 'Missouri', 'jkelly5d@nih.gov', '816-169-5093', 882785, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meredith', 'Aspland', '96 Donald Terrace', 'Reno', 'Nevada', 'maspland5e@salon.com', '775-329-7084', 192002, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Riannon', 'Ennals', '426 Delaware Point', 'Jamaica', 'New York', 'rennals5f@naver.com', '212-478-1942', 900201, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rebekah', 'Matura', '5506 Macpherson Center', 'Oakland', 'California', 'rmatura5g@washingtonpost.com', '510-677-3690', 707260, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jeff', 'Bantham', '1 Pepper Wood Center', 'Arlington', 'Virginia', 'jbantham5h@newsvine.com', '571-207-1569', 527510, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jo-ann', 'Bootherstone', '58181 Westerfield Point', 'Kansas City', 'Missouri', 'jbootherstone5i@reverbnation.com', '816-690-5235', 569193, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jaine', 'Martinson', '307 Quincy Trail', 'Sacramento', 'California', 'jmartinson5j@mail.ru', '916-280-6465', 274841, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Modesta', 'Feeley', '284 Burrows Drive', 'Monticello', 'Minnesota', 'mfeeley5k@ihg.com', '763-562-7618', 827657, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Uta', 'Maciocia', '451 Cascade Junction', 'Birmingham', 'Alabama', 'umaciocia5l@thetimes.co.uk', '205-124-2597', 913604, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Filip', 'Hadaway', '4607 Green Terrace', 'Baton Rouge', 'Louisiana', 'fhadaway5m@digg.com', '225-410-6663', 597068, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Regan', 'Yukhnevich', '977 Main Crossing', 'Orange', 'California', 'ryukhnevich5n@yellowbook.com', '949-457-2075', 468139, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Loren', 'Rosario', '71191 Forest Run Crossing', 'Tampa', 'Florida', 'lrosario5o@godaddy.com', '813-183-7408', 899242, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Will', 'Bouette', '4 Haas Circle', 'Portland', 'Oregon', 'wbouette5p@huffingtonpost.com', '971-905-1381', 772690, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tomi', 'Wheeldon', '10090 Manitowish Road', 'Columbia', 'South Carolina', 'twheeldon5q@mozilla.org', '803-636-0591', 24146, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fabian', 'Lortz', '1 Browning Place', 'Tulsa', 'Oklahoma', 'flortz5r@stumbleupon.com', '918-870-2940', 519130, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Catlee', 'Ascroft', '978 Aberg Alley', 'Colorado Springs', 'Colorado', 'cascroft5s@globo.com', '719-822-1831', 583876, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emmey', 'Twelvetree', '7 Superior Lane', 'Knoxville', 'Tennessee', 'etwelvetree5t@vk.com', '865-804-3893', 404838, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bertie', 'Shemming', '0627 Pond Hill', 'Sacramento', 'California', 'bshemming5u@whitehouse.gov', '916-655-5885', 453477, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aguie', 'Smittoune', '3312 Kim Place', 'Springfield', 'Ohio', 'asmittoune5v@qq.com', '937-164-1160', 203398, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ysabel', 'Northley', '0224 Steensland Alley', 'Fort Smith', 'Arkansas', 'ynorthley5w@npr.org', '479-988-0943', 940032, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rhys', 'Boleyn', '4651 Toban Pass', 'Topeka', 'Kansas', 'rboleyn5x@typepad.com', '785-564-6380', 775260, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jinny', 'Wallwood', '1041 Cherokee Drive', 'Sunnyvale', 'California', 'jwallwood5y@opensource.org', '408-214-0306', 32539, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sabine', 'Jerratsch', '4890 Stoughton Place', 'York', 'Pennsylvania', 'sjerratsch5z@canalblog.com', '717-848-3463', 963269, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ravid', 'Gulleford', '58 Heath Way', 'Eugene', 'Oregon', 'rgulleford60@t-online.de', '541-257-2962', 574992, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elayne', 'Layton', '1 Arapahoe Way', 'Cleveland', 'Ohio', 'elayton61@jalbum.net', '216-289-5820', 218333, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elsa', 'Sainter', '0402 Darwin Road', 'Atlanta', 'Georgia', 'esainter62@walmart.com', '770-626-9708', 810218, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Odetta', 'Tulley', '6 Golden Leaf Parkway', 'Indianapolis', 'Indiana', 'otulley63@spiegel.de', '317-834-8467', 461711, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ralph', 'D''Alesio', '07421 Utah Trail', 'Salt Lake City', 'Utah', 'rdalesio64@360.cn', '801-152-7284', 971986, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Edi', 'Simoncello', '07 Holmberg Center', 'Port Washington', 'New York', 'esimoncello65@telegraph.co.uk', '516-131-9219', 338287, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shelia', 'Napper', '6 Kinsman Way', 'Long Beach', 'California', 'snapper66@netvibes.com', '310-842-3795', 238438, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Grenville', 'Standell', '100 Rutledge Road', 'Washington', 'District of Columbia', 'gstandell67@nature.com', '202-798-4055', 614249, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Flossie', 'Tingley', '8 Johnson Way', 'Little Rock', 'Arkansas', 'ftingley68@google.de', '501-174-7878', 89083, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Montgomery', 'Shickle', '776 Emmet Place', 'Columbus', 'Georgia', 'mshickle69@forbes.com', '706-933-5181', 536402, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aubrie', 'Kloser', '59560 Novick Terrace', 'Buffalo', 'New York', 'akloser6a@google.pl', '716-809-1103', 87555, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Deina', 'Crosskill', '2 Doe Crossing Court', 'Huntington', 'West Virginia', 'dcrosskill6b@dailymotion.com', '304-740-3074', 801283, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Estrella', 'Reap', '54 Summit Circle', 'Johnstown', 'Pennsylvania', 'ereap6c@cpanel.net', '814-378-4933', 642154, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Herta', 'Szymanowski', '4491 Melrose Court', 'Sacramento', 'California', 'hszymanowski6d@cmu.edu', '916-129-3020', 498091, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lesli', 'Muress', '43310 Kensington Lane', 'San Jose', 'California', 'lmuress6e@fotki.com', '408-258-9301', 394923, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Yuma', 'Southwood', '28694 Parkside Circle', 'Arlington', 'Virginia', 'ysouthwood6f@feedburner.com', '571-603-1147', 475177, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Perkin', 'Pucker', '494 Lerdahl Hill', 'Charleston', 'West Virginia', 'ppucker6g@washington.edu', '304-510-6709', 156276, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jermaine', 'Walshe', '12 Talmadge Crossing', 'Fresno', 'California', 'jwalshe6h@liveinternet.ru', '559-840-1572', 521646, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emily', 'Thurber', '418 Leroy Alley', 'Bloomington', 'Illinois', 'ethurber6i@wikipedia.org', '309-800-2221', 504924, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mara', 'Swaddle', '2 Forest Street', 'Fort Worth', 'Texas', 'mswaddle6j@smugmug.com', '682-877-4382', 238565, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Morten', 'L''argent', '6 Colorado Junction', 'Anderson', 'South Carolina', 'mlargent6k@google.com.au', '864-867-3177', 844489, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lisabeth', 'Linturn', '4755 Aberg Plaza', 'Miami', 'Florida', 'llinturn6l@smugmug.com', '305-830-2529', 167963, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Miranda', 'Goodread', '658 Delaware Alley', 'Waltham', 'Massachusetts', 'mgoodread6m@hc360.com', '508-356-9212', 234196, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Zsa zsa', 'Struys', '145 Mockingbird Crossing', 'Sandy', 'Utah', 'zstruys6n@cafepress.com', '801-868-2974', 291376, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Silvanus', 'Olligan', '06195 Glacier Hill Trail', 'Grand Junction', 'Colorado', 'solligan6o@soundcloud.com', '970-309-4774', 868982, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jinny', 'Franchyonok', '5728 Ramsey Place', 'Houston', 'Texas', 'jfranchyonok6p@sakura.ne.jp', '713-242-7175', 42319, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Diego', 'Ivankov', '309 Arrowood Parkway', 'Baltimore', 'Maryland', 'divankov6q@mediafire.com', '410-134-0386', 334299, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ame', 'Rafter', '9327 Golden Leaf Drive', 'Loretto', 'Minnesota', 'arafter6r@java.com', '763-375-1544', 24607, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sally', 'Fri', '04952 Crowley Circle', 'Sarasota', 'Florida', 'sfri6s@loc.gov', '941-111-5746', 597347, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Joela', 'Langman', '76 Prentice Crossing', 'Lancaster', 'California', 'jlangman6t@themeforest.net', '661-994-4965', 732809, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Edik', 'Sebley', '6848 Novick Alley', 'Winston Salem', 'North Carolina', 'esebley6u@sakura.ne.jp', '336-502-1524', 342708, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nathaniel', 'Stenning', '03 Dwight Street', 'Minneapolis', 'Minnesota', 'nstenning6v@google.ca', '952-317-4727', 640108, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carney', 'Mazin', '622 Green Place', 'Birmingham', 'Alabama', 'cmazin6w@networkadvertising.org', '205-174-8117', 142838, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marmaduke', 'Dupey', '873 Waubesa Point', 'Aiken', 'South Carolina', 'mdupey6x@nydailynews.com', '803-553-7631', 809164, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mirabelle', 'Dabes', '795 Bartillon Way', 'Lexington', 'Kentucky', 'mdabes6y@toplist.cz', '859-175-8253', 638388, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Orelle', 'Blaksland', '0 Forest Dale Trail', 'Peoria', 'Illinois', 'oblaksland6z@1und1.de', '309-130-1761', 626074, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Christine', 'Oglesbee', '00087 Coolidge Court', 'Washington', 'District of Columbia', 'coglesbee70@sitemeter.com', '202-327-9827', 22351, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Katharina', 'Hurton', '57 Hoepker Alley', 'Cumming', 'Georgia', 'khurton71@salon.com', '706-551-6301', 935892, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dew', 'Mordacai', '25 Arrowood Alley', 'Miami', 'Florida', 'dmordacai72@squarespace.com', '786-495-6498', 576680, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Layne', 'Novakovic', '092 Springs Alley', 'Fort Lauderdale', 'Florida', 'lnovakovic73@spiegel.de', '954-761-2567', 174950, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Katti', 'Naul', '23928 Cottonwood Lane', 'Chicago', 'Illinois', 'knaul74@aol.com', '312-435-4947', 89082, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elroy', 'Stowell', '5166 Dahle Place', 'Fresno', 'California', 'estowell75@sciencedaily.com', '559-296-1465', 292427, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Boot', 'Borrowman', '377 Lake View Way', 'Fairfax', 'Virginia', 'bborrowman76@netvibes.com', '571-807-3617', 170620, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Georgianne', 'Bleesing', '88365 Arapahoe Plaza', 'El Paso', 'Texas', 'gbleesing77@webs.com', '915-250-1104', 710069, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Conrad', 'Stienton', '8 Mandrake Street', 'Silver Spring', 'Maryland', 'cstienton78@google.com', '240-483-7737', 449768, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mirabelle', 'Blackie', '443 Kedzie Road', 'Saint Louis', 'Missouri', 'mblackie79@behance.net', '314-496-9941', 152552, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Orella', 'Labram', '791 Roxbury Place', 'Worcester', 'Massachusetts', 'olabram7a@nba.com', '508-536-1134', 737359, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Angele', 'Peirazzi', '2846 Sage Lane', 'Beaumont', 'Texas', 'apeirazzi7b@ft.com', '936-535-1540', 838191, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tanya', 'Trevena', '4592 Oxford Center', 'Amarillo', 'Texas', 'ttrevena7c@domainmarket.com', '806-771-1037', 570443, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Zena', 'Youell', '978 Stephen Drive', 'Salt Lake City', 'Utah', 'zyouell7d@icq.com', '801-358-3051', 925049, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Andree', 'Mews', '954 Doe Crossing Lane', 'Kansas City', 'Missouri', 'amews7e@technorati.com', '816-861-5535', 312571, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wenda', 'Armin', '2 Moulton Alley', 'Lexington', 'Kentucky', 'warmin7f@umich.edu', '859-558-5033', 829426, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Candi', 'Murdy', '45223 Erie Court', 'New York City', 'New York', 'cmurdy7g@dion.ne.jp', '212-796-9626', 963909, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Peyton', 'Ridesdale', '23528 Fairview Way', 'Prescott', 'Arizona', 'pridesdale7h@wiley.com', '928-975-7144', 110867, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pauletta', 'Brainsby', '450 Darwin Street', 'Washington', 'District of Columbia', 'pbrainsby7i@biglobe.ne.jp', '202-623-7585', 756585, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meara', 'Penwarden', '8 Quincy Court', 'Birmingham', 'Alabama', 'mpenwarden7j@thetimes.co.uk', '205-851-9748', 919365, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Erl', 'Spickett', '0607 Derek Circle', 'Honolulu', 'Hawaii', 'espickett7k@mozilla.com', '808-779-3383', 193303, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Simonette', 'Sleigh', '0784 Mifflin Terrace', 'Philadelphia', 'Pennsylvania', 'ssleigh7l@dagondesign.com', '215-668-5286', 142344, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Colette', 'Espadero', '1 Steensland Crossing', 'Suffolk', 'Virginia', 'cespadero7m@amazon.co.jp', '757-812-9592', 282559, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cchaddie', 'Wayman', '414 John Wall Center', 'Aurora', 'Colorado', 'cwayman7n@google.pl', '303-456-4219', 326343, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Melicent', 'Seggie', '00705 Crescent Oaks Trail', 'Brooklyn', 'New York', 'mseggie7o@sogou.com', '718-998-3822', 598419, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Koralle', 'Wildey', '5 Kenwood Place', 'Albany', 'New York', 'kwildey7p@salon.com', '518-517-2197', 683798, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Angie', 'Arnald', '0 Quincy Way', 'Tucson', 'Arizona', 'aarnald7q@webmd.com', '520-871-9513', 930719, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eleni', 'Ferraresi', '94 Ramsey Point', 'Montgomery', 'Alabama', 'eferraresi7r@plala.or.jp', '334-369-5533', 122835, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dorian', 'Conkay', '03971 Jenna Court', 'Chicago', 'Illinois', 'dconkay7s@narod.ru', '312-594-2475', 871247, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kathlin', 'Inglefield', '70969 Fairfield Circle', 'El Paso', 'Texas', 'kinglefield7t@google.cn', '915-949-7045', 972457, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Britta', 'Corter', '811 Golf View Avenue', 'Roanoke', 'Virginia', 'bcorter7u@utexas.edu', '540-254-2381', 255472, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Caitlin', 'Paddemore', '972 Waxwing Road', 'Wilmington', 'Delaware', 'cpaddemore7v@tripod.com', '302-217-3275', 544179, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Erv', 'Buttfield', '956 Lukken Terrace', 'Chicago', 'Illinois', 'ebuttfield7w@ted.com', '312-714-2822', 997589, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cornie', 'Bestwall', '0421 Dapin Circle', 'Spokane', 'Washington', 'cbestwall7x@cocolog-nifty.com', '509-741-8899', 619221, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Heath', 'Robuchon', '9 Commercial Drive', 'Anderson', 'South Carolina', 'hrobuchon7y@yelp.com', '864-694-3170', 310890, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Edvard', 'Cohane', '11 2nd Road', 'Birmingham', 'Alabama', 'ecohane7z@tumblr.com', '205-448-8658', 88559, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Timothy', 'Wetherill', '37840 Columbus Trail', 'Hayward', 'California', 'twetherill80@people.com.cn', '925-613-3840', 645395, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Boyd', 'Domesday', '5809 Mayer Park', 'Reading', 'Pennsylvania', 'bdomesday81@woothemes.com', '484-894-1933', 429965, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lyndsie', 'Feldklein', '1 Springs Place', 'Miami', 'Florida', 'lfeldklein82@baidu.com', '305-681-5800', 634891, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Benn', 'Doggart', '72 3rd Street', 'Tucson', 'Arizona', 'bdoggart83@hhs.gov', '520-834-8544', 920197, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Isak', 'Januszewicz', '5756 International Center', 'Charlotte', 'North Carolina', 'ijanuszewicz84@salon.com', '704-183-4067', 507799, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Doralynne', 'Hammond', '77 Springview Road', 'Bismarck', 'North Dakota', 'dhammond85@ftc.gov', '701-111-2351', 630536, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tracy', 'Lochead', '27305 Stang Lane', 'Oakland', 'California', 'tlochead86@indiatimes.com', '510-515-4205', 518085, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Whit', 'Macrow', '541 Toban Avenue', 'Schenectady', 'New York', 'wmacrow87@t-online.de', '518-997-1708', 963818, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wallache', 'Gibbons', '96610 Dexter Lane', 'Akron', 'Ohio', 'wgibbons88@storify.com', '330-580-8130', 456662, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Anetta', 'Coyle', '02 Union Hill', 'Charlotte', 'North Carolina', 'acoyle89@wired.com', '704-637-3077', 586138, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Karel', 'Pechet', '9 Coolidge Parkway', 'Daytona Beach', 'Florida', 'kpechet8a@harvard.edu', '386-876-5201', 890109, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Javier', 'Shann', '654 Lillian Trail', 'Norwalk', 'Connecticut', 'jshann8b@privacy.gov.au', '203-170-3630', 536718, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Amitie', 'Orrah', '5223 Scott Avenue', 'Chicago', 'Illinois', 'aorrah8c@squidoo.com', '312-705-6574', 191584, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Phineas', 'Gogie', '14 Barnett Street', 'Saint Louis', 'Missouri', 'pgogie8d@tripod.com', '314-964-3664', 901577, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jilli', 'Doulton', '53 Gerald Drive', 'El Paso', 'Texas', 'jdoulton8e@pen.io', '915-394-5171', 264061, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Onfre', 'Middis', '4413 Express Court', 'Orlando', 'Florida', 'omiddis8f@bbb.org', '407-780-5029', 788250, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dar', 'Obern', '120 Debs Place', 'Lafayette', 'Louisiana', 'dobern8g@last.fm', '337-441-4563', 561568, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Harriot', 'Hazell', '3350 Fieldstone Point', 'Colorado Springs', 'Colorado', 'hhazell8h@squidoo.com', '719-485-9831', 874102, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Benny', 'Abbyss', '6703 Welch Circle', 'Hartford', 'Connecticut', 'babbyss8i@ucla.edu', '203-458-5454', 519367, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alon', 'Crayton', '43239 Hanover Junction', 'Bradenton', 'Florida', 'acrayton8j@icq.com', '941-772-5227', 962770, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gisele', 'Blaxall', '47918 Golf Way', 'Tucson', 'Arizona', 'gblaxall8k@slashdot.org', '520-523-8867', 697828, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Orelia', 'Gianelli', '76471 Barby Place', 'Johnstown', 'Pennsylvania', 'ogianelli8l@icio.us', '814-622-7542', 334948, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pammi', 'Trevear', '02 Oxford Place', 'Madison', 'Wisconsin', 'ptrevear8m@cloudflare.com', '608-917-3291', 729485, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rayner', 'Elcum', '93568 Bashford Center', 'Flushing', 'New York', 'relcum8n@phoca.cz', '718-764-5275', 747779, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clemente', 'Hinrichs', '9 Meadow Valley Street', 'Tampa', 'Florida', 'chinrichs8o@wp.com', '813-206-8798', 476019, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Genevra', 'Orcas', '95 Dixon Point', 'Pittsburgh', 'Pennsylvania', 'gorcas8p@meetup.com', '412-609-9303', 737936, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Berry', 'Badby', '612 Springs Drive', 'Nashville', 'Tennessee', 'bbadby8q@ebay.com', '615-188-0394', 886057, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sanford', 'Jockle', '591 Emmet Plaza', 'San Antonio', 'Texas', 'sjockle8r@barnesandnoble.com', '210-581-1290', 805032, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nickolas', 'Grute', '211 Riverside Center', 'Houston', 'Texas', 'ngrute8s@sbwire.com', '713-235-0657', 875847, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Berenice', 'Limon', '617 Melrose Way', 'Miami', 'Florida', 'blimon8t@usnews.com', '786-969-0937', 962472, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jewelle', 'Gleave', '38 Rockefeller Circle', 'Boston', 'Massachusetts', 'jgleave8u@wikispaces.com', '318-618-5919', 348576, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Simona', 'Bromige', '9 Golden Leaf Circle', 'South Bend', 'Indiana', 'sbromige8v@lycos.com', '574-219-0248', 744999, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Janessa', 'Hickisson', '376 Bluestem Lane', 'Reston', 'Virginia', 'jhickisson8w@istockphoto.com', '571-506-0670', 720284, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gale', 'Gleeson', '56 Warner Street', 'Philadelphia', 'Pennsylvania', 'ggleeson8x@gmpg.org', '215-546-0192', 853928, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bill', 'Hallad', '75837 Grover Circle', 'Portland', 'Oregon', 'bhallad8y@aol.com', '503-741-3928', 818089, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cass', 'Schoolfield', '2510 Chive Lane', 'Mesa', 'Arizona', 'cschoolfield8z@about.me', '480-109-9501', 661359, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marline', 'Pettegre', '0762 Kenwood Crossing', 'Saint Louis', 'Missouri', 'mpettegre90@ocn.ne.jp', '314-672-3800', 459656, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wendel', 'Baake', '61929 Clemons Place', 'Amarillo', 'Texas', 'wbaake91@techcrunch.com', '806-840-4975', 963993, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Glori', 'Reinhardt', '8904 Cherokee Plaza', 'El Paso', 'Texas', 'greinhardt92@dedecms.com', '915-236-4391', 434735, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Barrett', 'Passion', '47125 International Lane', 'Louisville', 'Kentucky', 'bpassion93@google.cn', '502-277-2628', 555198, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ailey', 'Mulhill', '861 Marcy Park', 'Pittsburgh', 'Pennsylvania', 'amulhill94@studiopress.com', '412-960-3273', 817040, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ed', 'Matanin', '02 Cottonwood Center', 'Tampa', 'Florida', 'ematanin95@phoca.cz', '813-668-2646', 680907, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Babette', 'Targe', '1518 Maple Wood Pass', 'Los Angeles', 'California', 'btarge96@altervista.org', '213-946-6786', 865610, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Felita', 'Sudell', '052 Farwell Plaza', 'Monroe', 'Louisiana', 'fsudell97@bravesites.com', '318-816-4368', 115126, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Reamonn', 'Fleay', '2671 Helena Alley', 'Austin', 'Texas', 'rfleay98@narod.ru', '512-825-6028', 612877, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carleton', 'Kealey', '4911 Melby Lane', 'Pittsburgh', 'Pennsylvania', 'ckealey99@buzzfeed.com', '412-228-9576', 341026, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hasheem', 'Audenis', '7824 Drewry Hill', 'Levittown', 'Pennsylvania', 'haudenis9a@businessinsider.com', '267-136-2608', 902117, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lefty', 'Winfindine', '85 Melby Park', 'Columbia', 'South Carolina', 'lwinfindine9b@cbslocal.com', '803-812-7628', 162863, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sal', 'Kurtis', '657 Daystar Road', 'Nashville', 'Tennessee', 'skurtis9c@a8.net', '615-753-0884', 536136, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Royal', 'Tree', '8 Comanche Road', 'Wichita Falls', 'Texas', 'rtree9d@google.ca', '940-668-0034', 713495, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aloysius', 'Choak', '2474 Dexter Road', 'Jamaica', 'New York', 'achoak9e@salon.com', '718-583-0951', 383497, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Randolf', 'Vickors', '85641 Springview Lane', 'Hollywood', 'Florida', 'rvickors9f@purevolume.com', '954-482-9403', 305690, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mamie', 'Kinton', '7684 Northfield Junction', 'Boulder', 'Colorado', 'mkinton9g@lulu.com', '303-918-9020', 370116, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Linda', 'Murley', '9688 Delladonna Terrace', 'Pittsburgh', 'Pennsylvania', 'lmurley9h@gov.uk', '412-368-4461', 901387, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gianna', 'Klimek', '68 Lien Parkway', 'Alpharetta', 'Georgia', 'gklimek9i@devhub.com', '678-189-4523', 812410, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bebe', 'Fedorchenko', '6 Green Ridge Court', 'Honolulu', 'Hawaii', 'bfedorchenko9j@blogs.com', '808-142-3061', 451108, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Janie', 'Popple', '044 Thompson Parkway', 'El Paso', 'Texas', 'jpopple9k@sina.com.cn', '915-227-1881', 380144, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lesley', 'Fenner', '030 Montana Circle', 'Phoenix', 'Arizona', 'lfenner9l@icio.us', '602-331-2858', 92321, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jennette', 'Faley', '42720 Messerschmidt Drive', 'Gaithersburg', 'Maryland', 'jfaley9m@mayoclinic.com', '240-972-3265', 472968, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nertie', 'Gluyas', '683 Mifflin Avenue', 'Moreno Valley', 'California', 'ngluyas9n@google.nl', '951-429-0249', 361740, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chelsae', 'Shear', '49142 Blue Bill Park Drive', 'Hagerstown', 'Maryland', 'cshear9o@scientificamerican.com', '240-646-5173', 546507, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('William', 'Spriggin', '0 Autumn Leaf Lane', 'Wichita', 'Kansas', 'wspriggin9p@mtv.com', '316-401-9736', 354810, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Doro', 'Billett', '83987 Cardinal Center', 'Canton', 'Ohio', 'dbillett9q@yale.edu', '234-992-6376', 401844, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Philomena', 'Trehearne', '4178 Arapahoe Way', 'Pittsburgh', 'Pennsylvania', 'ptrehearne9r@lycos.com', '412-809-6985', 500357, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Juliane', 'Livens', '1352 Johnson Junction', 'Englewood', 'Colorado', 'jlivens9s@utexas.edu', '303-558-3186', 402071, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jania', 'Casillas', '610 Arapahoe Pass', 'Honolulu', 'Hawaii', 'jcasillas9t@businessinsider.com', '808-326-5446', 165646, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ravid', 'Pallasch', '97 Lotheville Drive', 'Brooklyn', 'New York', 'rpallasch9u@nifty.com', '212-147-4792', 958304, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Darci', 'Bates', '20872 Green Ridge Way', 'Temple', 'Texas', 'dbates9v@uiuc.edu', '254-509-0583', 470313, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Paulita', 'Gillum', '94540 Paget Terrace', 'Washington', 'District of Columbia', 'pgillum9w@wired.com', '202-222-1066', 391556, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Les', 'Engelbrecht', '77662 Oneill Point', 'Paterson', 'New Jersey', 'lengelbrecht9x@webs.com', '862-298-7299', 602926, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emmie', 'Hadaway', '5 Briar Crest Park', 'Tucson', 'Arizona', 'ehadaway9y@bigcartel.com', '520-262-9597', 144901, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shaun', 'Heffy', '5 Lake View Alley', 'Chicago', 'Illinois', 'sheffy9z@google.ca', '773-230-3470', 702863, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jaquenetta', 'Stuttman', '556 International Point', 'Miami', 'Florida', 'jstuttmana0@epa.gov', '305-539-4325', 71758, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maddy', 'Georgel', '6845 Florence Park', 'Abilene', 'Texas', 'mgeorgela1@sbwire.com', '325-211-4450', 902701, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Venus', 'Tarbett', '04608 Schiller Way', 'Denver', 'Colorado', 'vtarbetta2@unicef.org', '720-336-4079', 539239, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Peadar', 'Shotter', '7827 Badeau Way', 'Palmdale', 'California', 'pshottera3@photobucket.com', '661-127-7580', 711607, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ellynn', 'Parmenter', '063 Kensington Terrace', 'Pittsburgh', 'Pennsylvania', 'eparmentera4@washington.edu', '724-472-9198', 537017, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hillary', 'MacIllrick', '873 Kinsman Place', 'Chattanooga', 'Tennessee', 'hmacillricka5@acquirethisname.com', '423-735-7850', 539112, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Linda', 'Duckitt', '27 Forster Hill', 'Hampton', 'Virginia', 'lduckitta6@prnewswire.com', '757-736-7888', 384980, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Zachary', 'Quadrio', '2 Warrior Terrace', 'Santa Rosa', 'California', 'zquadrioa7@ustream.tv', '707-819-5525', 975871, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Annabela', 'Wixon', '93 Melvin Way', 'Tampa', 'Florida', 'awixona8@tinypic.com', '813-690-6330', 940537, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Julieta', 'Tillett', '846 Tony Lane', 'Prescott', 'Arizona', 'jtilletta9@wikimedia.org', '928-149-1061', 716743, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Benedicta', 'Hurn', '05729 Tony Lane', 'Jamaica', 'New York', 'bhurnaa@canalblog.com', '212-412-3998', 75578, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Katalin', 'Tregidga', '8 Del Mar Avenue', 'Tampa', 'Florida', 'ktregidgaab@jiathis.com', '813-746-4670', 722262, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lucas', 'Crank', '34975 Reinke Plaza', 'Wichita', 'Kansas', 'lcrankac@ucla.edu', '316-293-6293', 717274, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lyndsey', 'Cowterd', '713 Petterle Pass', 'Miami', 'Florida', 'lcowterdad@google.pl', '786-795-0623', 774160, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jaimie', 'Venmore', '98418 Monument Alley', 'Hartford', 'Connecticut', 'jvenmoreae@skyrock.com', '860-396-5577', 913857, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wendie', 'Lardge', '1310 Erie Lane', 'Tulsa', 'Oklahoma', 'wlardgeaf@xrea.com', '918-668-1353', 433761, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Livvyy', 'MacKinnon', '10905 Prentice Street', 'San Francisco', 'California', 'lmackinnonag@admin.ch', '858-988-5726', 40304, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Othello', 'Sesser', '5 Anthes Terrace', 'Albany', 'New York', 'osesserah@naver.com', '518-700-4593', 760033, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dominique', 'Mayward', '17 Corry Lane', 'Tucson', 'Arizona', 'dmaywardai@independent.co.uk', '520-839-9250', 163967, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Courtnay', 'Dalinder', '619 Tony Junction', 'Seattle', 'Washington', 'cdalinderaj@census.gov', '425-965-0429', 768490, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Filippa', 'Heselwood', '04047 Autumn Leaf Parkway', 'Boca Raton', 'Florida', 'fheselwoodak@accuweather.com', '305-635-4017', 521787, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rosamond', 'Corcoran', '2 Veith Circle', 'Norwalk', 'Connecticut', 'rcorcoranal@google.com', '203-262-0476', 481113, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Orella', 'Balwin', '8 Dwight Parkway', 'Wichita', 'Kansas', 'obalwinam@surveymonkey.com', '316-902-6418', 887358, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Neron', 'Cogin', '4281 Lindbergh Court', 'Atlanta', 'Georgia', 'ncoginan@mapquest.com', '404-828-5283', 634945, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ozzie', 'Toffanelli', '44 Butterfield Alley', 'Melbourne', 'Florida', 'otoffanelliao@rakuten.co.jp', '321-255-6732', 803360, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ileana', 'Have', '906 Sachs Court', 'Lima', 'Ohio', 'ihaveap@meetup.com', '419-133-0267', 557546, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chicky', 'Arbuckel', '44829 Monterey Road', 'Springfield', 'Massachusetts', 'carbuckelaq@jigsy.com', '413-842-5153', 128272, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Farris', 'Wharlton', '5 Schmedeman Junction', 'North Port', 'Florida', 'fwharltonar@bing.com', '941-284-9618', 723462, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mordecai', 'Trenaman', '3 Milwaukee Drive', 'Newport Beach', 'California', 'mtrenamanas@patch.com', '714-538-2056', 315761, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marni', 'Menauteau', '08847 Novick Drive', 'Wilmington', 'Delaware', 'mmenauteauat@google.com.au', '302-482-3275', 170747, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rosemaria', 'Tomaselli', '9619 Columbus Parkway', 'Houston', 'Texas', 'rtomaselliau@java.com', '281-411-9978', 969823, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Humberto', 'Bidgod', '8264 Monica Avenue', 'Gainesville', 'Florida', 'hbidgodav@soup.io', '352-943-4915', 942036, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kristin', 'Highwood', '90 Jana Place', 'Jersey City', 'New Jersey', 'khighwoodaw@sun.com', '908-587-5811', 326133, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bud', 'Jurek', '30095 School Pass', 'Orlando', 'Florida', 'bjurekax@timesonline.co.uk', '321-784-8764', 903055, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maryjo', 'Ferreira', '50 Warrior Pass', 'Sacramento', 'California', 'mferreiraay@tinyurl.com', '916-447-4946', 636167, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Porty', 'Shewsmith', '9629 Hanover Alley', 'Chicago', 'Illinois', 'pshewsmithaz@bing.com', '847-262-0245', 570103, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('April', 'Oakenford', '1 Badeau Trail', 'Killeen', 'Texas', 'aoakenfordb0@dot.gov', '254-523-6097', 392615, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Donica', 'Prescot', '801 Algoma Trail', 'Springfield', 'Illinois', 'dprescotb1@narod.ru', '217-329-7152', 556142, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wang', 'Kerbler', '7 Maple Plaza', 'Brooklyn', 'New York', 'wkerblerb2@blogspot.com', '347-369-3235', 764370, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Frank', 'Taudevin', '3256 Elmside Crossing', 'Peoria', 'Illinois', 'ftaudevinb3@goo.ne.jp', '309-464-9657', 74359, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jania', 'Realph', '6 Susan Trail', 'Elizabeth', 'New Jersey', 'jrealphb4@opera.com', '908-775-2705', 528663, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chrissie', 'Tibbetts', '75 Pawling Trail', 'Shawnee Mission', 'Kansas', 'ctibbettsb5@hhs.gov', '913-138-1814', 834606, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Trina', 'Shepard', '2 Walton Point', 'Saint Louis', 'Missouri', 'tshepardb6@hc360.com', '314-558-2469', 62616, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Edithe', 'Acum', '03335 Shoshone Court', 'Erie', 'Pennsylvania', 'eacumb7@com.com', '814-170-5609', 248779, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Corbie', 'Gobert', '393 Burning Wood Avenue', 'Youngstown', 'Ohio', 'cgobertb8@seesaa.net', '330-335-7735', 370466, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Francoise', 'Kolak', '557 Oak Valley Trail', 'Houston', 'Texas', 'fkolakb9@gnu.org', '713-810-7732', 525597, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vitoria', 'Klimontovich', '650 Chinook Parkway', 'Danbury', 'Connecticut', 'vklimontovichba@artisteer.com', '203-294-9101', 306196, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shandie', 'Masden', '2 Lighthouse Bay Crossing', 'Chesapeake', 'Virginia', 'smasdenbb@prweb.com', '757-966-1536', 36412, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Roshelle', 'Keeltagh', '4183 Nancy Hill', 'Atlanta', 'Georgia', 'rkeeltaghbc@is.gd', '404-111-4038', 829436, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dasie', 'McGeneay', '5 Southridge Junction', 'Springfield', 'Virginia', 'dmcgeneaybd@zdnet.com', '571-445-7371', 96767, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alyssa', 'Bispo', '08665 Rigney Circle', 'Santa Barbara', 'California', 'abispobe@npr.org', '805-446-4561', 184345, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nicolis', 'Orht', '65 Dryden Crossing', 'Waco', 'Texas', 'norhtbf@tmall.com', '254-720-9145', 147906, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Trudie', 'Andrejs', '3976 Sunbrook Trail', 'Fresno', 'California', 'tandrejsbg@issuu.com', '559-911-5735', 922274, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Padgett', 'Casement', '93789 Hooker Pass', 'Lincoln', 'Nebraska', 'pcasementbh@a8.net', '402-947-2230', 385822, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Frederic', 'Lentsch', '2277 Talisman Point', 'Omaha', 'Nebraska', 'flentschbi@goodreads.com', '402-864-8387', 440479, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Land', 'Pepper', '1406 Swallow Trail', 'Green Bay', 'Wisconsin', 'lpepperbj@hugedomains.com', '920-778-6868', 72694, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pen', 'Gostling', '9 Bunker Hill Point', 'Spartanburg', 'South Carolina', 'pgostlingbk@yelp.com', '864-843-0018', 136787, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fredra', 'Brunstan', '89 Florence Point', 'Tampa', 'Florida', 'fbrunstanbl@pagesperso-orange.fr', '813-882-3246', 975246, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elie', 'Branston', '154 Gerald Alley', 'Spokane', 'Washington', 'ebranstonbm@cbc.ca', '509-488-2121', 377897, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Weston', 'O''Caine', '438 Ronald Regan Park', 'Los Angeles', 'California', 'wocainebn@arizona.edu', '213-148-7354', 596624, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jerri', 'Spellesy', '118 Transport Crossing', 'Toledo', 'Ohio', 'jspellesybo@deviantart.com', '419-723-1936', 941221, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gwyneth', 'Wingar', '5 Miller Drive', 'Tucson', 'Arizona', 'gwingarbp@patch.com', '520-436-7055', 624463, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Prissie', 'Zylberdik', '517 Bartelt Place', 'Sioux Falls', 'South Dakota', 'pzylberdikbq@biglobe.ne.jp', '605-358-7396', 718364, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Myrwyn', 'Arnault', '990 Grasskamp Drive', 'Sacramento', 'California', 'marnaultbr@ehow.com', '916-897-5202', 542783, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Berty', 'Boness', '629 Bellgrove Crossing', 'Mobile', 'Alabama', 'bbonessbs@ihg.com', '251-997-2795', 966730, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Raul', 'Lurriman', '1 Bayside Way', 'Honolulu', 'Hawaii', 'rlurrimanbt@tamu.edu', '808-517-9715', 491877, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Halie', 'Harverson', '210 Hauk Street', 'Los Angeles', 'California', 'hharversonbu@google.com', '213-782-5120', 442565, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Everett', 'Gouge', '03658 Mayer Way', 'Washington', 'District of Columbia', 'egougebv@state.tx.us', '202-245-2171', 917520, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jacky', 'Scoines', '2 Towne Road', 'Saint Paul', 'Minnesota', 'jscoinesbw@example.com', '651-327-9749', 428886, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Trev', 'Colson', '2341 Transport Circle', 'Gainesville', 'Florida', 'tcolsonbx@psu.edu', '352-442-7892', 465962, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tiebout', 'Berrick', '1577 Lien Pass', 'Fairbanks', 'Alaska', 'tberrickby@exblog.jp', '907-407-5092', 155196, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mollee', 'Phaup', '7752 Red Cloud Junction', 'Miami', 'Florida', 'mphaupbz@cafepress.com', '305-991-8678', 676087, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Michel', 'Kikke', '27267 Bartillon Park', 'Jersey City', 'New Jersey', 'mkikkec0@indiatimes.com', '201-737-6591', 422189, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Issiah', 'Cockerell', '9 Golf Course Court', 'San Diego', 'California', 'icockerellc1@fastcompany.com', '619-159-5666', 333986, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kerrie', 'Tomadoni', '83 1st Trail', 'Los Angeles', 'California', 'ktomadonic2@chron.com', '213-264-0532', 486135, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('James', 'Hudleston', '7 Knutson Drive', 'Akron', 'Ohio', 'jhudlestonc3@etsy.com', '330-709-5312', 184329, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Julianna', 'Westwood', '98318 Rockefeller Lane', 'Dayton', 'Ohio', 'jwestwoodc4@surveymonkey.com', '937-192-8745', 916034, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meier', 'Duddle', '97 Namekagon Plaza', 'Wilmington', 'Delaware', 'mduddlec5@google.de', '302-514-1909', 375485, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Angeline', 'Fivey', '6995 Evergreen Point', 'Philadelphia', 'Pennsylvania', 'afiveyc6@patch.com', '215-296-1946', 940286, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Morley', 'Rove', '445 Sheridan Road', 'Toledo', 'Ohio', 'mrovec7@squidoo.com', '419-970-1207', 247204, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tamarra', 'Staziker', '7687 Service Lane', 'Washington', 'District of Columbia', 'tstazikerc8@forbes.com', '202-682-7092', 973729, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Daisi', 'Coghlan', '6526 Ronald Regan Park', 'Metairie', 'Louisiana', 'dcoghlanc9@gizmodo.com', '504-807-3210', 774330, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alvin', 'Huortic', '1169 Warrior Parkway', 'Brooklyn', 'New York', 'ahuorticca@xinhuanet.com', '347-980-4690', 978716, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Angie', 'Hurren', '3204 Everett Park', 'Winston Salem', 'North Carolina', 'ahurrencb@java.com', '336-723-4508', 171605, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Padget', 'Malecky', '8467 Melby Way', 'Charleston', 'South Carolina', 'pmaleckycc@opera.com', '843-716-7047', 528454, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mariya', 'Cast', '3080 Eagle Crest Alley', 'Denver', 'Colorado', 'mcastcd@amazon.co.jp', '720-402-7374', 711435, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Henri', 'Cottem', '9681 Division Center', 'Dallas', 'Texas', 'hcottemce@telegraph.co.uk', '469-457-0729', 607418, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Renard', 'Gravet', '3 Pond Hill', 'New York City', 'New York', 'rgravetcf@mapquest.com', '646-703-0495', 537719, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nerti', 'Wiltshire', '4 Sutteridge Junction', 'Lubbock', 'Texas', 'nwiltshirecg@alibaba.com', '806-190-8729', 998255, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ruth', 'Nern', '3 Killdeer Pass', 'New York City', 'New York', 'rnernch@spotify.com', '917-798-8641', 151364, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ceil', 'St. Louis', '9052 Pleasure Circle', 'San Jose', 'California', 'cstlouisci@hhs.gov', '408-905-5208', 43458, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Reeva', 'Hawke', '14 Westport Lane', 'Tulsa', 'Oklahoma', 'rhawkecj@liveinternet.ru', '918-739-6075', 754660, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maible', 'Erat', '9 Schlimgen Plaza', 'Miami Beach', 'Florida', 'meratck@so-net.ne.jp', '305-990-1394', 209958, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Trisha', 'Henrichsen', '961 Westport Plaza', 'Tampa', 'Florida', 'thenrichsencl@zimbio.com', '813-941-1611', 14319, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ulrick', 'd'' Eye', '6508 Mallory Circle', 'Atlanta', 'Georgia', 'udeyecm@live.com', '404-577-1234', 186596, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tobit', 'Squeers', '693 Vermont Hill', 'El Paso', 'Texas', 'tsqueerscn@newyorker.com', '915-347-1613', 93177, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Roderich', 'Petschel', '02773 Chinook Hill', 'Boise', 'Idaho', 'rpetschelco@globo.com', '208-620-2706', 167908, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Caro', 'Shower', '5935 Hauk Street', 'Long Beach', 'California', 'cshowercp@wired.com', '562-860-8188', 308222, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kerr', 'Perigeaux', '853 Glacier Hill Trail', 'Lancaster', 'California', 'kperigeauxcq@mail.ru', '661-192-4290', 974445, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Karlyn', 'Dummigan', '7 Banding Point', 'Mesa', 'Arizona', 'kdummigancr@miibeian.gov.cn', '602-102-4991', 488556, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hailee', 'Rickeard', '2342 Hudson Circle', 'Nashville', 'Tennessee', 'hrickeardcs@vistaprint.com', '615-418-3656', 913390, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jazmin', 'Scully', '73044 Waxwing Park', 'Atlanta', 'Georgia', 'jscullyct@dagondesign.com', '404-458-6891', 122748, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cornelius', 'Edmondson', '68 Basil Lane', 'Madison', 'Wisconsin', 'cedmondsoncu@slashdot.org', '608-965-4542', 604052, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Avram', 'Frissell', '23201 Sutteridge Circle', 'Seminole', 'Florida', 'afrissellcv@ameblo.jp', '941-354-3798', 956549, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carmel', 'Veracruysse', '52631 Prairie Rose Crossing', 'Bakersfield', 'California', 'cveracruyssecw@wordpress.com', '661-906-1902', 524613, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bathsheba', 'MacWhan', '84317 Hudson Point', 'Cincinnati', 'Ohio', 'bmacwhancx@geocities.com', '513-612-3265', 310270, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Domeniga', 'Terbruggen', '65 Tony Court', 'Sacramento', 'California', 'dterbruggency@ca.gov', '916-767-7444', 588362, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dmitri', 'Capel', '2648 Commercial Street', 'Utica', 'New York', 'dcapelcz@umn.edu', '315-326-2868', 62920, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maritsa', 'Riha', '41393 Thackeray Drive', 'Jackson', 'Mississippi', 'mrihad0@moonfruit.com', '601-918-2433', 136649, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tadio', 'Grogono', '2 Fallview Crossing', 'Beaverton', 'Oregon', 'tgrogonod1@t.co', '503-779-0373', 423796, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Virginie', 'Hevey', '7 Bellgrove Road', 'Pinellas Park', 'Florida', 'vheveyd2@nyu.edu', '850-787-0042', 462896, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hettie', 'Isaaksohn', '6056 Lyons Center', 'Charleston', 'West Virginia', 'hisaaksohnd3@ucla.edu', '304-623-5542', 727245, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ellene', 'Detheridge', '7 Alpine Alley', 'Danbury', 'Connecticut', 'edetheridged4@hc360.com', '203-951-7031', 129436, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shurwood', 'Caulwell', '74402 Vernon Pass', 'Albany', 'New York', 'scaulwelld5@disqus.com', '518-441-6039', 752531, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Naomi', 'Surphliss', '318 Gale Place', 'Homestead', 'Florida', 'nsurphlissd6@google.ca', '305-482-7110', 693101, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gavrielle', 'Durtnell', '3277 Anthes Way', 'Lansing', 'Michigan', 'gdurtnelld7@pinterest.com', '517-241-9374', 542235, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Stefanie', 'Wilsey', '9690 Pankratz Junction', 'Fort Worth', 'Texas', 'swilseyd8@webmd.com', '682-803-8553', 392724, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Conney', 'Polin', '5475 Rowland Place', 'Albany', 'New York', 'cpolind9@networkadvertising.org', '518-925-1188', 67563, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Munroe', 'Shackel', '333 Milwaukee Crossing', 'Spokane', 'Washington', 'mshackelda@microsoft.com', '509-710-5083', 977525, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rutger', 'Welham', '36584 Eagle Crest Street', 'Saint Louis', 'Missouri', 'rwelhamdb@hibu.com', '636-974-9849', 294266, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sinclair', 'Karpeev', '669 Kinsman Parkway', 'Evansville', 'Indiana', 'skarpeevdc@tripadvisor.com', '812-597-3515', 809075, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lola', 'Rippon', '73899 Prairieview Lane', 'Wilmington', 'North Carolina', 'lrippondd@yandex.ru', '910-618-1208', 223064, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Onofredo', 'Cantrill', '6 Graceland Parkway', 'Great Neck', 'New York', 'ocantrillde@qq.com', '516-901-0983', 32366, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mallissa', 'Salzburg', '7431 Becker Junction', 'Missoula', 'Montana', 'msalzburgdf@timesonline.co.uk', '406-156-4537', 968993, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Danie', 'Yoskowitz', '9744 Summerview Park', 'Tulsa', 'Oklahoma', 'dyoskowitzdg@posterous.com', '918-128-9543', 847674, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lise', 'Banstead', '614 Saint Paul Pass', 'San Francisco', 'California', 'lbansteaddh@theatlantic.com', '415-860-3523', 161416, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Birk', 'Pennazzi', '27393 Fremont Street', 'Fort Wayne', 'Indiana', 'bpennazzidi@nationalgeographic.com', '260-819-4854', 572970, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gates', 'Gaffer', '48145 2nd Center', 'Fullerton', 'California', 'ggafferdj@npr.org', '559-816-8627', 774577, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marsiella', 'Levicount', '800 Delaware Avenue', 'Carson City', 'Nevada', 'mlevicountdk@biblegateway.com', '775-994-0694', 610534, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carlynne', 'Maud', '3 Anzinger Hill', 'Newport Beach', 'California', 'cmauddl@ehow.com', '949-536-1136', 250085, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ermina', 'Bayne', '8 Crescent Oaks Avenue', 'Scranton', 'Pennsylvania', 'ebaynedm@wsj.com', '570-174-0971', 411564, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Juanita', 'Stenett', '58 Farmco Parkway', 'Zephyrhills', 'Florida', 'jstenettdn@ucoz.ru', '813-131-2541', 227043, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Iggie', 'Wyldbore', '89 Sheridan Plaza', 'Littleton', 'Colorado', 'iwyldboredo@sphinn.com', '303-279-1503', 145985, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gordon', 'Flanner', '14841 Sachs Place', 'Orlando', 'Florida', 'gflannerdp@npr.org', '407-366-5460', 793658, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ervin', 'Glazier', '92529 Green Ridge Road', 'Kansas City', 'Missouri', 'eglazierdq@tripod.com', '816-669-9127', 774213, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sybil', 'Claughton', '8478 Annamark Alley', 'Huntington', 'West Virginia', 'sclaughtondr@webs.com', '304-739-6160', 131226, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ivette', 'Hothersall', '64161 Twin Pines Hill', 'Bronx', 'New York', 'ihothersallds@hc360.com', '718-990-4918', 261319, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Olly', 'Macguire', '147 Boyd Pass', 'Seattle', 'Washington', 'omacguiredt@theatlantic.com', '425-742-9915', 231454, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jemimah', 'Mulcahy', '454 Independence Junction', 'Punta Gorda', 'Florida', 'jmulcahydu@nature.com', '941-149-4043', 625596, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maure', 'Thornton-Dewhirst', '03 Scofield Lane', 'West Palm Beach', 'Florida', 'mthorntondewhirstdv@macromedia.com', '561-123-7949', 550765, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hayden', 'Ogbourne', '51 Dexter Hill', 'Fort Worth', 'Texas', 'hogbournedw@soup.io', '682-536-2026', 811239, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aguistin', 'Hulson', '3378 Northport Alley', 'Sacramento', 'California', 'ahulsondx@ocn.ne.jp', '916-264-0744', 267900, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ericka', 'Jeggo', '0910 Lotheville Street', 'Cleveland', 'Ohio', 'ejeggody@edublogs.org', '440-789-4091', 354194, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Adelind', 'Mundie', '4 4th Court', 'Seattle', 'Washington', 'amundiedz@ucsd.edu', '206-771-8004', 131318, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Astra', 'Ecclestone', '696 Pierstorff Crossing', 'San Diego', 'California', 'aecclestonee0@t-online.de', '619-884-7827', 980190, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lindsay', 'McClancy', '81 Shopko Drive', 'Washington', 'District of Columbia', 'lmcclancye1@google.pl', '202-898-2321', 301116, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Euell', 'Lynn', '4600 Lunder Hill', 'Charleston', 'West Virginia', 'elynne2@engadget.com', '304-785-4146', 347692, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alyse', 'Carlton', '5 Steensland Alley', 'Raleigh', 'North Carolina', 'acarltone3@ucoz.ru', '919-800-1181', 290187, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Evy', 'Levens', '44051 Pierstorff Road', 'Bellevue', 'Washington', 'elevense4@xinhuanet.com', '425-385-2329', 942468, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Geralda', 'Kabos', '34790 Chive Trail', 'Tulsa', 'Oklahoma', 'gkabose5@slate.com', '918-273-9660', 491939, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chauncey', 'Shimman', '337 Marquette Place', 'Phoenix', 'Arizona', 'cshimmane6@furl.net', '602-391-4059', 260560, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Temple', 'Woonton', '5258 Carioca Terrace', 'Jefferson City', 'Missouri', 'twoontone7@tinypic.com', '573-843-7207', 506836, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Justinn', 'Riddick', '0 Coleman Court', 'Macon', 'Georgia', 'jriddicke8@nationalgeographic.com', '478-795-8407', 78918, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Catina', 'Ruben', '2 Erie Place', 'New York City', 'New York', 'crubene9@purevolume.com', '917-728-6767', 681349, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Daisey', 'Clawson', '42 East Alley', 'Madison', 'Wisconsin', 'dclawsonea@nba.com', '608-838-6121', 31048, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Genna', 'Deuss', '0 Kings Road', 'Kansas City', 'Missouri', 'gdeusseb@flavors.me', '816-451-0499', 641781, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gillie', 'Bellelli', '12 Karstens Terrace', 'Santa Barbara', 'California', 'gbellelliec@salon.com', '805-185-3141', 725134, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Niki', 'Verlinden', '791 Schurz Lane', 'Wichita', 'Kansas', 'nverlindened@dyndns.org', '316-470-0499', 95187, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Valentia', 'Taylder', '2 Cherokee Way', 'Charlotte', 'North Carolina', 'vtaylderee@pbs.org', '704-969-3911', 406815, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dylan', 'Werlock', '62 Canary Trail', 'Bronx', 'New York', 'dwerlockef@reference.com', '917-379-5875', 805663, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Creigh', 'Chessell', '890 Schiller Road', 'Washington', 'District of Columbia', 'cchesselleg@fema.gov', '202-336-6032', 285638, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Abigael', 'Cooney', '94241 Evergreen Hill', 'Racine', 'Wisconsin', 'acooneyeh@pagesperso-orange.fr', '262-186-8138', 435261, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Adeline', 'Stollenhof', '032 Prairie Rose Circle', 'Salt Lake City', 'Utah', 'astollenhofei@samsung.com', '801-924-9462', 609971, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lesya', 'O''Dyvoy', '3 Canary Park', 'Portland', 'Oregon', 'lodyvoyej@wp.com', '503-334-4526', 413300, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jemie', 'Frentz', '1404 School Lane', 'South Bend', 'Indiana', 'jfrentzek@google.com', '574-947-6948', 113307, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Katina', 'Raistrick', '3495 Grasskamp Road', 'El Paso', 'Texas', 'kraistrickel@sciencedirect.com', '915-485-7719', 410039, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nicol', 'Worsall', '8569 School Trail', 'Daytona Beach', 'Florida', 'nworsallem@discovery.com', '407-440-4477', 369649, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meggie', 'Seacombe', '8 Loeprich Plaza', 'Midland', 'Texas', 'mseacombeen@shareasale.com', '432-527-3044', 779703, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dannie', 'Bernardotte', '8 Main Avenue', 'Baton Rouge', 'Louisiana', 'dbernardotteeo@ftc.gov', '225-927-4055', 859560, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emmott', 'Ygou', '4 Mesta Court', 'Los Angeles', 'California', 'eygouep@icq.com', '213-397-8345', 113920, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ramsay', 'Hargreves', '653 Butternut Center', 'Jamaica', 'New York', 'rhargreveseq@hexun.com', '718-826-4254', 674432, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kristofor', 'MacGibbon', '003 Di Loreto Circle', 'Billings', 'Montana', 'kmacgibboner@cloudflare.com', '406-473-1163', 583205, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chrysa', 'Warre', '3 Hintze Plaza', 'Berkeley', 'California', 'cwarrees@prweb.com', '510-508-8559', 304101, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Garth', 'Gebhardt', '11 Calypso Junction', 'Saint Paul', 'Minnesota', 'ggebhardtet@ebay.com', '612-382-5940', 885014, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cristina', 'Lyfield', '134 Parkside Road', 'Brockton', 'Massachusetts', 'clyfieldeu@acquirethisname.com', '508-191-8707', 268192, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Erroll', 'Whiteside', '354 Bashford Parkway', 'Clearwater', 'Florida', 'ewhitesideev@wisc.edu', '727-716-6553', 575102, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Martino', 'Echallier', '52 Veith Place', 'Portland', 'Oregon', 'mechallierew@mlb.com', '503-176-5155', 393753, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Salvatore', 'Fassum', '4 Springs Center', 'New Haven', 'Connecticut', 'sfassumex@php.net', '203-497-5151', 22437, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gaultiero', 'Michallat', '7 Ilene Way', 'Austin', 'Texas', 'gmichallatey@time.com', '512-348-8557', 965158, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mervin', 'Lithcow', '7 Portage Center', 'Cincinnati', 'Ohio', 'mlithcowez@businessweek.com', '513-968-6701', 880464, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lind', 'Traves', '6257 Monterey Plaza', 'Hattiesburg', 'Mississippi', 'ltravesf0@census.gov', '601-188-9748', 747997, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bowie', 'Curnucke', '13050 Shopko Junction', 'Beaufort', 'South Carolina', 'bcurnuckef1@cnn.com', '843-887-0315', 446824, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carly', 'Hamsley', '6 Elka Lane', 'Merrifield', 'Virginia', 'chamsleyf2@nba.com', '571-863-4263', 375776, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kissie', 'Standish-Brooks', '60108 Di Loreto Park', 'Oklahoma City', 'Oklahoma', 'kstandishbrooksf3@domainmarket.com', '405-528-0124', 23533, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Berti', 'Boydle', '68 Carey Circle', 'Boca Raton', 'Florida', 'bboydlef4@jiathis.com', '954-944-3776', 335182, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Micky', 'Ricarde', '58726 Kropf Plaza', 'Boise', 'Idaho', 'mricardef5@g.co', '208-410-4086', 489537, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Harriot', 'Guerrin', '34 Trailsway Lane', 'Athens', 'Georgia', 'hguerrinf6@nytimes.com', '706-212-0771', 930075, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tudor', 'De Mico', '1 Carey Hill', 'Cleveland', 'Ohio', 'tdemicof7@linkedin.com', '216-467-0905', 461100, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Faith', 'Pley', '7943 Redwing Way', 'Phoenix', 'Arizona', 'fpleyf8@amazon.de', '602-695-6451', 269731, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nadya', 'Malham', '963 High Crossing Hill', 'Philadelphia', 'Pennsylvania', 'nmalhamf9@shop-pro.jp', '215-342-5597', 493526, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Felita', 'Gulc', '20730 Vahlen Terrace', 'Bradenton', 'Florida', 'fgulcfa@joomla.org', '941-883-5016', 576199, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jeffry', 'Shead', '3 Pawling Junction', 'Long Beach', 'California', 'jsheadfb@4shared.com', '562-735-1798', 226326, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Normand', 'Screeton', '0 Jenna Terrace', 'Independence', 'Missouri', 'nscreetonfc@jigsy.com', '816-878-5501', 484920, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Iain', 'Southard', '15699 Calypso Park', 'Salt Lake City', 'Utah', 'isouthardfd@nps.gov', '801-856-6597', 643536, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ward', 'Baldam', '00 Manufacturers Road', 'Akron', 'Ohio', 'wbaldamfe@diigo.com', '330-824-8207', 730432, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jobie', 'Howler', '5 Washington Street', 'Rochester', 'Minnesota', 'jhowlerff@mapy.cz', '507-338-4380', 893356, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Anatollo', 'Konert', '7 Pepper Wood Place', 'Dulles', 'Virginia', 'akonertfg@pen.io', '571-982-5709', 424014, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Justino', 'Ripon', '8 Thackeray Trail', 'New York City', 'New York', 'jriponfh@smugmug.com', '212-811-5772', 824859, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vail', 'Snape', '80257 Helena Alley', 'Fort Lauderdale', 'Florida', 'vsnapefi@sakura.ne.jp', '754-955-6999', 365966, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hermine', 'Massey', '31 Aberg Drive', 'Grand Rapids', 'Michigan', 'hmasseyfj@addthis.com', '616-577-0550', 809436, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alexia', 'Delamar', '2294 Dakota Park', 'Minneapolis', 'Minnesota', 'adelamarfk@craigslist.org', '612-960-3539', 957146, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hollie', 'Lau', '08298 Judy Terrace', 'San Mateo', 'California', 'hlaufl@sfgate.com', '805-267-6674', 128608, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gabi', 'Leif', '3754 Waywood Way', 'Fairbanks', 'Alaska', 'gleiffm@jiathis.com', '907-979-7235', 217655, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tara', 'Jeffels', '263 Maple Point', 'Albany', 'New York', 'tjeffelsfn@ucla.edu', '518-504-5928', 914281, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Harp', 'Rebert', '26259 Gateway Lane', 'Colorado Springs', 'Colorado', 'hrebertfo@ox.ac.uk', '719-566-2346', 6718, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Codee', 'Runcieman', '2822 Hoepker Parkway', 'Paterson', 'New Jersey', 'crunciemanfp@springer.com', '862-252-4538', 564368, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Coralyn', 'Priestman', '6 Ridgeway Street', 'West Palm Beach', 'Florida', 'cpriestmanfq@webmd.com', '561-756-5875', 285719, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cobbie', 'Hune', '58768 Meadow Vale Terrace', 'Miami', 'Florida', 'chunefr@tinypic.com', '305-749-9500', 563057, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jessika', 'Stenet', '546 Di Loreto Center', 'Grand Rapids', 'Michigan', 'jstenetfs@wordpress.com', '616-463-7079', 805551, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Errol', 'Willoughby', '0232 Rigney Junction', 'Tallahassee', 'Florida', 'ewilloughbyft@who.int', '850-550-0885', 876432, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tiffani', 'Beaumont', '895 Marquette Street', 'Houston', 'Texas', 'tbeaumontfu@bizjournals.com', '936-847-3744', 229705, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hortensia', 'Arnecke', '801 Clarendon Park', 'Toledo', 'Ohio', 'harneckefv@ibm.com', '419-256-8476', 719337, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Talbot', 'Dell ''Orto', '401 Duke Street', 'Saint Louis', 'Missouri', 'tdellortofw@cargocollective.com', '314-102-6723', 296015, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Priscella', 'Noirel', '940 Helena Park', 'Cincinnati', 'Ohio', 'pnoirelfx@smugmug.com', '513-469-2159', 384212, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emma', 'Laughrey', '1630 Rutledge Street', 'Denver', 'Colorado', 'elaughreyfy@twitter.com', '720-938-6684', 970329, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lesli', 'Menco', '6 Luster Crossing', 'Charlotte', 'North Carolina', 'lmencofz@php.net', '704-324-7437', 644312, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Louis', 'Alwood', '379 Oakridge Alley', 'Phoenix', 'Arizona', 'lalwoodg0@usatoday.com', '602-869-6657', 897507, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eran', 'Northedge', '2838 Cardinal Lane', 'North Las Vegas', 'Nevada', 'enorthedgeg1@seattletimes.com', '702-241-4387', 290573, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jervis', 'Metson', '206 Lunder Way', 'Louisville', 'Kentucky', 'jmetsong2@goo.gl', '502-766-6566', 768170, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Barbi', 'Towe', '986 Westport Hill', 'Buffalo', 'New York', 'btoweg3@yelp.com', '716-182-3486', 314692, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clarey', 'Menlove', '21461 Eastwood Road', 'Dallas', 'Texas', 'cmenloveg4@goodreads.com', '214-175-9379', 254659, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marya', 'Lankester', '43 Oak Lane', 'Seattle', 'Washington', 'mlankesterg5@imageshack.us', '206-568-3745', 51119, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Forrester', 'Aslett', '37 Bellgrove Hill', 'Washington', 'District of Columbia', 'faslettg6@paginegialle.it', '202-626-9947', 296506, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gus', 'Moyers', '30851 Holmberg Way', 'Madison', 'Wisconsin', 'gmoyersg7@plala.or.jp', '608-172-2997', 663211, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carole', 'Duckerin', '5 Granby Park', 'Eugene', 'Oregon', 'cduckering8@ning.com', '541-772-8444', 897226, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jobie', 'Clemmow', '14 Shoshone Avenue', 'Decatur', 'Georgia', 'jclemmowg9@wired.com', '770-237-3278', 695054, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lisette', 'Stonary', '50308 Towne Center', 'Roanoke', 'Virginia', 'lstonaryga@deliciousdays.com', '540-337-0902', 735138, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gigi', 'Humbey', '98 David Road', 'Arlington', 'Virginia', 'ghumbeygb@wikipedia.org', '571-926-8176', 165651, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Garrott', 'Sutherden', '79 Lake View Hill', 'Suffolk', 'Virginia', 'gsutherdengc@123-reg.co.uk', '757-525-1340', 803088, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Egbert', 'Kenright', '7835 Eagan Court', 'Washington', 'District of Columbia', 'ekenrightgd@go.com', '202-710-3816', 417347, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bethena', 'Tibbotts', '52 Messerschmidt Way', 'Pittsburgh', 'Pennsylvania', 'btibbottsge@mapquest.com', '412-806-6978', 156836, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cam', 'Winchurch', '207 Pleasure Trail', 'Seattle', 'Washington', 'cwinchurchgf@wunderground.com', '360-310-4302', 401494, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Claiborne', 'Kalinowsky', '5067 Manufacturers Way', 'Washington', 'District of Columbia', 'ckalinowskygg@ihg.com', '202-740-5590', 283242, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eduard', 'Fordy', '1 Waxwing Parkway', 'San Jose', 'California', 'efordygh@geocities.jp', '408-750-9863', 921845, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Glenden', 'Maciaszczyk', '9562 Mitchell Junction', 'Saint Louis', 'Missouri', 'gmaciaszczykgi@guardian.co.uk', '636-206-3898', 20294, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Thomasa', 'McKim', '596 Buell Hill', 'Boston', 'Massachusetts', 'tmckimgj@hhs.gov', '617-995-8667', 251006, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pierrette', 'Eate', '28691 Northridge Trail', 'Louisville', 'Kentucky', 'peategk@squarespace.com', '502-899-5631', 423828, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Josh', 'Frowd', '5 Bonner Drive', 'Rochester', 'New York', 'jfrowdgl@nydailynews.com', '585-968-4722', 658716, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Milzie', 'Maudsley', '2 Corscot Terrace', 'Winston Salem', 'North Carolina', 'mmaudsleygm@canalblog.com', '336-703-8700', 649632, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jacquelyn', 'Doerling', '9 Magdeline Alley', 'Terre Haute', 'Indiana', 'jdoerlinggn@about.me', '812-729-5291', 669409, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Borg', 'Nono', '9395 Atwood Center', 'Washington', 'District of Columbia', 'bnonogo@trellian.com', '202-145-7252', 754206, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hinze', 'Lymbourne', '5 Heffernan Hill', 'Washington', 'District of Columbia', 'hlymbournegp@fc2.com', '202-754-6620', 971899, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Celestyn', 'Ogle', '5 Chinook Court', 'Saint Joseph', 'Missouri', 'coglegq@yelp.com', '816-251-0635', 284630, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Berti', 'Sackes', '759 Transport Way', 'Abilene', 'Texas', 'bsackesgr@topsy.com', '325-101-5634', 327654, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Doy', 'Duchant', '135 Anderson Pass', 'Brooklyn', 'New York', 'dduchantgs@narod.ru', '718-749-1315', 263323, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pattie', 'McGown', '4604 Bartelt Pass', 'Pasadena', 'Texas', 'pmcgowngt@mediafire.com', '713-716-9529', 804481, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gae', 'Karolowski', '5 Transport Circle', 'Lancaster', 'Pennsylvania', 'gkarolowskigu@bloomberg.com', '717-198-6738', 154542, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Russ', 'Skudder', '24673 Nova Hill', 'Cincinnati', 'Ohio', 'rskuddergv@psu.edu', '513-624-3202', 539945, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nona', 'Devine', '56 Dayton Center', 'Sarasota', 'Florida', 'ndevinegw@noaa.gov', '941-269-1986', 414962, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dane', 'Wootton', '936 Armistice Point', 'Van Nuys', 'California', 'dwoottongx@technorati.com', '323-873-9825', 325135, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carce', 'Harral', '14 Grayhawk Court', 'Las Vegas', 'Nevada', 'charralgy@google.nl', '702-877-9162', 985161, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Daniel', 'McGillacoell', '771 Steensland Trail', 'San Francisco', 'California', 'dmcgillacoellgz@twitpic.com', '415-438-9152', 112881, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fair', 'Van Der Straaten', '37 Dawn Hill', 'Washington', 'District of Columbia', 'fvanderstraatenh0@multiply.com', '202-672-5856', 112978, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Simonne', 'Tideswell', '129 Barby Terrace', 'Palmdale', 'California', 'stideswellh1@go.com', '661-476-7321', 544143, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nyssa', 'McCoish', '7921 Pearson Place', 'Columbus', 'Georgia', 'nmccoishh2@blogspot.com', '706-801-4887', 531548, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Redford', 'Cryer', '8 Claremont Way', 'Los Angeles', 'California', 'rcryerh3@mtv.com', '213-403-8844', 889935, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Betsey', 'Berrecloth', '1677 Orin Trail', 'San Antonio', 'Texas', 'bberreclothh4@nba.com', '830-450-1051', 598895, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Henry', 'Dangerfield', '926 Judy Trail', 'Arlington', 'Texas', 'hdangerfieldh5@comcast.net', '817-614-6734', 943954, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ermentrude', 'Tart', '47 Lakewood Lane', 'Kansas City', 'Kansas', 'etarth6@comcast.net', '913-774-5720', 482146, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Antony', 'Deboo', '31837 Division Crossing', 'Tulsa', 'Oklahoma', 'adebooh7@yolasite.com', '918-925-9100', 378507, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clyde', 'Kornyshev', '491 Pennsylvania Junction', 'South Bend', 'Indiana', 'ckornyshevh8@nationalgeographic.com', '574-406-8608', 275607, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sheffy', 'Kitney', '28 Troy Way', 'Jacksonville', 'Florida', 'skitneyh9@cam.ac.uk', '904-361-7811', 620292, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Arlen', 'Passfield', '52 Northwestern Pass', 'Oklahoma City', 'Oklahoma', 'apassfieldha@barnesandnoble.com', '405-565-8682', 486213, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maurizia', 'Blayd', '17771 Schurz Park', 'Memphis', 'Tennessee', 'mblaydhb@opera.com', '901-246-9079', 259735, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clemmie', 'Archibould', '14 Blue Bill Park Place', 'El Paso', 'Texas', 'carchibouldhc@is.gd', '915-461-4277', 70135, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ag', 'Dowyer', '586 Crowley Court', 'Mobile', 'Alabama', 'adowyerhd@ebay.co.uk', '251-679-3130', 276406, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sylvester', 'Brandts', '8021 Di Loreto Road', 'Saint Louis', 'Missouri', 'sbrandtshe@chicagotribune.com', '314-769-7807', 920253, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Esteban', 'Klesse', '8379 Shoshone Place', 'Jacksonville', 'Florida', 'eklessehf@scribd.com', '904-811-4081', 332562, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Deanne', 'Burlingame', '0402 Susan Plaza', 'Pittsburgh', 'Pennsylvania', 'dburlingamehg@sun.com', '412-667-1390', 490569, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Charil', 'Kordes', '045 Bultman Park', 'Charleston', 'West Virginia', 'ckordeshh@dot.gov', '304-486-0711', 270472, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Donnajean', 'Ranshaw', '3 Glendale Point', 'Houston', 'Texas', 'dranshawhi@springer.com', '713-456-1283', 257926, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elinore', 'Croucher', '3 Independence Crossing', 'Tuscaloosa', 'Alabama', 'ecroucherhj@so-net.ne.jp', '205-833-0984', 444201, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sibylla', 'Croxton', '67662 Delaware Junction', 'Huntington', 'West Virginia', 'scroxtonhk@jalbum.net', '304-995-1081', 522911, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Godart', 'Pentycost', '9 Dennis Trail', 'Mansfield', 'Ohio', 'gpentycosthl@myspace.com', '419-498-9096', 581180, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vikki', 'Blackett', '65 Sloan Hill', 'San Francisco', 'California', 'vblacketthm@youtube.com', '415-565-5244', 864456, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alvie', 'Holworth', '43522 Comanche Pass', 'London', 'Kentucky', 'aholworthhn@merriam-webster.com', '606-938-2792', 726291, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Monah', 'Keatch', '25 Jackson Terrace', 'Bloomington', 'Indiana', 'mkeatchho@bloomberg.com', '812-472-6050', 587807, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cristine', 'Skirven', '41 Buena Vista Pass', 'Bismarck', 'North Dakota', 'cskirvenhp@theatlantic.com', '701-597-0115', 68507, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clevie', 'Congreave', '97906 Heffernan Place', 'Waterloo', 'Iowa', 'ccongreavehq@about.me', '319-959-5983', 338793, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bonny', 'Clifton', '5 Twin Pines Plaza', 'New York City', 'New York', 'bcliftonhr@pagesperso-orange.fr', '646-563-0596', 664284, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jobey', 'Fitzmaurice', '05 Mccormick Street', 'Akron', 'Ohio', 'jfitzmauricehs@loc.gov', '330-861-6151', 591676, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dionisio', 'Sodory', '8 Brown Alley', 'Lehigh Acres', 'Florida', 'dsodoryht@storify.com', '863-757-7648', 266292, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clemmy', 'Stapleford', '8461 Lawn Terrace', 'Colorado Springs', 'Colorado', 'cstaplefordhu@businesswire.com', '719-357-3279', 172190, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chelsy', 'Fomichkin', '5 Summit Way', 'Lexington', 'Kentucky', 'cfomichkinhv@npr.org', '859-788-6312', 532319, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Louisa', 'Sedman', '06 Bay Pass', 'Des Moines', 'Iowa', 'lsedmanhw@bandcamp.com', '515-715-8882', 543570, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Donall', 'Ungaretti', '01571 Meadow Valley Pass', 'Portsmouth', 'Virginia', 'dungarettihx@edublogs.org', '757-920-5520', 804101, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Granville', 'Umbers', '2576 Dayton Junction', 'Manassas', 'Virginia', 'gumbershy@pen.io', '434-304-2706', 791132, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ottilie', 'Amorine', '6463 Mockingbird Street', 'Detroit', 'Michigan', 'oamorinehz@angelfire.com', '313-628-5895', 778170, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sarajane', 'Oake', '64114 Meadow Vale Trail', 'Pasadena', 'California', 'soakei0@comcast.net', '626-182-0055', 303996, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laureen', 'Dines', '42177 Arkansas Circle', 'Peoria', 'Illinois', 'ldinesi1@mit.edu', '309-460-5648', 918653, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shane', 'Trenholme', '30 Utah Lane', 'Athens', 'Georgia', 'strenholmei2@vinaora.com', '706-142-7413', 884498, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Garrard', 'Challicombe', '919 Aberg Hill', 'Santa Barbara', 'California', 'gchallicombei3@reference.com', '702-499-3592', 451676, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Law', 'MacPaik', '8 Ramsey Pass', 'Alexandria', 'Virginia', 'lmacpaiki4@patch.com', '703-177-0938', 90345, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Menard', 'Comberbeach', '52 Sullivan Crossing', 'Stamford', 'Connecticut', 'mcomberbeachi5@yolasite.com', '203-361-0746', 837871, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Simone', 'Chataignier', '13 Clyde Gallagher Hill', 'Kansas City', 'Missouri', 'schataignieri6@istockphoto.com', '816-806-4950', 185117, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Adriaens', 'Pifford', '4 Pleasure Hill', 'Madison', 'Wisconsin', 'apiffordi7@miibeian.gov.cn', '608-479-5063', 248841, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carine', 'Janse', '600 Thompson Hill', 'Roanoke', 'Virginia', 'cjansei8@ca.gov', '540-897-1255', 49908, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alessandro', 'Sambell', '9745 Daystar Plaza', 'Monticello', 'Minnesota', 'asambelli9@wunderground.com', '763-690-8378', 617109, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ferrel', 'Youd', '69 Aberg Junction', 'Wilmington', 'Delaware', 'fyoudia@dot.gov', '302-723-1893', 812930, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Claudia', 'Truswell', '45 Sloan Street', 'Ocala', 'Florida', 'ctruswellib@istockphoto.com', '352-744-7827', 376119, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Greta', 'Cuckoo', '8627 Schlimgen Terrace', 'Washington', 'District of Columbia', 'gcuckooic@dropbox.com', '202-420-7197', 391268, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rich', 'Mathewson', '0486 Cottonwood Road', 'Oklahoma City', 'Oklahoma', 'rmathewsonid@china.com.cn', '405-686-8833', 497796, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hyman', 'Bidmead', '417 Shopko Center', 'Knoxville', 'Tennessee', 'hbidmeadie@weebly.com', '865-258-7750', 28873, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gerta', 'Cape', '0 Carioca Place', 'Hartford', 'Connecticut', 'gcapeif@alexa.com', '860-852-8062', 885239, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hyman', 'Muge', '50 Village Green Lane', 'El Paso', 'Texas', 'hmugeig@behance.net', '915-324-4784', 353431, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tamas', 'Langhor', '88 Swallow Trail', 'El Paso', 'Texas', 'tlanghorih@europa.eu', '915-856-1395', 554175, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gerrie', 'Saye', '9010 2nd Pass', 'Washington', 'District of Columbia', 'gsayeii@tuttocitta.it', '202-922-4519', 908447, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Anica', 'Befroy', '89766 Goodland Parkway', 'Saint Paul', 'Minnesota', 'abefroyij@shinystat.com', '651-977-9294', 149160, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pauly', 'MacKaig', '27600 Carpenter Place', 'Roanoke', 'Virginia', 'pmackaigik@psu.edu', '540-319-9351', 578521, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marcellus', 'Boraston', '292 Thierer Circle', 'Milwaukee', 'Wisconsin', 'mborastonil@chicagotribune.com', '414-136-0304', 442246, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Madlen', 'Kevern', '263 Summit Circle', 'San Francisco', 'California', 'mkevernim@parallels.com', '650-590-9379', 217576, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Terencio', 'Stallwood', '27 Fieldstone Terrace', 'Largo', 'Florida', 'tstallwoodin@umich.edu', '727-780-2450', 598457, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hertha', 'Fergie', '19828 Briar Crest Junction', 'Riverside', 'California', 'hfergieio@si.edu', '909-907-9746', 411215, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nicol', 'Saer', '365 2nd Terrace', 'Fort Pierce', 'Florida', 'nsaerip@psu.edu', '772-109-7992', 666655, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Weider', 'Godmer', '49148 Crownhardt Lane', 'Atlanta', 'Georgia', 'wgodmeriq@forbes.com', '404-256-6177', 416370, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alfy', 'Arnoldi', '8888 Oak Valley Point', 'Houston', 'Texas', 'aarnoldiir@samsung.com', '713-868-7255', 594080, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dominik', 'Vasilik', '8 David Way', 'Modesto', 'California', 'dvasilikis@ted.com', '209-346-5086', 153618, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Michale', 'Poat', '01966 Maryland Avenue', 'Albany', 'New York', 'mpoatit@mediafire.com', '518-914-9139', 503178, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Stu', 'Colleton', '56 Fulton Road', 'Garden Grove', 'California', 'scolletoniu@livejournal.com', '310-356-8786', 587658, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Izzy', 'Merrigans', '79 6th Plaza', 'Jacksonville', 'Florida', 'imerrigansiv@sciencedaily.com', '904-129-7755', 174920, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pacorro', 'Farfull', '6 Arkansas Lane', 'Sacramento', 'California', 'pfarfulliw@yandex.ru', '916-260-0108', 12662, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Neron', 'Rottcher', '77453 Brentwood Drive', 'Detroit', 'Michigan', 'nrottcherix@canalblog.com', '313-518-1273', 480911, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tremayne', 'Wallas', '9 Northwestern Pass', 'Pompano Beach', 'Florida', 'twallasiy@geocities.com', '754-314-8738', 746861, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eric', 'McUre', '0975 Clove Trail', 'Las Vegas', 'Nevada', 'emcureiz@slashdot.org', '702-339-6520', 223719, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Euphemia', 'Kennealy', '06 Fallview Terrace', 'Phoenix', 'Arizona', 'ekennealyj0@bbc.co.uk', '623-763-0888', 856786, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emmet', 'Grimsdale', '4 Golf Way', 'Jackson', 'Mississippi', 'egrimsdalej1@admin.ch', '601-193-2351', 759242, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meryl', 'Vasilyonok', '12 Basil Place', 'Pensacola', 'Florida', 'mvasilyonokj2@webeden.co.uk', '850-844-4114', 882177, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Miles', 'Switsur', '71 Spaight Crossing', 'Madison', 'Wisconsin', 'mswitsurj3@wisc.edu', '608-855-0678', 293120, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Robby', 'Leggate', '14 Express Parkway', 'Oklahoma City', 'Oklahoma', 'rleggatej4@uiuc.edu', '405-810-4015', 294087, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nico', 'Ruffy', '323 Pawling Court', 'Montgomery', 'Alabama', 'nruffyj5@squidoo.com', '334-753-3056', 113927, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Konstance', 'Scafe', '67679 Lake View Trail', 'Albany', 'New York', 'kscafej6@dailymail.co.uk', '518-299-5354', 687293, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fallon', 'Geydon', '9 Bartelt Circle', 'Raleigh', 'North Carolina', 'fgeydonj7@nps.gov', '919-322-1492', 690865, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Silva', 'Wonham', '027 Boyd Center', 'New York City', 'New York', 'swonhamj8@wikispaces.com', '212-149-5625', 598602, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elton', 'Allanby', '6550 Debs Center', 'Baltimore', 'Maryland', 'eallanbyj9@earthlink.net', '410-809-5543', 417947, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shaun', 'Seers', '0278 Pennsylvania Circle', 'Norman', 'Oklahoma', 'sseersja@tinyurl.com', '405-315-9254', 993732, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hymie', 'Marcone', '4 Muir Pass', 'Oklahoma City', 'Oklahoma', 'hmarconejb@ning.com', '405-251-3332', 500687, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hershel', 'Grinter', '8 Sage Point', 'Missoula', 'Montana', 'hgrinterjc@umich.edu', '406-476-9367', 839937, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Zedekiah', 'Bastide', '7364 Pierstorff Way', 'Columbus', 'Ohio', 'zbastidejd@thetimes.co.uk', '513-486-9578', 479663, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Orsa', 'Ellissen', '9187 Northwestern Junction', 'Birmingham', 'Alabama', 'oellissenje@homestead.com', '205-719-6744', 460593, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shauna', 'Simonetto', '86 Vera Lane', 'Carlsbad', 'California', 'ssimonettojf@cloudflare.com', '760-720-0550', 633677, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alon', 'Ferri', '97981 Almo Avenue', 'Carol Stream', 'Illinois', 'aferrijg@ted.com', '309-349-9369', 53429, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fallon', 'Glaserman', '205 Kenwood Way', 'Norman', 'Oklahoma', 'fglasermanjh@noaa.gov', '405-246-2447', 514514, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tiebout', 'Delacourt', '32 Emmet Junction', 'Young America', 'Minnesota', 'tdelacourtji@tinypic.com', '952-540-1800', 671721, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pierce', 'Gouth', '78411 South Road', 'Miami', 'Florida', 'pgouthjj@marriott.com', '786-540-0566', 120758, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brenna', 'Putman', '60 Hermina Road', 'Evansville', 'Indiana', 'bputmanjk@disqus.com', '812-212-0063', 359562, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Barny', 'Giamuzzo', '59906 Transport Circle', 'Pasadena', 'California', 'bgiamuzzojl@sphinn.com', '626-140-6954', 904097, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clio', 'Rideout', '03 Bonner Center', 'Louisville', 'Kentucky', 'crideoutjm@dot.gov', '502-759-3269', 466111, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Garry', 'Jeandin', '709 Waubesa Junction', 'Boston', 'Massachusetts', 'gjeandinjn@google.com.au', '617-316-8337', 94532, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Court', 'McCombe', '3263 Sachtjen Lane', 'Columbus', 'Mississippi', 'cmccombejo@mapy.cz', '662-805-3437', 135809, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hyman', 'Mandrey', '7970 Bultman Hill', 'El Paso', 'Texas', 'hmandreyjp@upenn.edu', '915-557-7821', 437205, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Talyah', 'Barz', '1053 Kipling Street', 'Scottsdale', 'Arizona', 'tbarzjq@prlog.org', '602-715-4507', 85768, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Terese', 'Grendon', '024 Lakeland Plaza', 'Salt Lake City', 'Utah', 'tgrendonjr@narod.ru', '801-996-0467', 105959, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Thor', 'Dundredge', '1896 Kennedy Junction', 'San Diego', 'California', 'tdundredgejs@purevolume.com', '619-597-5531', 642251, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Magdalene', 'Beardon', '789 Stuart Lane', 'Metairie', 'Louisiana', 'mbeardonjt@plala.or.jp', '504-297-5822', 127243, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Padraig', 'Orfeur', '037 Bayside Court', 'Louisville', 'Kentucky', 'porfeurju@e-recht24.de', '502-926-5321', 371025, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bethany', 'Haskur', '9 Mayfield Center', 'Gainesville', 'Florida', 'bhaskurjv@gizmodo.com', '352-960-3166', 186003, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Emlyn', 'Lafont', '36026 Westport Drive', 'Carol Stream', 'Illinois', 'elafontjw@bandcamp.com', '309-578-5102', 499299, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shayne', 'Klempke', '86 Namekagon Drive', 'Boulder', 'Colorado', 'sklempkejx@e-recht24.de', '303-572-2242', 465843, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kennedy', 'Gauthorpp', '16674 Prairie Rose Avenue', 'Washington', 'District of Columbia', 'kgauthorppjy@163.com', '202-613-8929', 486589, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brietta', 'Barwis', '71907 Maywood Center', 'San Francisco', 'California', 'bbarwisjz@jigsy.com', '510-753-0234', 589648, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jayne', 'Warrack', '911 Blue Bill Park Park', 'Stamford', 'Connecticut', 'jwarrackk0@cnn.com', '203-227-4155', 400659, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Malinda', 'Richmont', '4198 Scott Center', 'Houston', 'Texas', 'mrichmontk1@discuz.net', '713-441-5865', 14612, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Vincenz', 'Sporgeon', '7728 Raven Way', 'El Paso', 'Texas', 'vsporgeonk2@nifty.com', '915-323-4363', 858226, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gill', 'Keogh', '6 Northfield Road', 'Frederick', 'Maryland', 'gkeoghk3@chron.com', '240-389-3177', 188626, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Everard', 'Harpur', '1 Towne Circle', 'Tampa', 'Florida', 'eharpurk4@tmall.com', '813-714-7746', 88330, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hinda', 'Ganing', '3916 Kenwood Drive', 'Fort Myers', 'Florida', 'hganingk5@boston.com', '239-962-2221', 675492, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jessey', 'Tanguy', '9496 Norway Maple Place', 'Fort Pierce', 'Florida', 'jtanguyk6@opensource.org', '772-528-4891', 382869, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cortney', 'Sjostrom', '20871 East Lane', 'Sacramento', 'California', 'csjostromk7@mlb.com', '916-991-7546', 344346, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jeramey', 'Heaford', '7455 Garrison Parkway', 'Boston', 'Massachusetts', 'jheafordk8@istockphoto.com', '617-200-9365', 48569, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jordan', 'Snazel', '67 Knutson Terrace', 'North Port', 'Florida', 'jsnazelk9@nyu.edu', '941-431-2140', 926355, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Linc', 'Ehlerding', '259 Maple Wood Court', 'Seattle', 'Washington', 'lehlerdingka@jiathis.com', '360-226-8100', 228433, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Demetra', 'Burgisi', '11105 Oxford Crossing', 'Peoria', 'Illinois', 'dburgisikb@pinterest.com', '309-592-6829', 114091, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cullen', 'Staff', '79924 Dexter Lane', 'San Antonio', 'Texas', 'cstaffkc@goodreads.com', '210-868-0145', 841732, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gerrilee', 'Romand', '56 Hazelcrest Road', 'North Little Rock', 'Arkansas', 'gromandkd@alibaba.com', '501-496-6444', 927352, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gerrie', 'Scargle', '3 Hanson Drive', 'Dayton', 'Ohio', 'gscargleke@cpanel.net', '937-279-4271', 24415, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marlin', 'Mazzilli', '0660 Crescent Oaks Crossing', 'Salem', 'Oregon', 'mmazzillikf@studiopress.com', '503-454-1120', 936108, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Roana', 'Longthorn', '465 Oneill Hill', 'Springfield', 'Massachusetts', 'rlongthornkg@theguardian.com', '413-461-3522', 849838, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Caterina', 'Ilett', '98 Lawn Court', 'Albany', 'New York', 'cilettkh@alexa.com', '518-660-6632', 317987, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Natalya', 'Farny', '5 Glendale Parkway', 'Wilmington', 'Delaware', 'nfarnyki@cpanel.net', '302-370-1146', 85697, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Joellen', 'Darton', '9954 Autumn Leaf Way', 'Miami', 'Florida', 'jdartonkj@qq.com', '786-594-0520', 947660, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meara', 'Ridde', '2 Division Place', 'Washington', 'District of Columbia', 'mriddekk@cbsnews.com', '703-562-0149', 796889, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Royce', 'Betteney', '13068 Doe Crossing Circle', 'Corpus Christi', 'Texas', 'rbetteneykl@amazon.co.uk', '361-449-1425', 194979, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Benetta', 'Cowerd', '76 Farragut Crossing', 'San Diego', 'California', 'bcowerdkm@ask.com', '858-536-1819', 674493, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Donnie', 'Brosius', '564 Barby Trail', 'Tampa', 'Florida', 'dbrosiuskn@columbia.edu', '813-985-5453', 456183, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tobie', 'Booth-Jarvis', '4 Arizona Plaza', 'Evansville', 'Indiana', 'tboothjarvisko@wikimedia.org', '812-650-5220', 835609, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sibylle', 'Yeats', '919 Leroy Drive', 'Pittsburgh', 'Pennsylvania', 'syeatskp@vk.com', '412-979-3045', 210392, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ardelis', 'Benoist', '5307 Orin Point', 'Wilmington', 'Delaware', 'abenoistkq@mashable.com', '302-492-3535', 234389, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Blake', 'O''Bradden', '80 Southridge Avenue', 'Virginia Beach', 'Virginia', 'bobraddenkr@craigslist.org', '757-786-2578', 804716, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jerrilyn', 'Kenford', '72 Cody Way', 'Carson City', 'Nevada', 'jkenfordks@aboutads.info', '775-117-5788', 106494, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Steffen', 'Odegaard', '4524 Jenna Avenue', 'Peoria', 'Illinois', 'sodegaardkt@wp.com', '309-106-2029', 151682, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Niven', 'Heffy', '4 Springview Alley', 'Augusta', 'Georgia', 'nheffyku@t.co', '706-291-8537', 767715, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marietta', 'Gussin', '8 Waxwing Lane', 'Hialeah', 'Florida', 'mgussinkv@linkedin.com', '786-738-5416', 276934, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lindsy', 'Pluvier', '79551 Fremont Trail', 'Fort Worth', 'Texas', 'lpluvierkw@hostgator.com', '682-417-7356', 180834, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brena', 'Morford', '9 Ridgeway Parkway', 'Arlington', 'Virginia', 'bmorfordkx@ftc.gov', '571-855-6263', 444061, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Russ', 'Carradice', '260 Granby Lane', 'Chicago', 'Illinois', 'rcarradiceky@histats.com', '312-604-2835', 855581, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bryan', 'Rennie', '67 Artisan Drive', 'Torrance', 'California', 'brenniekz@vimeo.com', '818-898-4648', 544234, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Seline', 'Cruft', '378 Westridge Center', 'Saint Augustine', 'Florida', 'scruftl0@hostgator.com', '904-116-7580', 126336, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Verney', 'Ludlow', '1328 Sachtjen Crossing', 'Tucson', 'Arizona', 'vludlowl1@tripadvisor.com', '520-294-3932', 890773, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Daryl', 'D''Elia', '27 Emmet Alley', 'Sioux Falls', 'South Dakota', 'ddelial2@unc.edu', '605-732-0706', 618341, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Norene', 'Leve', '79 Talisman Lane', 'Washington', 'District of Columbia', 'nlevel3@t-online.de', '202-390-2942', 70074, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Susette', 'Hesser', '9832 Graedel Court', 'Boston', 'Massachusetts', 'shesserl4@bravesites.com', '617-473-7691', 118853, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pearl', 'Spadeck', '6304 Duke Junction', 'Corona', 'California', 'pspadeckl5@technorati.com', '951-736-6183', 925321, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jenilee', 'Heild', '6 Michigan Road', 'San Francisco', 'California', 'jheildl6@about.me', '415-747-7599', 576881, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bessy', 'Langforth', '01433 Glendale Way', 'Springfield', 'Illinois', 'blangforthl7@sphinn.com', '217-557-4356', 894070, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Anderson', 'Whewell', '96118 Acker Crossing', 'Peoria', 'Illinois', 'awhewelll8@businessinsider.com', '309-204-8978', 254303, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lexy', 'Dykes', '6 Glendale Trail', 'Austin', 'Texas', 'ldykesl9@sfgate.com', '512-287-3645', 906142, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lem', 'McLuckie', '1425 Prairie Rose Point', 'Boston', 'Massachusetts', 'lmcluckiela@usnews.com', '617-773-6874', 957878, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Constantia', 'Alvarado', '64 Mosinee Trail', 'Minneapolis', 'Minnesota', 'calvaradolb@purevolume.com', '651-434-3627', 305784, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carson', 'Ondrus', '693 Bashford Lane', 'Trenton', 'New Jersey', 'condruslc@vistaprint.com', '609-537-0008', 198924, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kipp', 'Pendle', '6367 Springview Center', 'Saint Louis', 'Missouri', 'kpendleld@paypal.com', '314-619-0924', 900986, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Melamie', 'Brewett', '2 Trailsway Center', 'North Las Vegas', 'Nevada', 'mbrewettle@yelp.com', '702-266-5672', 233255, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Margy', 'Karpov', '4 Lukken Trail', 'Omaha', 'Nebraska', 'mkarpovlf@columbia.edu', '402-256-5853', 175158, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jaclin', 'Edmead', '7 Tennyson Road', 'Milwaukee', 'Wisconsin', 'jedmeadlg@canalblog.com', '414-283-7733', 484569, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nichol', 'Menzies', '91806 Nobel Drive', 'Little Rock', 'Arkansas', 'nmenzieslh@amazonaws.com', '501-642-4623', 348045, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Norris', 'Dacca', '46513 Pepper Wood Center', 'Philadelphia', 'Pennsylvania', 'ndaccali@forbes.com', '215-111-0742', 417197, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Terrill', 'Duchatel', '73881 Sachtjen Crossing', 'Charleston', 'West Virginia', 'tduchatellj@bandcamp.com', '304-465-6942', 494485, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shantee', 'Shee', '12 Hermina Road', 'Washington', 'District of Columbia', 'ssheelk@vinaora.com', '202-478-5446', 323507, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Leontine', 'Gooddy', '161 Coleman Park', 'Miami', 'Florida', 'lgooddyll@netscape.com', '305-626-6922', 751096, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ax', 'Ridolfo', '82743 Vahlen Alley', 'Montgomery', 'Alabama', 'aridolfolm@ftc.gov', '334-942-4355', 892785, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Janetta', 'Pendred', '59 Erie Lane', 'Washington', 'District of Columbia', 'jpendredln@163.com', '202-235-6706', 561359, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Haydon', 'Kubin', '508 Weeping Birch Junction', 'New Orleans', 'Louisiana', 'hkubinlo@ebay.com', '504-183-4815', 690809, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rhett', 'McPartlin', '06090 Westport Drive', 'Cincinnati', 'Ohio', 'rmcpartlinlp@ehow.com', '513-739-0821', 590614, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Oates', 'Twyford', '789 Farragut Terrace', 'Pasadena', 'California', 'otwyfordlq@cdc.gov', '626-288-6218', 711988, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sollie', 'Creavin', '6467 Myrtle Parkway', 'El Paso', 'Texas', 'screavinlr@blogtalkradio.com', '915-836-3796', 430247, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Haven', 'Groucutt', '19389 Loomis Trail', 'Charlotte', 'North Carolina', 'hgroucuttls@edublogs.org', '704-418-7139', 730604, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tamarra', 'MacGauhy', '33 Main Alley', 'Tyler', 'Texas', 'tmacgauhylt@usa.gov', '903-814-6152', 66086, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Keary', 'Screase', '5840 East Park', 'Lake Worth', 'Florida', 'kscreaselu@yale.edu', '561-645-5534', 945625, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Merrel', 'Maw', '21 Manufacturers Crossing', 'Dallas', 'Texas', 'mmawlv@unblog.fr', '214-475-9708', 917300, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tiffanie', 'Flear', '1 Browning Plaza', 'Phoenix', 'Arizona', 'tflearlw@seesaa.net', '602-775-1706', 1744, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jarret', 'Murrison', '19836 Dexter Avenue', 'Houston', 'Texas', 'jmurrisonlx@ihg.com', '713-738-0201', 348660, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Agnesse', 'Fermoy', '44 Cascade Avenue', 'Portland', 'Oregon', 'afermoyly@ucsd.edu', '503-377-8024', 747281, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Christel', 'Vassar', '62 Homewood Circle', 'Boise', 'Idaho', 'cvassarlz@amazonaws.com', '208-696-1111', 674274, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rab', 'Sergeaunt', '9320 Monica Alley', 'Bethesda', 'Maryland', 'rsergeauntm0@yale.edu', '301-866-1320', 582006, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kyrstin', 'Dethloff', '921 Village Alley', 'Hartford', 'Connecticut', 'kdethloffm1@umn.edu', '860-958-7684', 398564, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cheston', 'Bricksey', '234 Bobwhite Junction', 'Salt Lake City', 'Utah', 'cbrickseym2@ovh.net', '801-371-7469', 671481, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Myrle', 'Gell', '9 Lukken Junction', 'Amarillo', 'Texas', 'mgellm3@newyorker.com', '806-195-4046', 88430, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sloane', 'Phipard-Shears', '717 Vernon Hill', 'Boston', 'Massachusetts', 'sphipardshearsm4@photobucket.com', '617-424-6367', 997634, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rachelle', 'Dericut', '30918 Sachs Lane', 'Boston', 'Massachusetts', 'rdericutm5@surveymonkey.com', '617-450-1304', 477410, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mayor', 'Toun', '7 Vidon Place', 'Denver', 'Colorado', 'mtounm6@weibo.com', '303-322-6702', 381866, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Flory', 'Naylor', '5424 Sutherland Park', 'Albany', 'New York', 'fnaylorm7@devhub.com', '518-740-7711', 669458, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Phoebe', 'Alyoshin', '530 Larry Drive', 'Portland', 'Oregon', 'palyoshinm8@independent.co.uk', '971-255-7425', 847876, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Misty', 'Papps', '0 Kings Drive', 'Winston Salem', 'North Carolina', 'mpappsm9@nhs.uk', '336-327-7792', 758414, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ginger', 'Camilli', '0766 Comanche Place', 'Columbia', 'South Carolina', 'gcamillima@cdc.gov', '803-456-2732', 328694, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hagen', 'Sansam', '2 Meadow Valley Street', 'Miami', 'Florida', 'hsansammb@nature.com', '786-145-9854', 885672, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brianne', 'Strowger', '5 Doe Crossing Court', 'Albany', 'New York', 'bstrowgermc@ameblo.jp', '518-272-6358', 122812, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Englebert', 'Durrans', '54 Brentwood Pass', 'Los Angeles', 'California', 'edurransmd@phpbb.com', '213-926-5602', 518327, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Reuben', 'Concannon', '4548 Sloan Crossing', 'Detroit', 'Michigan', 'rconcannonme@answers.com', '734-691-5813', 107688, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sal', 'Blant', '644 Petterle Hill', 'Nashville', 'Tennessee', 'sblantmf@yellowpages.com', '615-799-5146', 988573, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Suzi', 'Chevins', '0550 Oak Valley Lane', 'Hicksville', 'New York', 'schevinsmg@sitemeter.com', '516-706-4143', 186990, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Terri', 'Bruhnsen', '99 Sugar Place', 'Orlando', 'Florida', 'tbruhnsenmh@ihg.com', '407-105-0356', 276022, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Darnall', 'Britian', '0857 Karstens Lane', 'Santa Rosa', 'California', 'dbritianmi@free.fr', '707-916-3594', 865326, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Martainn', 'Ravenscroft', '4 6th Junction', 'Akron', 'Ohio', 'mravenscroftmj@uol.com.br', '330-500-4830', 610498, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wait', 'Dod', '15780 Warner Terrace', 'Peoria', 'Illinois', 'wdodmk@1688.com', '309-220-5461', 891419, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cherin', 'MacGaughey', '204 Chinook Trail', 'Las Vegas', 'Nevada', 'cmacgaugheyml@umn.edu', '702-628-9328', 716899, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gwenny', 'Troth', '2 Becker Trail', 'Albany', 'New York', 'gtrothmm@mediafire.com', '518-940-1763', 435056, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Virgilio', 'Caldero', '7 Burrows Avenue', 'Gulfport', 'Mississippi', 'vcalderomn@upenn.edu', '228-427-8462', 127388, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cris', 'Asprey', '31 Rockefeller Street', 'San Antonio', 'Texas', 'caspreymo@mit.edu', '210-657-5897', 647511, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Myles', 'Libri', '3876 Fulton Street', 'Dayton', 'Ohio', 'mlibrimp@google.it', '513-177-6432', 551640, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Paco', 'Pittendreigh', '019 Jay Road', 'Minneapolis', 'Minnesota', 'ppittendreighmq@weibo.com', '651-406-6532', 332108, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Edsel', 'Blaker', '7 Ronald Regan Junction', 'Greensboro', 'North Carolina', 'eblakermr@sitemeter.com', '336-494-1667', 780401, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Alexi', 'Habron', '22 4th Trail', 'Albany', 'New York', 'ahabronms@technorati.com', '518-728-9337', 278911, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laurice', 'Angier', '462 High Crossing Place', 'Jersey City', 'New Jersey', 'langiermt@forbes.com', '908-835-2492', 22651, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Viviene', 'Penley', '64 Esker Point', 'Dallas', 'Texas', 'vpenleymu@barnesandnoble.com', '214-491-6912', 362176, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Debbie', 'Ivkovic', '0897 Doe Crossing Avenue', 'Tyler', 'Texas', 'divkovicmv@bloglovin.com', '903-334-9575', 47144, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pet', 'Thaine', '4694 Everett Avenue', 'Houston', 'Texas', 'pthainemw@freewebs.com', '713-211-1268', 18261, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Perry', 'Lewson', '47647 Aberg Way', 'Las Cruces', 'New Mexico', 'plewsonmx@cisco.com', '505-802-0069', 747995, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cassi', 'Fellis', '355 Rowland Parkway', 'Orange', 'California', 'cfellismy@google.ca', '714-787-9219', 360863, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jamey', 'Sowthcote', '1 Lakewood Gardens Plaza', 'Colorado Springs', 'Colorado', 'jsowthcotemz@tiny.cc', '719-566-9182', 619775, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Piotr', 'Breakspear', '5 Mitchell Park', 'Saint Louis', 'Missouri', 'pbreakspearn0@mysql.com', '636-736-0942', 580074, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Melody', 'Mulqueen', '52637 American Road', 'Santa Barbara', 'California', 'mmulqueenn1@time.com', '805-187-5033', 880951, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laughton', 'Bauman', '540 Dennis Center', 'Little Rock', 'Arkansas', 'lbaumann2@quantcast.com', '501-577-2151', 178552, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Piper', 'Maytum', '098 Huxley Junction', 'El Paso', 'Texas', 'pmaytumn3@dagondesign.com', '915-419-3089', 69984, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Edd', 'Karpfen', '2 Holmberg Court', 'Amarillo', 'Texas', 'ekarpfenn4@geocities.jp', '806-917-5481', 673861, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Caritta', 'Cozzi', '80 Waywood Road', 'Louisville', 'Kentucky', 'ccozzin5@irs.gov', '502-647-9859', 709838, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tedman', 'Kipping', '84263 Hazelcrest Pass', 'Philadelphia', 'Pennsylvania', 'tkippingn6@wisc.edu', '215-889-8032', 476993, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Karim', 'Rummer', '09 Schurz Junction', 'Littleton', 'Colorado', 'krummern7@nba.com', '303-550-1455', 627510, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Justis', 'Nicolson', '31 Victoria Lane', 'Orange', 'California', 'jnicolsonn8@ning.com', '714-590-2228', 909402, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Esta', 'Lettsom', '75 Merchant Place', 'Saint Paul', 'Minnesota', 'elettsomn9@domainmarket.com', '651-389-8923', 473542, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cally', 'Bolzmann', '5 Victoria Point', 'Wilmington', 'Delaware', 'cbolzmannna@last.fm', '302-947-6446', 444560, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hagen', 'Hawton', '668 Mifflin Park', 'Van Nuys', 'California', 'hhawtonnb@istockphoto.com', '213-971-9932', 457988, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eadmund', 'Chinnick', '5427 Merrick Avenue', 'Muncie', 'Indiana', 'echinnicknc@state.tx.us', '765-617-7888', 919698, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Keeley', 'Skettles', '87 Lighthouse Bay Way', 'Houston', 'Texas', 'kskettlesnd@ucoz.ru', '713-584-6977', 405270, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hollyanne', 'Maffeo', '0 Hudson Park', 'Philadelphia', 'Pennsylvania', 'hmaffeone@newsvine.com', '215-153-0881', 591690, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Aeriel', 'Tayspell', '03 Grover Court', 'Pittsburgh', 'Pennsylvania', 'atayspellnf@techcrunch.com', '412-276-6729', 344190, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sibeal', 'Medgwick', '64 Vidon Terrace', 'Austin', 'Texas', 'smedgwickng@businesswire.com', '512-133-8414', 929956, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Buddie', 'Agge', '65978 Redwing Junction', 'Green Bay', 'Wisconsin', 'baggenh@xrea.com', '920-195-3642', 613244, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Braden', 'Van Arsdale', '90276 Summer Ridge Junction', 'Boston', 'Massachusetts', 'bvanarsdaleni@reuters.com', '617-661-5021', 657371, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Janetta', 'Petrolli', '15 Monterey Crossing', 'Jamaica', 'New York', 'jpetrollinj@networksolutions.com', '917-467-2410', 208195, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Valle', 'Coppin', '69 Moose Circle', 'Fresno', 'California', 'vcoppinnk@buzzfeed.com', '559-721-9147', 2669, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gaspar', 'Mangenot', '7 Butternut Hill', 'Dallas', 'Texas', 'gmangenotnl@wordpress.com', '972-224-5739', 558698, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brandais', 'Sparshutt', '00 Lindbergh Center', 'Philadelphia', 'Pennsylvania', 'bsparshuttnm@oakley.com', '215-762-5209', 699961, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mersey', 'Shewry', '72 Artisan Lane', 'Garden Grove', 'California', 'mshewrynn@cnbc.com', '310-548-6902', 398570, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cariotta', 'Brimicombe', '83991 Dexter Court', 'Fort Pierce', 'Florida', 'cbrimicombeno@mit.edu', '772-353-1489', 591977, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marnie', 'Trevorrow', '17406 Hoard Pass', 'Suffolk', 'Virginia', 'mtrevorrownp@simplemachines.org', '757-325-3455', 136278, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Arden', 'Tiplady', '9042 Northwestern Place', 'Sacramento', 'California', 'atipladynq@globo.com', '916-124-7071', 42374, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laurie', 'Springall', '19452 Knutson Lane', 'Boston', 'Massachusetts', 'lspringallnr@comsenz.com', '339-590-2449', 153495, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kerry', 'Courage', '03 Clarendon Parkway', 'Pittsburgh', 'Pennsylvania', 'kcouragens@networkadvertising.org', '724-623-7062', 709211, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Puff', 'Guidotti', '6776 Almo Hill', 'Cincinnati', 'Ohio', 'pguidottint@adobe.com', '513-500-8705', 82737, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dall', 'Crossfeld', '207 Swallow Way', 'New York City', 'New York', 'dcrossfeldnu@paginegialle.it', '917-285-6278', 244200, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brendan', 'Getch', '5 Kennedy Alley', 'Fort Worth', 'Texas', 'bgetchnv@cpanel.net', '817-556-7503', 458921, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Perceval', 'Whitta', '59 Garrison Court', 'Denver', 'Colorado', 'pwhittanw@photobucket.com', '303-521-3384', 137054, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Willy', 'Romney', '089 Troy Point', 'Seattle', 'Washington', 'wromneynx@nps.gov', '425-100-3832', 188734, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jackelyn', 'Thor', '30444 Pond Park', 'Springfield', 'Massachusetts', 'jthorny@usnews.com', '413-575-1291', 706840, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shanan', 'Hallows', '152 Dapin Alley', 'Mansfield', 'Ohio', 'shallowsnz@mapy.cz', '419-387-3092', 463960, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Janna', 'Swinney', '0 Portage Hill', 'Springfield', 'Illinois', 'jswinneyo0@chronoengine.com', '217-471-4289', 626561, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Noreen', 'Parkin', '9 Colorado Alley', 'Lexington', 'Kentucky', 'nparkino1@xing.com', '859-830-8032', 674678, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wally', 'Creigan', '43 Fallview Plaza', 'Aurora', 'Colorado', 'wcreigano2@wordpress.org', '303-679-3832', 65930, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clyve', 'Huitson', '7 Logan Court', 'Pocatello', 'Idaho', 'chuitsono3@pagesperso-orange.fr', '208-572-3014', 490747, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Remington', 'Boffin', '0335 Brickson Park Court', 'Fort Wayne', 'Indiana', 'rboffino4@jiathis.com', '260-413-7168', 430787, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Evered', 'Grimbaldeston', '433 Shelley Crossing', 'Abilene', 'Texas', 'egrimbaldestono5@goo.gl', '325-126-9273', 708473, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Westbrooke', 'Ellick', '04 Corry Pass', 'Worcester', 'Massachusetts', 'wellicko6@icq.com', '508-500-5153', 122846, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rutherford', 'Twittey', '836 Pennsylvania Pass', 'Greensboro', 'North Carolina', 'rtwitteyo7@homestead.com', '336-831-0340', 135097, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hally', 'Bertholin', '36 Cardinal Drive', 'Jefferson City', 'Missouri', 'hbertholino8@blinklist.com', '573-252-0590', 514298, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chen', 'Panyer', '24 Granby Way', 'Sunnyvale', 'California', 'cpanyero9@craigslist.org', '408-907-5847', 684826, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Robbin', 'Lear', '11 Jenna Plaza', 'Springfield', 'Illinois', 'rlearoa@nifty.com', '217-420-1099', 952527, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Flor', 'Hambric', '11 Cottonwood Terrace', 'San Antonio', 'Texas', 'fhambricob@etsy.com', '210-826-8737', 957798, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bernardine', 'Friel', '8 Del Mar Court', 'Raleigh', 'North Carolina', 'bfrieloc@shareasale.com', '919-555-1756', 614776, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nikoletta', 'Lockley', '38 David Crossing', 'Reading', 'Pennsylvania', 'nlockleyod@archive.org', '484-842-0910', 477478, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Paul', 'Woodfield', '5 Vermont Trail', 'Houston', 'Texas', 'pwoodfieldoe@jalbum.net', '832-848-6151', 546689, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rhoda', 'Yearron', '0099 Hansons Pass', 'Saint Louis', 'Missouri', 'ryearronof@reuters.com', '314-531-3029', 296280, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dannie', 'Combe', '2 Carpenter Avenue', 'Austin', 'Texas', 'dcombeog@imgur.com', '512-856-9569', 839261, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lazar', 'Durward', '2647 Bultman Point', 'Falls Church', 'Virginia', 'ldurwardoh@psu.edu', '571-912-8995', 175525, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Pietro', 'Tabner', '9 Gerald Trail', 'Phoenix', 'Arizona', 'ptabneroi@latimes.com', '602-408-8063', 810760, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rodrigo', 'Urwin', '56 Mayfield Junction', 'Anaheim', 'California', 'rurwinoj@japanpost.jp', '714-435-1855', 406857, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gilbert', 'Wooffinden', '72687 Waxwing Alley', 'Minneapolis', 'Minnesota', 'gwooffindenok@kickstarter.com', '651-485-4545', 727460, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maye', 'Le Provest', '8795 Green Avenue', 'Pittsburgh', 'Pennsylvania', 'mleprovestol@nationalgeographic.com', '412-307-5003', 546901, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bunnie', 'Tullett', '33 1st Center', 'Waco', 'Texas', 'btullettom@prnewswire.com', '254-265-6034', 469194, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Amandi', 'Rickford', '6 La Follette Junction', 'Louisville', 'Kentucky', 'arickfordon@webeden.co.uk', '502-371-6028', 136550, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carl', 'Delhay', '95 Messerschmidt Parkway', 'Long Beach', 'California', 'cdelhayoo@imageshack.us', '562-177-2460', 357272, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Putnam', 'Calow', '6869 Claremont Court', 'Baton Rouge', 'Louisiana', 'pcalowop@livejournal.com', '225-888-5258', 997842, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bambie', 'Kenworthy', '9951 Kropf Pass', 'Cincinnati', 'Ohio', 'bkenworthyoq@illinois.edu', '513-405-2786', 868192, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Valaree', 'Frayn', '0280 Prairieview Point', 'Corona', 'California', 'vfraynor@apache.org', '951-706-5783', 916276, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kerwin', 'Pigrome', '3517 Di Loreto Circle', 'Decatur', 'Georgia', 'kpigromeos@mysql.com', '404-181-9403', 599482, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ruy', 'Hulse', '71 Cherokee Way', 'Chicago', 'Illinois', 'rhulseot@smugmug.com', '312-338-3569', 790837, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lorette', 'Slewcock', '84155 Petterle Parkway', 'Los Angeles', 'California', 'lslewcockou@npr.org', '213-709-4828', 878295, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Harmonie', 'Fisby', '6883 Jay Street', 'Tulsa', 'Oklahoma', 'hfisbyov@springer.com', '918-491-6833', 631242, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Sharon', 'Feak', '6 Annamark Place', 'Flushing', 'New York', 'sfeakow@bizjournals.com', '718-895-9313', 299963, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Blaire', 'Chenery', '6 Golf Point', 'New Orleans', 'Louisiana', 'bcheneryox@un.org', '504-416-4426', 362747, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brigg', 'Thorogood', '5 Dryden Terrace', 'El Paso', 'Texas', 'bthorogoodoy@arizona.edu', '915-876-4622', 619457, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Evelyn', 'Shilston', '46 Stang Center', 'Raleigh', 'North Carolina', 'eshilstonoz@accuweather.com', '919-359-7409', 123446, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bryn', 'Craigie', '66144 Duke Pass', 'Corpus Christi', 'Texas', 'bcraigiep0@bravesites.com', '361-537-2511', 275540, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bernard', 'Sinfield', '807 Sage Plaza', 'Phoenix', 'Arizona', 'bsinfieldp1@army.mil', '602-443-3060', 94350, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gerianne', 'Glassford', '35867 Rutledge Avenue', 'Phoenix', 'Arizona', 'gglassfordp2@sciencedaily.com', '602-512-6270', 463625, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Federico', 'McMoyer', '4871 Scofield Street', 'Lansing', 'Michigan', 'fmcmoyerp3@parallels.com', '517-214-1198', 889423, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rica', 'Gravett', '66 Reindahl Terrace', 'Garland', 'Texas', 'rgravettp4@topsy.com', '214-532-5058', 142917, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Forest', 'Tallent', '15 Hallows Avenue', 'Camden', 'New Jersey', 'ftallentp5@naver.com', '856-743-5393', 460874, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Wandis', 'Mournian', '8068 Gateway Terrace', 'Philadelphia', 'Pennsylvania', 'wmournianp6@hibu.com', '215-138-5953', 185658, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('West', 'Hilliam', '5069 Porter Alley', 'Boise', 'Idaho', 'whilliamp7@upenn.edu', '208-241-0696', 953017, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Silvano', 'McConnulty', '0 Shopko Plaza', 'Berkeley', 'California', 'smcconnultyp8@domainmarket.com', '510-297-5328', 575385, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brendin', 'Jeandin', '877 Westerfield Lane', 'Salt Lake City', 'Utah', 'bjeandinp9@biglobe.ne.jp', '801-883-0674', 942975, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Joete', 'Marde', '9 Northview Crossing', 'Cincinnati', 'Ohio', 'jmardepa@simplemachines.org', '513-263-3956', 299077, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dolf', 'Saunper', '214 Katie Alley', 'Kingsport', 'Tennessee', 'dsaunperpb@netvibes.com', '423-216-9792', 281871, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Daffi', 'McGrudder', '17729 Porter Plaza', 'Miami', 'Florida', 'dmcgrudderpc@uol.com.br', '786-176-2087', 473415, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Correy', 'Dunniom', '5795 Park Meadow Alley', 'Seattle', 'Washington', 'cdunniompd@unblog.fr', '360-735-3604', 154012, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mick', 'Grattan', '5888 Union Place', 'Chicago', 'Illinois', 'mgrattanpe@java.com', '312-240-5210', 254537, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elijah', 'Pedden', '589 Lindbergh Hill', 'Washington', 'District of Columbia', 'epeddenpf@4shared.com', '202-225-8057', 126434, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Mina', 'Quarrie', '2747 Stephen Way', 'Pomona', 'California', 'mquarriepg@amazon.co.jp', '909-721-0116', 909076, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Arv', 'Yukhtin', '85292 Dapin Road', 'Montgomery', 'Alabama', 'ayukhtinph@shop-pro.jp', '334-907-3376', 393275, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Arleyne', 'Cossam', '72 Southridge Center', 'Rochester', 'New York', 'acossampi@infoseek.co.jp', '585-959-6342', 536228, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nigel', 'Kear', '64267 Graceland Crossing', 'Columbus', 'Ohio', 'nkearpj@bluehost.com', '614-138-8647', 336627, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Yank', 'Hansen', '18 Susan Avenue', 'Largo', 'Florida', 'yhansenpk@hud.gov', '727-494-5377', 45073, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bernie', 'Swyre', '2325 Heath Trail', 'Cleveland', 'Ohio', 'bswyrepl@dedecms.com', '216-639-1946', 513964, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Corbet', 'McVey', '4 Boyd Terrace', 'Charlotte', 'North Carolina', 'cmcveypm@furl.net', '704-816-5381', 216333, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lana', 'Coggins', '8 Crescent Oaks Court', 'Great Neck', 'New York', 'lcogginspn@webeden.co.uk', '516-505-3739', 874625, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Luciano', 'Rubinovici', '65887 Melby Hill', 'Lafayette', 'Indiana', 'lrubinovicipo@jigsy.com', '765-490-3178', 584117, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Glenda', 'Borer', '57 Anhalt Way', 'Fort Worth', 'Texas', 'gborerpp@symantec.com', '817-723-5190', 981799, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Chelsea', 'Gookey', '57461 Arkansas Parkway', 'Carson City', 'Nevada', 'cgookeypq@alexa.com', '775-534-6539', 388437, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jerry', 'Wimbury', '966 Eliot Pass', 'Bethlehem', 'Pennsylvania', 'jwimburypr@digg.com', '267-702-2485', 893245, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Noemi', 'Croson', '18 Norway Maple Point', 'Riverside', 'California', 'ncrosonps@washingtonpost.com', '951-785-7221', 281390, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Laughton', 'Sailer', '5598 Tennessee Trail', 'Springfield', 'Massachusetts', 'lsailerpt@google.co.uk', '413-470-4745', 575883, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eva', 'Lesmonde', '8105 Vera Drive', 'Minneapolis', 'Minnesota', 'elesmondepu@nydailynews.com', '612-903-2608', 375504, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Nata', 'Kernermann', '3221 Onsgard Alley', 'Minneapolis', 'Minnesota', 'nkernermannpv@icio.us', '763-999-7524', 389872, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carolin', 'Lawley', '14 Farwell Road', 'San Jose', 'California', 'clawleypw@google.co.jp', '408-121-1677', 471741, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cross', 'Roycroft', '56425 Fisk Plaza', 'El Paso', 'Texas', 'croycroftpx@loc.gov', '915-307-1925', 831516, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Maisie', 'Zapata', '6111 Kingsford Terrace', 'Corona', 'California', 'mzapatapy@surveymonkey.com', '951-950-5619', 425499, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Arden', 'Edington', '0 Beilfuss Road', 'Seattle', 'Washington', 'aedingtonpz@uiuc.edu', '206-151-3918', 57503, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Raleigh', 'Paffley', '87820 Redwing Road', 'Seattle', 'Washington', 'rpaffleyq0@artisteer.com', '253-196-6876', 903723, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Fran', 'Jeffers', '2 Mayfield Point', 'Buffalo', 'New York', 'fjeffersq1@friendfeed.com', '716-389-2822', 11703, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bron', 'Losbie', '3835 Chinook Lane', 'Buffalo', 'New York', 'blosbieq2@hibu.com', '716-545-8059', 979028, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Klemens', 'Ishaki', '277 Onsgard Court', 'Bozeman', 'Montana', 'kishakiq3@seesaa.net', '406-357-2684', 454375, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Hazel', 'Gerholz', '1 Springs Road', 'Cambridge', 'Massachusetts', 'hgerholzq4@bloomberg.com', '508-810-2247', 208010, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marsh', 'Harlett', '99 Anniversary Trail', 'Orange', 'California', 'mharlettq5@wufoo.com', '714-429-6962', 113286, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kristoffer', 'Huntingford', '5741 Boyd Parkway', 'Little Rock', 'Arkansas', 'khuntingfordq6@psu.edu', '501-387-6678', 404329, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Didi', 'Pitrasso', '0943 Meadow Valley Plaza', 'Minneapolis', 'Minnesota', 'dpitrassoq7@printfriendly.com', '763-164-6704', 351861, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Francine', 'Espine', '5401 Golf View Center', 'New York City', 'New York', 'fespineq8@dropbox.com', '212-504-3225', 611238, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Marc', 'Casewell', '08630 Basil Pass', 'Houston', 'Texas', 'mcasewellq9@purevolume.com', '713-468-3031', 819786, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Niki', 'McVrone', '75 Dapin Park', 'Kansas City', 'Missouri', 'nmcvroneqa@hc360.com', '816-838-6751', 588524, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Brianne', 'Josefs', '0672 Anhalt Pass', 'Cedar Rapids', 'Iowa', 'bjosefsqb@ameblo.jp', '319-505-5815', 94259, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Kiersten', 'Stuehmeier', '73 Aberg Trail', 'Jamaica', 'New York', 'kstuehmeierqc@booking.com', '718-113-4320', 922912, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Derek', 'Lusher', '81940 Bashford Junction', 'Jacksonville', 'Florida', 'dlusherqd@ibm.com', '904-450-5529', 474302, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Elsie', 'Lattimer', '499 Atwood Lane', 'Salt Lake City', 'Utah', 'elattimerqe@vistaprint.com', '801-697-1277', 400476, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Julienne', 'McArthur', '10948 John Wall Center', 'Sacramento', 'California', 'jmcarthurqf@tmall.com', '916-580-1415', 314302, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lion', 'Kyngdon', '5 Iowa Avenue', 'Miami', 'Florida', 'lkyngdonqg@ft.com', '305-639-3373', 448133, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Raddie', 'de Quesne', '0048 Jana Lane', 'Gulfport', 'Mississippi', 'rdequesneqh@technorati.com', '228-279-1212', 886649, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Porter', 'Cage', '55931 Farwell Plaza', 'Mobile', 'Alabama', 'pcageqi@fda.gov', '251-597-5813', 908570, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Iago', 'Luxford', '22806 Hoepker Trail', 'Charlotte', 'North Carolina', 'iluxfordqj@amazonaws.com', '704-276-2288', 415481, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Lyda', 'Trynor', '26558 Continental Lane', 'Colorado Springs', 'Colorado', 'ltrynorqk@nytimes.com', '719-588-5963', 366466, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Abe', 'Chew', '88 Lindbergh Parkway', 'Raleigh', 'North Carolina', 'achewql@rakuten.co.jp', '919-213-9694', 156971, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Buddy', 'Rodbourne', '9745 Hauk Plaza', 'El Paso', 'Texas', 'brodbourneqm@nytimes.com', '915-316-5273', 620847, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cathee', 'Hynam', '076 Declaration Pass', 'Oklahoma City', 'Oklahoma', 'chynamqn@apple.com', '405-731-6892', 984104, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Molly', 'Callicott', '7428 Eliot Hill', 'Fort Worth', 'Texas', 'mcallicottqo@apache.org', '817-436-5984', 455663, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bale', 'Salsbury', '940 Anhalt Center', 'Amarillo', 'Texas', 'bsalsburyqp@fastcompany.com', '806-870-4811', 67189, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Rik', 'Klagge', '770 Judy Court', 'Milwaukee', 'Wisconsin', 'rklaggeqq@youku.com', '414-575-2110', 407833, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Farrah', 'Byk', '403 Monica Hill', 'Albuquerque', 'New Mexico', 'fbykqr@domainmarket.com', '505-490-1749', 221539, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Eolande', 'Padbery', '7 Montana Junction', 'Corpus Christi', 'Texas', 'epadberyqs@hud.gov', '361-397-7521', 851554, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Modestia', 'Barthrup', '122 Forest Dale Parkway', 'Hagerstown', 'Maryland', 'mbarthrupqt@spotify.com', '240-435-4526', 928499, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Minne', 'Mattocks', '75697 Columbus Junction', 'Columbus', 'Ohio', 'mmattocksqu@sourceforge.net', '614-667-2168', 889165, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Shayne', 'Ailmer', '13503 Mcguire Point', 'Saint Paul', 'Minnesota', 'sailmerqv@ftc.gov', '651-234-4176', 869708, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Winny', 'Lutty', '61298 Bellgrove Way', 'Tuscaloosa', 'Alabama', 'wluttyqw@simplemachines.org', '205-596-6723', 936779, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Georgie', 'Dolman', '789 Hintze Place', 'Aurora', 'Colorado', 'gdolmanqx@ucsd.edu', '720-185-6242', 297579, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Haze', 'Portugal', '399 Dryden Road', 'New Bedford', 'Massachusetts', 'hportugalqy@ibm.com', '508-836-4356', 928581, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Reynard', 'Drewett', '022 Pond Street', 'Lexington', 'Kentucky', 'rdrewettqz@google.nl', '859-991-4944', 48367, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gal', 'Zecchinelli', '4596 Derek Place', 'Little Rock', 'Arkansas', 'gzecchinellir0@patch.com', '501-603-2371', 519989, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dixie', 'Hitzke', '130 Farwell Park', 'Corpus Christi', 'Texas', 'dhitzker1@163.com', '361-751-6805', 816394, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dermot', 'Gawen', '52124 Brown Place', 'Norfolk', 'Virginia', 'dgawenr2@wikimedia.org', '757-755-0138', 481115, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Amitie', 'Fulle', '994 Dwight Road', 'Denver', 'Colorado', 'afuller3@nasa.gov', '303-176-9453', 485163, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Thaddus', 'Chatin', '991 Karstens Street', 'Toledo', 'Ohio', 'tchatinr4@sohu.com', '419-287-6770', 902255, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Herb', 'Lavis', '499 Stoughton Circle', 'Denver', 'Colorado', 'hlavisr5@ucsd.edu', '720-909-8180', 36388, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Cyb', 'Clayhill', '18404 Gale Trail', 'Arlington', 'Texas', 'cclayhillr6@163.com', '713-113-6687', 936608, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Robyn', 'Gilbee', '37786 Debra Street', 'Salt Lake City', 'Utah', 'rgilbeer7@ihg.com', '801-492-3606', 204355, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Adriaens', 'Stelle', '11451 School Terrace', 'Springfield', 'Illinois', 'asteller8@sun.com', '217-965-4351', 76561, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Leupold', 'Bisset', '919 Sage Hill', 'Tucson', 'Arizona', 'lbissetr9@hud.gov', '520-343-1630', 903354, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Win', 'Beames', '84952 Grayhawk Avenue', 'Vero Beach', 'Florida', 'wbeamesra@uol.com.br', '772-481-2112', 174573, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Dasya', 'Eckery', '0663 Lighthouse Bay Pass', 'Canton', 'Ohio', 'deckeryrb@cnet.com', '234-899-3161', 264267, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ellery', 'Maken', '4 Lien Trail', 'Sacramento', 'California', 'emakenrc@nasa.gov', '916-778-8925', 549386, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Travis', 'Jentges', '3 Toban Park', 'Fort Pierce', 'Florida', 'tjentgesrd@squarespace.com', '772-639-2192', 955006, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Abbi', 'Lerigo', '86831 Russell Center', 'Peoria', 'Illinois', 'alerigore@unc.edu', '309-810-5732', 653175, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Ester', 'Hugnot', '4 Buell Court', 'Dallas', 'Texas', 'ehugnotrf@creativecommons.org', '972-393-3453', 941205, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Beatriz', 'Hexham', '566 Claremont Trail', 'Trenton', 'New Jersey', 'bhexhamrg@seattletimes.com', '609-393-2475', 269709, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Gallard', 'Lichtfoth', '36446 Arizona Trail', 'Houston', 'Texas', 'glichtfothrh@boston.com', '832-721-3597', 620002, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Tom', 'Kindleysides', '5331 Macpherson Way', 'Savannah', 'Georgia', 'tkindleysidesri@imageshack.us', '912-879-4619', 858641, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Amalle', 'Chessell', '40499 Brickson Park Trail', 'Modesto', 'California', 'achessellrj@scientificamerican.com', '209-846-2235', 958960, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carolyn', 'Burmingham', '65 Corry Place', 'Atlanta', 'Georgia', 'cburminghamrk@nih.gov', '404-805-6651', 523709, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Meredith', 'Hartley', '1394 Carpenter Drive', 'Louisville', 'Kentucky', 'mhartleyrl@facebook.com', '502-356-3616', 388220, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Syd', 'Roscam', '54790 Warbler Alley', 'Indianapolis', 'Indiana', 'sroscamrm@java.com', '765-473-7561', 89062, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Bess', 'Faley', '5859 Pierstorff Circle', 'Wichita Falls', 'Texas', 'bfaleyrn@surveymonkey.com', '940-614-4376', 300308, 'E');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Clotilda', 'Brockie', '2858 Springview Circle', 'Lancaster', 'Pennsylvania', 'cbrockiero@discovery.com', '717-966-9144', 137696, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Jilleen', 'Izkovicz', '521 Jay Alley', 'Beaumont', 'Texas', 'jizkoviczrp@newsvine.com', '936-798-9015', 494069, 'P');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Reinaldos', 'Hallward', '3236 Briar Crest Street', 'Colorado Springs', 'Colorado', 'rhallwardrq@ehow.com', '719-181-7261', 528125, 'C');
-insert into PERSONA (nombre, apellido, direccion , ciudad, estado, email, telefono, id_persoma, tipo) values ('Carroll', 'McLay', '24 Crowley Parkway', 'Akron', 'Ohio', 'cmclayrr@nymag.com', '330-144-5789', 290248, 'C');
+SET DEFINE OFF
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eugine', 'Jindra', '36 Hanover Trail', 'Ann Arbor', 'Michigan', 'ejindra0@taobao.com', '734-921-3744', 85987, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carola', 'Kersey', '2 Darwin Lane', 'Rochester', 'New York', 'ckersey1@canalblog.com', '585-734-4007', 898569, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Veronike', 'Kinnach', '26 Mandrake Lane', 'Baton Rouge', 'Louisiana', 'vkinnach2@gmpg.org', '225-203-9597', 56650, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Melonie', 'Bancroft', '855 Roth Street', 'Arlington', 'Texas', 'mbancroft3@apache.org', '817-997-0148', 421316, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lotta', 'Bunclark', '38 Burrows Circle', 'New Orleans', 'Louisiana', 'lbunclark4@nbcnews.com', '504-188-7462', 146257, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alexis', 'Reaman', '393 Ruskin Way', 'Gary', 'Indiana', 'areaman5@tuttocitta.it', '219-380-1490', 112013, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Franciska', 'Guerrier', '81 Surrey Trail', 'Columbus', 'Ohio', 'fguerrier6@diigo.com', '614-712-1868', 521844, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Theda', 'Gibby', '697 Duke Park', 'Reno', 'Nevada', 'tgibby7@ezinearticles.com', '775-937-1173', 983158, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dion', 'Simmonett', '78 Lawn Park', 'Corpus Christi', 'Texas', 'dsimmonett8@amazon.com', '361-269-7175', 558535, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tildy', 'Wolfenden', '30 Sundown Plaza', 'Fresno', 'California', 'twolfenden9@taobao.com', '559-434-8315', 584314, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pansie', 'Pettie', '596 Cardinal Road', 'Young America', 'Minnesota', 'ppettiea@edublogs.org', '952-525-6902', 994592, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Druci', 'Roddell', '8 Sutteridge Lane', 'Omaha', 'Nebraska', 'droddellb@ucla.edu', '402-752-9831', 267471, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Woodie', 'Van Merwe', '0606 Melvin Trail', 'Charlotte', 'North Carolina', 'wvanmerwec@examiner.com', '704-874-7114', 4697, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Esta', 'Rylands', '04764 Haas Park', 'Columbus', 'Ohio', 'erylandsd@globo.com', '614-484-4425', 315876, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Trent', 'Donovan', '74 Sauthoff Crossing', 'Fresno', 'California', 'tdonovane@shareasale.com', '559-221-9723', 6097, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Xena', 'York', '746 Memorial Pass', 'Fort Worth', 'Texas', 'xyorkf@dagondesign.com', '817-909-0897', 917632, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Donny', 'Crane', '62 Harper Avenue', 'El Paso', 'Texas', 'dcraneg@reddit.com', '915-669-9789', 48597, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dorice', 'Cassimer', '5400 Stephen Street', 'Nashville', 'Tennessee', 'dcassimerh@mlb.com', '615-560-4843', 95404, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Urbano', 'Gollop', '02 Vera Circle', 'Harrisburg', 'Pennsylvania', 'ugollopi@hugedomains.com', '717-215-3210', 882792, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kelsi', 'Kirwood', '442 Arkansas Hill', 'Rochester', 'New York', 'kkirwoodj@wix.com', '585-482-6043', 767506, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aldon', 'Gerrell', '029 Sachs Way', 'Columbus', 'Ohio', 'agerrellk@dagondesign.com', '614-969-5792', 672739, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Annabella', 'Josephov', '2457 Mccormick Hill', 'New York City', 'New York', 'ajosephovl@apache.org', '212-751-7630', 282263, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zach', 'O''Bruen', '785 Lake View Center', 'Oklahoma City', 'Oklahoma', 'zobruenm@1688.com', '405-214-3966', 661988, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fitz', 'Al Hirsi', '24 Pawling Avenue', 'Fort Myers', 'Florida', 'falhirsin@163.com', '239-702-5469', 724633, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arly', 'Surfleet', '7 Golf Center', 'Laurel', 'Maryland', 'asurfleeto@shutterfly.com', '301-446-2773', 621931, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ann-marie', 'Wilfinger', '46 Clarendon Park', 'Nashville', 'Tennessee', 'awilfingerp@mediafire.com', '615-676-1902', 308486, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Daffy', 'Pickworth', '90372 Caliangt Point', 'Anchorage', 'Alaska', 'dpickworthq@psu.edu', '907-938-2420', 18234, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sissy', 'Caville', '7 Anthes Road', 'Detroit', 'Michigan', 'scaviller@tuttocitta.it', '313-901-1533', 635398, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Idette', 'Norster', '330 Iowa Hill', 'Myrtle Beach', 'South Carolina', 'inorsters@bing.com', '843-101-8743', 144944, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sterne', 'Aldwich', '214 Comanche Point', 'Houston', 'Texas', 'saldwicht@soundcloud.com', '713-606-4773', 939729, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Filmer', 'Ollett', '9353 Farmco Court', 'Washington', 'District of Columbia', 'follettu@washingtonpost.com', '202-697-9996', 394078, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Etti', 'Delgardillo', '41 Bartelt Junction', 'Edmond', 'Oklahoma', 'edelgardillov@walmart.com', '405-717-7136', 119648, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rustie', 'Kinder', '278 Karstens Place', 'Erie', 'Pennsylvania', 'rkinderw@newsvine.com', '814-807-1178', 417804, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Syman', 'Lowcock', '376 Prairieview Avenue', 'Seattle', 'Washington', 'slowcockx@google.co.jp', '206-627-3492', 169029, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Torey', 'Dufaire', '35100 Eastwood Park', 'Salt Lake City', 'Utah', 'tdufairey@sitemeter.com', '801-831-8004', 440893, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carlota', 'Manjin', '0 Stuart Pass', 'Huntsville', 'Alabama', 'cmanjinz@walmart.com', '256-494-7725', 672066, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Leona', 'Dinnage', '6 Springs Parkway', 'Whittier', 'California', 'ldinnage10@slate.com', '562-557-5571', 270591, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nanette', 'Klamp', '9 7th Alley', 'Denver', 'Colorado', 'nklamp11@zdnet.com', '303-891-0025', 494486, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maxi', 'Purdie', '7 Talmadge Junction', 'Pittsburgh', 'Pennsylvania', 'mpurdie12@who.int', '412-372-6598', 19029, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Angelia', 'Ubee', '43 Waywood Parkway', 'Austin', 'Texas', 'aubee13@canalblog.com', '512-534-4981', 606825, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carola', 'Hagland', '08 Saint Paul Circle', 'Washington', 'District of Columbia', 'chagland14@buzzfeed.com', '202-762-5664', 571279, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Andrew', 'Tapenden', '88833 Dawn Trail', 'Saint Louis', 'Missouri', 'atapenden15@geocities.com', '314-745-2716', 849054, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mirilla', 'Grand', '48 Bayside Terrace', 'Philadelphia', 'Pennsylvania', 'mgrand16@forbes.com', '267-569-9960', 321794, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Giorgi', 'Favell', '122 Redwing Point', 'Memphis', 'Tennessee', 'gfavell17@usda.gov', '901-555-9571', 413603, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Natalie', 'Claye', '89 Cambridge Park', 'Shawnee Mission', 'Kansas', 'nclaye18@archive.org', '913-462-7936', 676847, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Britt', 'Kemmons', '03 Hayes Street', 'Pocatello', 'Idaho', 'bkemmons19@go.com', '208-480-0368', 180481, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carney', 'Putt', '51449 Algoma Trail', 'Detroit', 'Michigan', 'cputt1a@issuu.com', '248-174-5165', 47461, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arte', 'Poulsum', '97131 Del Mar Circle', 'Lancaster', 'Pennsylvania', 'apoulsum1b@elpais.com', '717-230-3898', 279554, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Milena', 'Bosenworth', '6 Green Pass', 'San Jose', 'California', 'mbosenworth1c@hugedomains.com', '408-964-7053', 287343, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Raff', 'Laurent', '78213 Dovetail Hill', 'Prescott', 'Arizona', 'rlaurent1d@google.com.hk', '928-269-9096', 349118, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Corbett', 'Linggard', '5966 Canary Alley', 'Oklahoma City', 'Oklahoma', 'clinggard1e@ucoz.ru', '405-323-1044', 66922, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fawn', 'Naisbit', '70 Eggendart Drive', 'Saint Louis', 'Missouri', 'fnaisbit1f@yellowpages.com', '314-982-9345', 65423, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Locke', 'Meneely', '85501 Farmco Pass', 'Fort Wayne', 'Indiana', 'lmeneely1g@nydailynews.com', '260-717-5144', 99069, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Euell', 'Vaisey', '64700 Hintze Crossing', 'Richmond', 'Virginia', 'evaisey1h@blogs.com', '804-194-7487', 570014, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tripp', 'Standbrooke', '9135 Clarendon Road', 'Washington', 'District of Columbia', 'tstandbrooke1i@time.com', '202-177-9808', 863764, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashely', 'Mcsarry', '138 Mitchell Place', 'Marietta', 'Georgia', 'amcsarry1j@google.com.br', '770-538-7368', 975828, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Beret', 'Simonazzi', '9372 Clemons Junction', 'Columbus', 'Georgia', 'bsimonazzi1k@fc2.com', '706-632-8082', 136202, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Johna', 'Croucher', '8442 Sheridan Lane', 'New York City', 'New York', 'jcroucher1l@businessweek.com', '646-726-7814', 592561, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Early', 'Gleed', '5649 Loftsgordon Terrace', 'Fort Wayne', 'Indiana', 'egleed1m@google.pl', '260-170-3358', 413624, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fionnula', 'Sturton', '66 Bluejay Court', 'Tampa', 'Florida', 'fsturton1n@facebook.com', '813-585-0866', 650796, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nerissa', 'Bogart', '602 Twin Pines Circle', 'Long Beach', 'California', 'nbogart1o@digg.com', '562-744-3655', 20329, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Estelle', 'Seedman', '44390 Bartillon Alley', 'Houston', 'Texas', 'eseedman1p@mtv.com', '713-255-0992', 930865, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gaylord', 'O'' Donohoe', '148 Nevada Crossing', 'Cincinnati', 'Ohio', 'godonohoe1q@ycombinator.com', '513-437-2362', 71114, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dill', 'Prandin', '367 Grasskamp Park', 'Tampa', 'Florida', 'dprandin1r@oaic.gov.au', '813-807-0939', 875704, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alistair', 'Rowston', '7304 Graedel Way', 'Des Moines', 'Iowa', 'arowston1s@themeforest.net', '515-844-9815', 810177, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lauraine', 'Beastall', '72935 Dennis Point', 'Columbus', 'Ohio', 'lbeastall1t@live.com', '614-677-2984', 938719, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carlos', 'Roffey', '40590 Shelley Park', 'Southfield', 'Michigan', 'croffey1u@opensource.org', '586-836-9134', 210325, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Theodosia', 'Barhem', '769 Wayridge Center', 'El Paso', 'Texas', 'tbarhem1v@discovery.com', '915-637-3912', 858236, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kippar', 'Bottleson', '381 Manley Plaza', 'Honolulu', 'Hawaii', 'kbottleson1w@is.gd', '808-246-0645', 847318, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Susanna', 'Gurrado', '4156 Grasskamp Junction', 'Los Angeles', 'California', 'sgurrado1x@cnbc.com', '323-993-5133', 527120, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Luise', 'Lutz', '3725 Burning Wood Junction', 'Saint Paul', 'Minnesota', 'llutz1y@techcrunch.com', '651-152-2170', 83692, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arne', 'Hixley', '638 Kipling Pass', 'Rochester', 'New York', 'ahixley1z@weather.com', '585-595-6762', 942600, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Berri', 'Franciotti', '86 Melody Terrace', 'Honolulu', 'Hawaii', 'bfranciotti20@theatlantic.com', '808-880-1792', 419431, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Judon', 'Oliveira', '474 Melody Point', 'Yakima', 'Washington', 'joliveira21@xing.com', '509-211-3214', 157776, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Harris', 'Petasch', '1 Mockingbird Trail', 'Galveston', 'Texas', 'hpetasch22@mediafire.com', '409-116-5049', 377142, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hermy', 'Godridge', '20905 Continental Pass', 'Sparks', 'Nevada', 'hgodridge23@smh.com.au', '775-644-5165', 379250, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Anallise', 'Levesley', '6 Hanson Hill', 'Shawnee Mission', 'Kansas', 'alevesley24@github.io', '816-901-9574', 704623, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ynes', 'Richarson', '902 Grover Park', 'Pompano Beach', 'Florida', 'yricharson25@cyberchimps.com', '754-616-3161', 16519, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bertina', 'Berrigan', '1 Golf Course Avenue', 'Columbus', 'Ohio', 'bberrigan26@eepurl.com', '614-541-9040', 319731, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Evan', 'Ellingsworth', '030 Norway Maple Place', 'Migrate', 'Kentucky', 'eellingsworth27@npr.org', '502-481-7316', 868698, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brett', 'Crippin', '48 Myrtle Place', 'Monticello', 'Minnesota', 'bcrippin28@ca.gov', '763-947-1981', 270551, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Philippine', 'Goly', '00427 Waubesa Point', 'Buffalo', 'New York', 'pgoly29@usatoday.com', '716-961-7614', 943869, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kory', 'Charters', '19092 Talmadge Place', 'Los Angeles', 'California', 'kcharters2a@hud.gov', '323-688-3399', 986188, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Stephannie', 'Kohnert', '9 Coleman Way', 'Pittsburgh', 'Pennsylvania', 'skohnert2b@senate.gov', '412-363-2458', 224281, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lemar', 'Doxey', '9218 Derek Terrace', 'Kansas City', 'Missouri', 'ldoxey2c@twitter.com', '816-188-2265', 171596, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marji', 'Dunning', '775 Morrow Point', 'Midland', 'Texas', 'mdunning2d@behance.net', '432-500-2067', 509787, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Susanne', 'Stevani', '68029 Almo Center', 'Albuquerque', 'New Mexico', 'sstevani2e@prlog.org', '505-196-7081', 333596, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alessandra', 'McAlees', '05573 Artisan Road', 'Erie', 'Pennsylvania', 'amcalees2f@google.nl', '814-289-4660', 51213, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aldon', 'McLellan', '7 Rutledge Trail', 'Port Charlotte', 'Florida', 'amclellan2g@cnet.com', '941-148-4540', 156069, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Malena', 'Collman', '14 Esch Street', 'Arlington', 'Texas', 'mcollman2h@tiny.cc', '214-930-8421', 683443, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gloria', 'Meijer', '61649 New Castle Street', 'Philadelphia', 'Pennsylvania', 'gmeijer2i@usda.gov', '215-587-1820', 343351, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Baron', 'Ferriday', '7163 Green Ridge Point', 'Austin', 'Texas', 'bferriday2j@dagondesign.com', '512-777-5564', 69953, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dede', 'Grocutt', '7 Straubel Street', 'Mesa', 'Arizona', 'dgrocutt2k@ycombinator.com', '480-204-8377', 164553, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dosi', 'Rabjohn', '723 Grim Circle', 'Arlington', 'Virginia', 'drabjohn2l@npr.org', '571-542-4822', 944324, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Felicle', 'Thunderman', '79702 Burning Wood Street', 'Panama City', 'Florida', 'fthunderman2m@ft.com', '850-956-7063', 69463, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Flory', 'Eadon', '1961 Rutledge Junction', 'San Bernardino', 'California', 'feadon2n@dion.ne.jp', '909-824-7186', 136424, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Staffard', 'Dominey', '9541 Gina Plaza', 'Minneapolis', 'Minnesota', 'sdominey2o@jimdo.com', '612-335-1103', 505818, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Beau', 'Timms', '0 Hazelcrest Park', 'Jackson', 'Mississippi', 'btimms2p@flavors.me', '601-767-0979', 95361, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fielding', 'Dunmuir', '42 Tony Trail', 'Houston', 'Texas', 'fdunmuir2q@hud.gov', '713-206-1768', 479973, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shaine', 'Instone', '27644 Leroy Center', 'Washington', 'District of Columbia', 'sinstone2r@google.co.uk', '202-117-4135', 479939, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Constance', 'Loades', '01 Cody Drive', 'Washington', 'District of Columbia', 'cloades2s@wikia.com', '202-824-6344', 274376, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Xaviera', 'Goldie', '65628 Norway Maple Way', 'Columbia', 'South Carolina', 'xgoldie2t@constantcontact.com', '803-616-8493', 763251, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Krystle', 'Wilstead', '6052 Dixon Street', 'Oakland', 'California', 'kwilstead2u@furl.net', '510-347-4773', 168154, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Galen', 'Pershouse', '508 Declaration Court', 'Omaha', 'Nebraska', 'gpershouse2v@t.co', '402-250-2349', 716789, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gilly', 'Parratt', '06 Stuart Avenue', 'Pittsburgh', 'Pennsylvania', 'gparratt2w@ed.gov', '-694-2739', 417613, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aubry', 'Byles', '8 Blackbird Center', 'Midland', 'Texas', 'abyles2x@drupal.org', '432-301-4750', 534070, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ferrell', 'Haresnape', '7875 Arapahoe Hill', 'Dayton', 'Ohio', 'fharesnape2y@reddit.com', '937-831-8034', 648165, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chaddie', 'Heugle', '0212 Nancy Parkway', 'Dayton', 'Ohio', 'cheugle2z@360.cn', '937-769-7434', 19712, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Peta', 'Buxsey', '505 Thackeray Junction', 'Las Vegas', 'Nevada', 'pbuxsey30@paypal.com', '702-513-2119', 165714, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Anestassia', 'Mussilli', '9 Onsgard Center', 'Saint Louis', 'Missouri', 'amussilli31@vimeo.com', '314-406-1302', 864371, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cathrin', 'Huckabe', '0558 Village Center', 'Oklahoma City', 'Oklahoma', 'chuckabe32@tumblr.com', '405-389-5354', 442749, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fallon', 'Valett', '006 Del Sol Parkway', 'Sacramento', 'California', 'fvalett33@wikispaces.com', '916-633-9275', 972019, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Crin', 'Seal', '654 Eastwood Trail', 'Henderson', 'Nevada', 'cseal34@mayoclinic.com', '702-167-8050', 386031, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hastings', 'Challenor', '92 Forest Dale Crossing', 'Los Angeles', 'California', 'hchallenor35@marketwatch.com', '714-240-4973', 791712, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Reginald', 'Palomba', '5 Spenser Park', 'San Bernardino', 'California', 'rpalomba36@moonfruit.com', '760-851-6702', 289128, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tammie', 'Dimmick', '5259 Meadow Ridge Street', 'Virginia Beach', 'Virginia', 'tdimmick37@eventbrite.com', '757-835-5123', 857788, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vasili', 'Oddie', '0726 Dixon Way', 'Rochester', 'New York', 'voddie38@gizmodo.com', '585-367-2818', 698399, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Baily', 'Elstow', '813 Kipling Pass', 'Seattle', 'Washington', 'belstow39@disqus.com', '206-422-7530', 615688, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alfi', 'Borsay', '2 Jay Lane', 'Chicago', 'Illinois', 'aborsay3a@oaic.gov.au', '312-395-2350', 869925, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Auberon', 'Marriott', '3449 Haas Trail', 'Stockton', 'California', 'amarriott3b@cornell.edu', '209-607-6625', 391056, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meridith', 'Euplate', '8 Crowley Trail', 'San Jose', 'California', 'meuplate3c@sfgate.com', '408-330-7084', 828690, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Donnie', 'Simko', '40 Roth Court', 'Worcester', 'Massachusetts', 'dsimko3d@livejournal.com', '508-686-0157', 894494, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chrisy', 'Pitkaithly', '0675 Delaware Circle', 'Warren', 'Ohio', 'cpitkaithly3e@google.com', '330-517-3164', 974587, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Erin', 'Davydoch', '99308 Vidon Point', 'Tampa', 'Florida', 'edavydoch3f@bravesites.com', '813-109-1318', 602004, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Etienne', 'Losano', '2415 2nd Drive', 'Shawnee Mission', 'Kansas', 'elosano3g@example.com', '913-910-3918', 487654, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sissie', 'Ander', '1326 Anniversary Crossing', 'New York City', 'New York', 'sander3h@feedburner.com', '212-865-7518', 674366, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Henrik', 'Chatwood', '12069 Mariners Cove Plaza', 'Sterling', 'Virginia', 'hchatwood3i@pcworld.com', '571-276-9010', 262849, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kari', 'Rayne', '4 Hayes Road', 'Brooklyn', 'New York', 'krayne3j@goodreads.com', '347-866-5328', 301055, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cyndie', 'O''Caine', '06098 Briar Crest Trail', 'Topeka', 'Kansas', 'cocaine3k@shutterfly.com', '785-899-9008', 936070, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alayne', 'Henriquet', '607 Redwing Street', 'Houston', 'Texas', 'ahenriquet3l@indiatimes.com', '713-775-7974', 303868, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shelia', 'Skupinski', '73041 Lighthouse Bay Avenue', 'Austin', 'Texas', 'sskupinski3m@sitemeter.com', '512-497-2666', 322951, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sibilla', 'Bollis', '9750 Tony Road', 'Corpus Christi', 'Texas', 'sbollis3n@flickr.com', '361-784-4559', 524851, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Prentiss', 'Begin', '91722 Oakridge Point', 'Huntington', 'West Virginia', 'pbegin3o@aboutads.info', '304-750-8025', 498899, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Parker', 'Norman', '31656 Kensington Crossing', 'Pittsburgh', 'Pennsylvania', 'pnorman3p@loc.gov', '412-707-2115', 250214, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kissie', 'Jonczyk', '9 Wayridge Circle', 'Worcester', 'Massachusetts', 'kjonczyk3q@soundcloud.com', '508-770-0695', 668062, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Othilie', 'Silvester', '24155 Meadow Vale Parkway', 'Cincinnati', 'Ohio', 'osilvester3r@bandcamp.com', '513-480-1907', 987979, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gonzalo', 'Lappine', '09646 Melody Park', 'Seattle', 'Washington', 'glappine3s@state.gov', '425-492-9112', 967214, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Janaye', 'Abrahami', '8 Jenna Street', 'Saint Paul', 'Minnesota', 'jabrahami3t@washingtonpost.com', '651-362-3905', 577655, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lyssa', 'Waine', '84317 Morning Junction', 'Atlanta', 'Georgia', 'lwaine3u@icio.us', '404-401-5353', 439725, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Yankee', 'Irlam', '5 Warbler Lane', 'Colorado Springs', 'Colorado', 'yirlam3v@forbes.com', '719-166-4256', 955085, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Corney', 'Lanphere', '266 Fisk Way', 'Washington', 'District of Columbia', 'clanphere3w@skype.com', '202-670-6524', 687746, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elli', 'Ruckert', '59571 Tennessee Parkway', 'Boise', 'Idaho', 'eruckert3x@berkeley.edu', '208-237-1413', 535264, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Woodie', 'Lightwing', '1 Tony Trail', 'Stockton', 'California', 'wlightwing3y@com.com', '209-670-8868', 963691, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Yvette', 'Fodden', '27 Mariners Cove Parkway', 'Spring', 'Texas', 'yfodden3z@youtu.be', '832-836-9860', 438831, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bryana', 'Halle', '2257 Vidon Point', 'Montgomery', 'Alabama', 'bhalle40@illinois.edu', '334-662-4780', 928359, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Angeline', 'Mingasson', '56 Linden Street', 'Alexandria', 'Virginia', 'amingasson41@umn.edu', '202-954-4787', 837645, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Karen', 'Dober', '5 Delaware Plaza', 'Green Bay', 'Wisconsin', 'kdober42@domainmarket.com', '920-815-1638', 609907, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Obediah', 'Levane', '158 2nd Avenue', 'Daytona Beach', 'Florida', 'olevane43@webs.com', '407-346-5372', 348731, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kienan', 'Banthorpe', '2 La Follette Junction', 'Great Neck', 'New York', 'kbanthorpe44@biglobe.ne.jp', '516-876-1627', 274639, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lana', 'Possell', '605 Rutledge Terrace', 'Waco', 'Texas', 'lpossell45@bluehost.com', '254-166-7574', 757944, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Licha', 'Parrish', '3 Center Point', 'San Jose', 'California', 'lparrish46@reverbnation.com', '408-905-2989', 888198, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cordy', 'Mawne', '8153 Gerald Alley', 'Spokane', 'Washington', 'cmawne47@sina.com.cn', '509-404-9823', 52326, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Yehudit', 'Delicate', '473 Montana Park', 'Boston', 'Massachusetts', 'ydelicate48@t-online.de', '617-743-5421', 294572, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Andee', 'Obell', '33169 Namekagon Junction', 'Arlington', 'Virginia', 'aobell49@google.ru', '571-636-6842', 948732, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Trenna', 'Beedon', '26 Quincy Point', 'New York City', 'New York', 'tbeedon4a@sfgate.com', '212-225-8940', 527563, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Roseline', 'Meatyard', '10 Bashford Place', 'Wilkes Barre', 'Pennsylvania', 'rmeatyard4b@dell.com', '570-838-0110', 945539, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ervin', 'Rupp', '2038 Melvin Junction', 'Canton', 'Ohio', 'erupp4c@barnesandnoble.com', '330-497-7295', 951987, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tova', 'Chadd', '10195 Mayfield Plaza', 'Huntington', 'West Virginia', 'tchadd4d@businessweek.com', '304-642-5721', 879019, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Davy', 'Goundry', '779 East Court', 'Hartford', 'Connecticut', 'dgoundry4e@simplemachines.org', '860-805-2748', 620833, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maximilianus', 'Haresnaip', '4 Manufacturers Parkway', 'Pensacola', 'Florida', 'mharesnaip4f@google.es', '850-500-9697', 46900, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Laure', 'Bygott', '15474 Montana Point', 'Houston', 'Texas', 'lbygott4g@boston.com', '713-952-2775', 123873, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Flor', 'Masse', '6930 Monterey Court', 'Naples', 'Florida', 'fmasse4h@usgs.gov', '239-309-8453', 525675, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Abbi', 'Haysham', '9 Schlimgen Point', 'Lincoln', 'Nebraska', 'ahaysham4i@buzzfeed.com', '402-378-5085', 735040, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Avictor', 'Spybey', '7 Stone Corner Circle', 'Portland', 'Maine', 'aspybey4j@cornell.edu', '207-315-4659', 18065, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ab', 'Cutress', '4 Reindahl Junction', 'Memphis', 'Tennessee', 'acutress4k@aol.com', '901-592-5009', 268313, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nata', 'Banaszewski', '248 Lakeland Pass', 'Portland', 'Oregon', 'nbanaszewski4l@uiuc.edu', '503-163-3623', 500036, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pattin', 'Chalfont', '0765 Bellgrove Street', 'Los Angeles', 'California', 'pchalfont4m@nhs.uk', '323-656-8368', 850304, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Waylin', 'Wooster', '16833 Myrtle Plaza', 'Ventura', 'California', 'wwooster4n@microsoft.com', '805-897-0789', 192998, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gill', 'Timmes', '319 Kings Park', 'San Diego', 'California', 'gtimmes4o@hhs.gov', '619-138-4789', 359918, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Munmro', 'Dukesbury', '583 Pearson Trail', 'Pasadena', 'California', 'mdukesbury4p@1und1.de', '818-411-6701', 54220, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Deb', 'Purchon', '131 Maryland Crossing', 'Alexandria', 'Virginia', 'dpurchon4q@nsw.gov.au', '571-525-5612', 185389, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Christyna', 'Smee', '981 Brickson Park Terrace', 'Worcester', 'Massachusetts', 'csmee4r@google.nl', '508-446-8208', 921083, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Katie', 'Aleksandrov', '377 Everett Plaza', 'Levittown', 'Pennsylvania', 'kaleksandrov4s@cdbaby.com', '267-655-5768', 117121, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lacie', 'Duester', '3455 Sycamore Crossing', 'Joliet', 'Illinois', 'lduester4t@google.com.au', '815-179-4902', 667077, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Becka', 'Deniscke', '6 Corry Pass', 'Spring', 'Texas', 'bdeniscke4u@china.com.cn', '832-317-0837', 875569, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Letty', 'Willson', '4448 Crest Line Drive', 'Memphis', 'Tennessee', 'lwillson4v@naver.com', '901-248-5108', 701097, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elden', 'Sully', '56 Melvin Plaza', 'Norfolk', 'Virginia', 'esully4w@w3.org', '757-767-6542', 572217, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Klement', 'Beaufoy', '5 Mcbride Point', 'Pasadena', 'California', 'kbeaufoy4x@facebook.com', '818-548-8764', 444701, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cordula', 'Penna', '7 Ramsey Court', 'Saint Louis', 'Missouri', 'cpenna4y@geocities.jp', '314-674-9190', 47199, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dennet', 'Stolz', '0208 Valley Edge Trail', 'Lawrenceville', 'Georgia', 'dstolz4z@nbcnews.com', '678-823-4915', 295815, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eugen', 'Kesterton', '03 Service Way', 'Lake Worth', 'Florida', 'ekesterton50@joomla.org', '561-579-8500', 431112, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Everard', 'Lisle', '69 Lakeland Terrace', 'Fayetteville', 'North Carolina', 'elisle51@wsj.com', '910-298-0421', 151654, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Justen', 'Impey', '8 Buhler Crossing', 'Tallahassee', 'Florida', 'jimpey52@apple.com', '850-725-5776', 928086, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bette-ann', 'Hinkley', '31021 Forster Road', 'Brooklyn', 'New York', 'bhinkley53@va.gov', '718-965-2590', 850012, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sonnie', 'Perrie', '6502 Nova Place', 'Montgomery', 'Alabama', 'sperrie54@hexun.com', '334-967-6173', 155618, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zerk', 'Husher', '34 Summit Hill', 'Shreveport', 'Louisiana', 'zhusher55@scientificamerican.com', '318-434-9129', 862973, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Douglas', 'Padell', '01821 Mandrake Street', 'Dallas', 'Texas', 'dpadell56@apache.org', '214-303-7115', 366643, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Korney', 'Batman', '6 Badeau Way', 'Miami Beach', 'Florida', 'kbatman57@multiply.com', '305-966-1264', 122564, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Patience', 'Drawmer', '74 Starling Center', 'Ridgely', 'Maryland', 'pdrawmer58@com.com', '410-703-4211', 602505, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jacklyn', 'Swaysland', '0 Forest Dale Avenue', 'Birmingham', 'Alabama', 'jswaysland59@youtu.be', '205-142-4301', 749460, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Millicent', 'Gush', '65 Rockefeller Point', 'Erie', 'Pennsylvania', 'mgush5a@themeforest.net', '814-730-3745', 38552, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Curcio', 'Whissell', '581 John Wall Circle', 'Phoenix', 'Arizona', 'cwhissell5b@tripod.com', '602-645-6574', 569340, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pippo', 'Giampietro', '79840 Stuart Junction', 'Tampa', 'Florida', 'pgiampietro5c@tripadvisor.com', '813-207-6650', 452374, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brandtr', 'Steventon', '98116 Fisk Trail', 'Ogden', 'Utah', 'bsteventon5d@linkedin.com', '801-281-5694', 432345, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Phylys', 'Aliman', '7762 Daystar Junction', 'Albuquerque', 'New Mexico', 'paliman5e@arizona.edu', '505-494-3232', 194304, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eduino', 'Jahnig', '8 Twin Pines Junction', 'El Paso', 'Texas', 'ejahnig5f@studiopress.com', '915-486-4544', 775133, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashely', 'Leipnik', '81966 Schlimgen Hill', 'Lafayette', 'Indiana', 'aleipnik5g@diigo.com', '765-743-0965', 11609, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jereme', 'Persian', '70 Twin Pines Plaza', 'Hayward', 'California', 'jpersian5h@netlog.com', '925-365-9188', 499079, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Town', 'Ballantine', '7684 Farragut Road', 'Abilene', 'Texas', 'tballantine5i@issuu.com', '325-838-5035', 84490, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Heda', 'Corter', '34 Hermina Point', 'New York City', 'New York', 'hcorter5j@amazon.de', '212-147-3995', 731845, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Selene', 'Thuillier', '3192 Rieder Drive', 'Los Angeles', 'California', 'sthuillier5k@marketwatch.com', '213-519-0316', 459655, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arin', 'Moncrieffe', '31 Southridge Crossing', 'Pittsburgh', 'Pennsylvania', 'amoncrieffe5l@mapquest.com', '412-196-0768', 90499, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lindi', 'Paniman', '1856 Maple Road', 'Chicago', 'Illinois', 'lpaniman5m@chicagotribune.com', '773-703-4355', 178895, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Timi', 'Ovell', '9 Hoard Junction', 'Baton Rouge', 'Louisiana', 'tovell5n@a8.net', '225-771-4398', 861894, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eddy', 'Ravenscraft', '21 Graceland Parkway', 'Cincinnati', 'Ohio', 'eravenscraft5o@friendfeed.com', '513-521-5600', 394709, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Trumann', 'Sinton', '76 Forster Park', 'Seminole', 'Florida', 'tsinton5p@ft.com', '941-787-5900', 940172, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bartie', 'Rountree', '306 Old Gate Street', 'Des Moines', 'Iowa', 'brountree5q@facebook.com', '515-864-8037', 457898, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meggi', 'Lippard', '1868 Grayhawk Street', 'San Diego', 'California', 'mlippard5r@google.com.hk', '858-299-3645', 257423, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tuck', 'Jeavons', '3 Sugar Place', 'Huntington', 'West Virginia', 'tjeavons5s@boston.com', '304-285-8657', 357505, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Edin', 'Drummer', '71 Pankratz Hill', 'Chicago', 'Illinois', 'edrummer5t@goo.gl', '312-914-8357', 792940, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Krishna', 'Curry', '1224 Victoria Court', 'Denver', 'Colorado', 'kcurry5u@youtu.be', '303-565-6774', 600934, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Merv', 'Genny', '0 Hovde Center', 'Tulsa', 'Oklahoma', 'mgenny5v@creativecommons.org', '918-338-6443', 95834, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Raye', 'Meadmore', '9 Summerview Alley', 'Bowie', 'Maryland', 'rmeadmore5w@domainmarket.com', '240-575-7231', 397494, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dyan', 'Fessier', '4879 Cambridge Trail', 'Rochester', 'New York', 'dfessier5x@google.com.br', '585-388-7843', 532695, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jerrilee', 'Lankford', '248 Hanover Trail', 'Charlotte', 'North Carolina', 'jlankford5y@vkontakte.ru', '704-171-7973', 414981, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Deck', 'Foyle', '45632 Northfield Pass', 'Fort Lauderdale', 'Florida', 'dfoyle5z@sakura.ne.jp', '754-666-7263', 933665, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Norine', 'Leppo', '9 Holmberg Point', 'Albany', 'New York', 'nleppo60@microsoft.com', '518-333-0823', 99582, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Towney', 'Wendover', '44 Havey Plaza', 'Memphis', 'Tennessee', 'twendover61@hostgator.com', '901-342-5919', 361288, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hendrick', 'Crankshaw', '9484 Becker Park', 'Phoenix', 'Arizona', 'hcrankshaw62@themeforest.net', '623-385-8886', 429761, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Roselle', 'Purle', '1 Vernon Street', 'Portland', 'Oregon', 'rpurle63@earthlink.net', '971-461-3400', 356479, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nerti', 'Toghill', '63 La Follette Court', 'New Orleans', 'Louisiana', 'ntoghill64@dailymotion.com', '504-520-9906', 77676, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Angelico', 'Eaglen', '435 Kingsford Plaza', 'Littleton', 'Colorado', 'aeaglen65@weather.com', '303-757-6070', 645016, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Orren', 'Clemendet', '981 Forest Dale Alley', 'Newark', 'New Jersey', 'oclemendet66@google.nl', '862-886-9747', 542807, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Heloise', 'Berget', '56 Vermont Circle', 'Shawnee Mission', 'Kansas', 'hberget67@ycombinator.com', '913-562-5611', 295169, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marijn', 'Alejandri', '6 Vidon Alley', 'Wichita', 'Kansas', 'malejandri68@bluehost.com', '316-936-4256', 264775, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dana', 'McKleod', '831 Bultman Pass', 'Peoria', 'Illinois', 'dmckleod69@eepurl.com', '309-652-1202', 118392, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ida', 'Pedrocchi', '49953 Evergreen Drive', 'Tallahassee', 'Florida', 'ipedrocchi6a@wikipedia.org', '850-841-4182', 230722, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Felix', 'Preator', '13170 Ilene Avenue', 'San Antonio', 'Texas', 'fpreator6b@stumbleupon.com', '210-406-8184', 818438, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Flynn', 'O''Neal', '9 Sunnyside Lane', 'Madison', 'Wisconsin', 'foneal6c@sbwire.com', '608-750-4956', 824235, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rich', 'Saich', '8400 Thompson Street', 'Gainesville', 'Florida', 'rsaich6d@slideshare.net', '352-966-9256', 997645, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Stu', 'Babin', '9 Eastwood Hill', 'Pueblo', 'Colorado', 'sbabin6e@ucla.edu', '719-620-4822', 232065, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Harwell', 'Chasle', '33 Kingsford Terrace', 'Stockton', 'California', 'hchasle6f@dot.gov', '209-691-9166', 523992, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tate', 'Boddice', '4285 Fairview Pass', 'Salt Lake City', 'Utah', 'tboddice6g@discovery.com', '801-812-3098', 347551, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mary', 'Craighead', '821 Oak Valley Circle', 'Tyler', 'Texas', 'mcraighead6h@sphinn.com', '903-765-9069', 648245, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hugo', 'Gideon', '3745 Westport Terrace', 'Baltimore', 'Maryland', 'hgideon6i@mit.edu', '410-901-8771', 641634, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dalenna', 'Digman', '3 Muir Alley', 'Atlanta', 'Georgia', 'ddigman6j@miitbeian.gov.cn', '404-356-1144', 117523, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Paolo', 'Skelcher', '8762 Talisman Road', 'Brooklyn', 'New York', 'pskelcher6k@slashdot.org', '917-620-3284', 840265, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Celinda', 'Zotto', '89 Grasskamp Avenue', 'Glendale', 'California', 'czotto6l@about.com', '818-712-3773', 883932, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Denny', 'Bedingfield', '7649 Dovetail Street', 'Greensboro', 'North Carolina', 'dbedingfield6m@reddit.com', '336-181-9565', 541847, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Krispin', 'MacCarter', '1706 Sachs Plaza', 'Pasadena', 'California', 'kmaccarter6n@businessinsider.com', '626-284-1482', 394183, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Allan', 'Wychard', '40 Milwaukee Terrace', 'San Antonio', 'Texas', 'awychard6o@yahoo.com', '210-648-7453', 312216, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alfi', 'MacGall', '4 Gina Park', 'Sacramento', 'California', 'amacgall6p@printfriendly.com', '916-953-4166', 95399, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Melisenda', 'Andreia', '6 Katie Park', 'Charlotte', 'North Carolina', 'mandreia6q@t-online.de', '704-333-1540', 278255, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kev', 'Franssen', '29342 Raven Avenue', 'San Jose', 'California', 'kfranssen6r@domainmarket.com', '408-723-9371', 680099, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dolph', 'Mapston', '90310 Vera Trail', 'Texarkana', 'Texas', 'dmapston6s@whitehouse.gov', '903-785-4708', 552263, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wiatt', 'Lempel', '348 Forest Dale Place', 'New York City', 'New York', 'wlempel6t@apple.com', '212-140-9544', 631604, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chiarra', 'Le Clercq', '4 Cottonwood Parkway', 'Irvine', 'California', 'cleclercq6u@mysql.com', '714-352-9485', 587346, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jerome', 'Aleshintsev', '59 Bunting Way', 'Minneapolis', 'Minnesota', 'jaleshintsev6v@hatena.ne.jp', '612-725-9560', 903410, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carrie', 'Perdue', '13433 7th Center', 'Oklahoma City', 'Oklahoma', 'cperdue6w@surveymonkey.com', '405-937-3620', 223885, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Walker', 'Tanfield', '182 Forest Dale Hill', 'York', 'Pennsylvania', 'wtanfield6x@prlog.org', '717-455-1528', 776036, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maximilianus', 'Earingey', '543 Riverside Crossing', 'Pensacola', 'Florida', 'mearingey6y@4shared.com', '850-257-0024', 203514, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meade', 'Corbitt', '87248 Gale Way', 'Knoxville', 'Tennessee', 'mcorbitt6z@cbslocal.com', '865-887-4200', 851720, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Noemi', 'Wedderburn', '71115 Packers Place', 'Washington', 'District of Columbia', 'nwedderburn70@shareasale.com', '202-867-9319', 604460, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Irena', 'Houdhury', '49376 Bartillon Lane', 'Fort Wayne', 'Indiana', 'ihoudhury71@sogou.com', '260-844-3677', 137718, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chrisy', 'Chaplin', '86 Bultman Drive', 'Kansas City', 'Missouri', 'cchaplin72@arizona.edu', '816-709-0557', 983571, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Malory', 'Twinborne', '2 Ruskin Road', 'Bismarck', 'North Dakota', 'mtwinborne73@hatena.ne.jp', '701-554-8800', 302634, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sophronia', 'Baraja', '9 Amoth Road', 'New Orleans', 'Louisiana', 'sbaraja74@answers.com', '504-688-5222', 9969, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cathleen', 'Dacombe', '995 Park Meadow Center', 'Wilkes Barre', 'Pennsylvania', 'cdacombe75@npr.org', '570-225-4569', 334282, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rustin', 'Saltern', '911 Corben Terrace', 'Montgomery', 'Alabama', 'rsaltern76@sina.com.cn', '334-957-6917', 231932, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rica', 'Pinhorn', '8 Loomis Lane', 'Alexandria', 'Louisiana', 'rpinhorn77@goodreads.com', '318-832-9208', 511453, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alford', 'Wakeling', '38 Prairieview Pass', 'Spokane', 'Washington', 'awakeling78@cbc.ca', '509-566-2457', 887625, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zebedee', 'Haggar', '028 Dapin Street', 'Richmond', 'Virginia', 'zhaggar79@fotki.com', '804-845-1169', 436915, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Melany', 'Burwell', '123 Crest Line Park', 'Louisville', 'Kentucky', 'mburwell7a@digg.com', '502-944-5535', 312702, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Candida', 'Waltho', '14 Fremont Place', 'Birmingham', 'Alabama', 'cwaltho7b@blogger.com', '205-539-7661', 11329, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ajay', 'Axford', '96255 Macpherson Drive', 'Clearwater', 'Florida', 'aaxford7c@slideshare.net', '813-561-2533', 891219, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chiquita', 'Vollam', '788 Waxwing Street', 'Columbia', 'South Carolina', 'cvollam7d@parallels.com', '803-529-9839', 293688, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Correy', 'Withull', '361 Sugar Trail', 'Atlanta', 'Georgia', 'cwithull7e@columbia.edu', '404-259-5264', 972344, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Caye', 'Eberdt', '917 Delaware Lane', 'Decatur', 'Illinois', 'ceberdt7f@cbslocal.com', '217-540-7950', 321651, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mitchel', 'Gauvin', '7872 Sachtjen Drive', 'Topeka', 'Kansas', 'mgauvin7g@51.la', '785-278-5624', 254378, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Parry', 'Hunnicutt', '2114 Green Terrace', 'Orlando', 'Florida', 'phunnicutt7h@businessweek.com', '407-974-1000', 610237, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Saul', 'Carslaw', '307 Waywood Park', 'Orlando', 'Florida', 'scarslaw7i@symantec.com', '407-209-0008', 441757, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fernande', 'Whiscard', '46476 Anniversary Avenue', 'Washington', 'District of Columbia', 'fwhiscard7j@wikimedia.org', '202-338-8435', 413762, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Locke', 'Prothero', '3133 Sunnyside Point', 'Memphis', 'Tennessee', 'lprothero7k@cornell.edu', '901-464-6518', 501520, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Biron', 'Silbersak', '91 Veith Pass', 'Portsmouth', 'New Hampshire', 'bsilbersak7l@guardian.co.uk', '603-521-9981', 743702, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elmira', 'Bartalot', '18 Schiller Place', 'Milwaukee', 'Wisconsin', 'ebartalot7m@dailymotion.com', '414-916-6193', 555698, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Debera', 'McLeese', '69700 Lakewood Gardens Parkway', 'Colorado Springs', 'Colorado', 'dmcleese7n@elegantthemes.com', '719-292-6349', 647005, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cristin', 'Cattlemull', '5740 Forster Way', 'Kansas City', 'Kansas', 'ccattlemull7o@google.co.uk', '913-372-4363', 728517, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rodie', 'Geroldini', '68 Porter Trail', 'Wilkes Barre', 'Pennsylvania', 'rgeroldini7p@ustream.tv', '570-831-6941', 559243, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vicki', 'Cheel', '880 Granby Alley', 'Miami', 'Florida', 'vcheel7q@squidoo.com', '305-346-7414', 616472, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bethena', 'Fleckno', '37966 Manley Way', 'Jamaica', 'New York', 'bfleckno7r@mashable.com', '718-897-5072', 562599, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aldin', 'Giveen', '9121 Carberry Road', 'Vero Beach', 'Florida', 'agiveen7s@clickbank.net', '772-380-9941', 532351, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Inge', 'Vondra', '43 South Terrace', 'Hamilton', 'Ohio', 'ivondra7t@discuz.net', '937-820-9036', 864465, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Andy', 'Kolodziej', '54631 Doe Crossing Avenue', 'Madison', 'Wisconsin', 'akolodziej7u@tmall.com', '608-766-2047', 97735, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Manny', 'Dyka', '841 7th Way', 'Erie', 'Pennsylvania', 'mdyka7v@java.com', '814-579-1664', 399947, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rutter', 'Mila', '78878 Steensland Pass', 'Shreveport', 'Louisiana', 'rmila7w@netscape.com', '318-881-5426', 104361, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wileen', 'D''Antuoni', '85 Pepper Wood Court', 'Madison', 'Wisconsin', 'wdantuoni7x@java.com', '608-779-1764', 183107, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Don', 'Brayfield', '23 Ridgeway Crossing', 'Miami', 'Florida', 'dbrayfield7y@tinypic.com', '305-301-5941', 975796, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Moises', 'Aronin', '21 Corscot Crossing', 'Monticello', 'Minnesota', 'maronin7z@g.co', '763-672-0414', 582595, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cristen', 'Tilley', '7761 Park Meadow Park', 'Daytona Beach', 'Florida', 'ctilley80@mediafire.com', '407-900-3467', 655369, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hinda', 'Newe', '7979 Schurz Junction', 'Erie', 'Pennsylvania', 'hnewe81@360.cn', '814-750-0525', 830175, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Emili', 'Masseo', '058 Paget Road', 'San Antonio', 'Texas', 'emasseo82@instagram.com', '210-356-1389', 654819, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Desiree', 'Libermore', '6339 Linden Circle', 'Sparks', 'Nevada', 'dlibermore83@pcworld.com', '775-829-4786', 892317, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ilise', 'MacLucais', '722 Warbler Junction', 'Salt Lake City', 'Utah', 'imaclucais84@tripod.com', '801-401-6606', 947773, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Leo', 'Geggus', '02277 Sage Parkway', 'El Paso', 'Texas', 'lgeggus85@uol.com.br', '915-343-9033', 253099, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Berty', 'Adamides', '130 Prairie Rose Plaza', 'Cheyenne', 'Wyoming', 'badamides86@mozilla.com', '307-621-2544', 401879, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kristin', 'Meni', '5853 Aberg Point', 'Houston', 'Texas', 'kmeni87@csmonitor.com', '832-651-4633', 184275, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Renate', 'Buy', '76 Dakota Crossing', 'Charlotte', 'North Carolina', 'rbuy88@chronoengine.com', '704-201-9159', 63571, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Flor', 'Taylo', '55 Kedzie Avenue', 'Waco', 'Texas', 'ftaylo89@purevolume.com', '254-128-3015', 928442, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hayden', 'Onians', '8 Morning Way', 'Madison', 'Wisconsin', 'honians8a@shareasale.com', '608-396-3055', 171678, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Yorgos', 'Bread', '7674 Lake View Avenue', 'Phoenix', 'Arizona', 'ybread8b@mysql.com', '602-408-7169', 575563, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gun', 'Dennett', '474 Carpenter Pass', 'Washington', 'District of Columbia', 'gdennett8c@miibeian.gov.cn', '202-337-8207', 233604, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Blanca', 'Lenz', '6347 Lien Lane', 'Naples', 'Florida', 'blenz8d@umich.edu', '941-793-4448', 279228, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Frances', 'Silverman', '43450 Cardinal Trail', 'Fayetteville', 'North Carolina', 'fsilverman8e@bloomberg.com', '910-516-2994', 303277, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tate', 'Farrant', '873 Mcguire Trail', 'Portland', 'Oregon', 'tfarrant8f@opera.com', '971-833-4325', 598268, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shirl', 'Morston', '4 Northfield Pass', 'New York City', 'New York', 'smorston8g@craigslist.org', '212-476-0552', 753786, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meade', 'Mercey', '933 Carey Crossing', 'Huntington', 'West Virginia', 'mmercey8h@forbes.com', '304-685-0588', 687718, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Klaus', 'Elloy', '8 Lillian Street', 'Columbia', 'South Carolina', 'kelloy8i@joomla.org', '803-382-4056', 175047, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sheffy', 'Stonary', '6 Moland Parkway', 'Boston', 'Massachusetts', 'sstonary8j@qq.com', '617-598-4223', 571279, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jeana', 'Gamett', '75 Johnson Crossing', 'Norfolk', 'Virginia', 'jgamett8k@va.gov', '757-846-0727', 195558, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Emlynn', 'Purrington', '39 Troy Road', 'Spring', 'Texas', 'epurrington8l@youtube.com', '832-890-3709', 523047, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tania', 'Whitmore', '56 Elka Place', 'Champaign', 'Illinois', 'twhitmore8m@icq.com', '217-649-7319', 374114, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lucia', 'Bouldstridge', '4850 Macpherson Way', 'Reston', 'Virginia', 'lbouldstridge8n@rambler.ru', '703-551-2030', 101869, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Keen', 'Ambrosini', '518 Prairieview Alley', 'Monticello', 'Minnesota', 'kambrosini8o@github.com', '763-947-1867', 43770, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Peggy', 'Maffioletti', '3 Summerview Street', 'El Paso', 'Texas', 'pmaffioletti8p@phpbb.com', '915-338-4017', 339569, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kay', 'Courson', '9 Eggendart Pass', 'Lincoln', 'Nebraska', 'kcourson8q@upenn.edu', '402-428-9858', 122720, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cissiee', 'McCrudden', '30268 3rd Parkway', 'Salt Lake City', 'Utah', 'cmccrudden8r@angelfire.com', '801-290-7768', 950982, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Robbie', 'Crowden', '663 Michigan Alley', 'Oklahoma City', 'Oklahoma', 'rcrowden8s@tinyurl.com', '405-108-5031', 840842, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Robinetta', 'Blant', '076 Hanson Junction', 'Clearwater', 'Florida', 'rblant8t@geocities.jp', '727-226-2763', 494606, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Valeria', 'Beadon', '2060 Dixon Street', 'Boulder', 'Colorado', 'vbeadon8u@godaddy.com', '303-864-3733', 946875, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Oliviero', 'Treen', '9 Sycamore Street', 'Worcester', 'Massachusetts', 'otreen8v@archive.org', '508-509-9968', 715424, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fidelity', 'Carstairs', '1 Di Loreto Parkway', 'New Orleans', 'Louisiana', 'fcarstairs8w@about.me', '504-843-7186', 335714, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ailis', 'Skeemer', '23 Reindahl Circle', 'Pittsburgh', 'Pennsylvania', 'askeemer8x@etsy.com', '412-668-4404', 770838, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Natividad', 'Cusick', '765 Stoughton Alley', 'El Paso', 'Texas', 'ncusick8y@ft.com', '915-349-0725', 917995, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lisbeth', 'Paladino', '951 Bunker Hill Drive', 'Portland', 'Oregon', 'lpaladino8z@dailymail.co.uk', '503-763-1080', 145928, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aileen', 'Tredinnick', '092 Paget Center', 'Bellevue', 'Washington', 'atredinnick90@youtube.com', '206-757-2822', 658753, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tobey', 'Arnell', '2670 Farmco Lane', 'Hicksville', 'New York', 'tarnell91@china.com.cn', '516-299-8089', 549346, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Calida', 'Rosenzwig', '863 Pearson Junction', 'Bethesda', 'Maryland', 'crosenzwig92@paginegialle.it', '301-195-8945', 653898, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dulcia', 'Bevens', '92945 Daystar Pass', 'Flushing', 'New York', 'dbevens93@1688.com', '718-738-5873', 454167, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kelcy', 'Pelchat', '145 Leroy Point', 'Louisville', 'Kentucky', 'kpelchat94@homestead.com', '502-376-3264', 976863, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ellene', 'Halifax', '688 Parkside Plaza', 'Montgomery', 'Alabama', 'ehalifax95@merriam-webster.com', '334-493-7464', 765567, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arline', 'Fabri', '9100 La Follette Street', 'Odessa', 'Texas', 'afabri96@live.com', '432-480-9609', 84873, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ellis', 'Needs', '34793 Commercial Crossing', 'Muncie', 'Indiana', 'eneeds97@zdnet.com', '765-983-2068', 314236, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Konstantin', 'Larimer', '6794 Lindbergh Lane', 'Orange', 'California', 'klarimer98@youtube.com', '714-590-3052', 348519, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tiffanie', 'Cullingford', '4 Lotheville Alley', 'Fargo', 'North Dakota', 'tcullingford99@archive.org', '701-902-6315', 192384, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gare', 'Cherry Holme', '52 Havey Drive', 'Dayton', 'Ohio', 'gcherryholme9a@reference.com', '937-246-4229', 872799, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shelden', 'Tellenbroker', '8 Lakewood Park', 'Baton Rouge', 'Louisiana', 'stellenbroker9b@thetimes.co.uk', '225-416-4979', 851445, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hashim', 'Scoullar', '96 Annamark Place', 'Alexandria', 'Virginia', 'hscoullar9c@forbes.com', '571-337-6486', 54231, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Robenia', 'Ellick', '9 Jenifer Hill', 'Columbus', 'Georgia', 'rellick9d@ucla.edu', '706-212-2690', 356066, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gerick', 'Ansett', '365 Doe Crossing Crossing', 'Columbus', 'Ohio', 'gansett9e@vistaprint.com', '614-345-2593', 960580, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Emmalee', 'Wittering', '4 Lotheville Alley', 'Conroe', 'Texas', 'ewittering9f@shareasale.com', '936-926-5566', 798374, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marcello', 'Archibold', '91 Delladonna Parkway', 'Garden Grove', 'California', 'marchibold9g@booking.com', '714-651-9804', 396829, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Joshia', 'Kibbe', '72 Iowa Lane', 'Carlsbad', 'California', 'jkibbe9h@google.it', '760-424-2721', 670191, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kenon', 'Giovanardi', '4024 Judy Circle', 'Baton Rouge', 'Louisiana', 'kgiovanardi9i@jigsy.com', '225-660-5675', 570554, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rhona', 'Shelvey', '177 Talmadge Junction', 'Salt Lake City', 'Utah', 'rshelvey9j@reuters.com', '801-927-1279', 932731, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jeannine', 'Fryman', '7 Coleman Drive', 'Apache Junction', 'Arizona', 'jfryman9k@auda.org.au', '480-485-2949', 574325, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pat', 'Huot', '16 Bashford Junction', 'Shreveport', 'Louisiana', 'phuot9l@nyu.edu', '318-204-8929', 945040, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zed', 'Minchi', '4 Melrose Lane', 'Marietta', 'Georgia', 'zminchi9m@cnbc.com', '770-431-4763', 867783, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Billi', 'Cristofolo', '10126 Buhler Pass', 'Largo', 'Florida', 'bcristofolo9n@nsw.gov.au', '727-580-3696', 135140, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cleveland', 'Sweetlove', '656 Village Terrace', 'Birmingham', 'Alabama', 'csweetlove9o@dailymotion.com', '205-622-4883', 947685, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jemie', 'Luetkemeyers', '45 Pierstorff Way', 'Sacramento', 'California', 'jluetkemeyers9p@house.gov', '916-577-3231', 973004, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tirrell', 'Scobbie', '117 Starling Street', 'Akron', 'Ohio', 'tscobbie9q@ucoz.ru', '234-605-8811', 522816, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Halsy', 'Orpen', '36976 Onsgard Street', 'Washington', 'District of Columbia', 'horpen9r@seesaa.net', '202-909-0752', 487391, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Anatole', 'Archley', '7 Oriole Lane', 'Fort Lauderdale', 'Florida', 'aarchley9s@army.mil', '754-740-6914', 465605, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Whitaker', 'Flescher', '4 Green Ridge Plaza', 'Temple', 'Texas', 'wflescher9t@plala.or.jp', '254-566-6046', 882801, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Winthrop', 'Stickler', '40 Dunning Park', 'Davenport', 'Iowa', 'wstickler9u@facebook.com', '563-331-5435', 549997, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Teodor', 'Kingzeth', '5629 Crownhardt Drive', 'Los Angeles', 'California', 'tkingzeth9v@ft.com', '323-221-1224', 189126, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cirilo', 'Dalman', '32 Arapahoe Point', 'Chicago', 'Illinois', 'cdalman9w@apache.org', '773-657-6507', 765811, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Deanne', 'Yorkston', '669 Northview Point', 'Salt Lake City', 'Utah', 'dyorkston9x@sfgate.com', '801-173-6379', 304268, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Harcourt', 'Haggerwood', '8233 Shelley Park', 'Vero Beach', 'Florida', 'hhaggerwood9y@lycos.com', '772-964-0424', 972535, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lorianne', 'Semble', '4 Hayes Lane', 'Bakersfield', 'California', 'lsemble9z@mysql.com', '661-596-8200', 130417, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Martita', 'Rackam', '30972 Carberry Court', 'Fort Pierce', 'Florida', 'mrackama0@rediff.com', '772-587-1419', 971267, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ivory', 'Kynson', '9957 Ridge Oak Plaza', 'Des Moines', 'Iowa', 'ikynsona1@biglobe.ne.jp', '515-143-2430', 691342, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Harper', 'Furlong', '0 Boyd Hill', 'Charleston', 'West Virginia', 'hfurlonga2@cbslocal.com', '304-247-7596', 240925, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fiann', 'Ridgewell', '87241 Blue Bill Park Point', 'Corona', 'California', 'fridgewella3@google.ru', '951-747-4505', 735410, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Goddard', 'Hetterich', '0347 Muir Road', 'West Palm Beach', 'Florida', 'ghettericha4@pcworld.com', '561-146-5978', 953881, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jeremias', 'Boshers', '29 Badeau Hill', 'Appleton', 'Wisconsin', 'jboshersa5@dailymail.co.uk', '920-526-0646', 515479, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carmella', 'Wadham', '2 6th Lane', 'Houston', 'Texas', 'cwadhama6@prnewswire.com', '713-272-6813', 112945, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lea', 'Fortescue', '4051 Leroy Alley', 'Sioux Falls', 'South Dakota', 'lfortescuea7@deliciousdays.com', '605-525-1624', 548883, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aluin', 'Rackstraw', '710 Gerald Trail', 'Albany', 'New York', 'arackstrawa8@cafepress.com', '518-870-2401', 793029, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carola', 'Harwick', '8268 Sutteridge Hill', 'Baltimore', 'Maryland', 'charwicka9@prnewswire.com', '410-193-9633', 452196, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rebekkah', 'Tutill', '498 Autumn Leaf Drive', 'New York City', 'New York', 'rtutillaa@independent.co.uk', '646-201-7111', 507067, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alfie', 'Kamienski', '12 Towne Pass', 'Dallas', 'Texas', 'akamienskiab@lulu.com', '214-211-0445', 940246, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Huntlee', 'Loody', '66 Vera Pass', 'Reno', 'Nevada', 'hloodyac@vinaora.com', '775-538-9543', 519911, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gus', 'Shattock', '84 Buell Park', 'Montgomery', 'Alabama', 'gshattockad@shareasale.com', '334-469-4843', 700646, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Joycelin', 'Staveley', '6 Nobel Place', 'Idaho Falls', 'Idaho', 'jstaveleyae@g.co', '208-476-1983', 785062, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mame', 'Tissington', '2928 Evergreen Street', 'Salt Lake City', 'Utah', 'mtissingtonaf@livejournal.com', '801-712-6688', 261750, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fifine', 'Lampitt', '59327 Nevada Crossing', 'Austin', 'Texas', 'flampittag@oracle.com', '512-275-1879', 782017, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Betty', 'Brafield', '2655 Jana Plaza', 'El Paso', 'Texas', 'bbrafieldah@yellowpages.com', '915-614-2103', 554452, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wolfie', 'Dickon', '0039 Crest Line Way', 'Montgomery', 'Alabama', 'wdickonai@uiuc.edu', '334-560-5090', 204106, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bradly', 'Merryman', '5 Pierstorff Circle', 'Dayton', 'Ohio', 'bmerrymanaj@samsung.com', '937-376-8061', 759418, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alphard', 'Glascott', '42692 Lien Avenue', 'Honolulu', 'Hawaii', 'aglascottak@sbwire.com', '808-192-1319', 524538, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Celine', 'Trelevan', '613 Maywood Hill', 'Pensacola', 'Florida', 'ctrelevanal@newsvine.com', '850-192-6453', 836801, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ermentrude', 'Connerry', '1 Buhler Terrace', 'Dallas', 'Texas', 'econnerryam@answers.com', '972-170-9168', 362608, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gabrila', 'Bennellick', '12867 Darwin Court', 'Garland', 'Texas', 'gbennellickan@dmoz.org', '972-110-6134', 411431, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Helge', 'Lepper', '3 Center Court', 'Oklahoma City', 'Oklahoma', 'hlepperao@senate.gov', '405-519-1054', 9185, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Barret', 'Belford', '9142 Banding Point', 'Springfield', 'Massachusetts', 'bbelfordap@google.com', '413-972-2758', 977769, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Matilda', 'Gooders', '8620 Carey Lane', 'San Jose', 'California', 'mgoodersaq@imdb.com', '408-233-5951', 596369, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Janek', 'Oswell', '6 Loomis Crossing', 'El Paso', 'Texas', 'joswellar@scientificamerican.com', '915-810-8581', 474102, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Artie', 'Hurtado', '31423 Northridge Lane', 'Fresno', 'California', 'ahurtadoas@dailymail.co.uk', '559-850-8135', 926263, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nerta', 'Olding', '87398 Delaware Terrace', 'Newport News', 'Virginia', 'noldingat@globo.com', '757-691-9766', 401341, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Garvey', 'Cancott', '145 Namekagon Hill', 'Brea', 'California', 'gcancottau@w3.org', '714-986-0607', 221265, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Livy', 'Klassmann', '062 Loftsgordon Plaza', 'Rochester', 'New York', 'lklassmannav@tinypic.com', '585-767-8965', 477893, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zachery', 'Mignot', '54 Nelson Crossing', 'Albuquerque', 'New Mexico', 'zmignotaw@newyorker.com', '505-598-5533', 828914, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wat', 'Duxbarry', '12 Thierer Hill', 'Chicago', 'Illinois', 'wduxbarryax@mtv.com', '312-853-2626', 291293, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rodger', 'Mathie', '0978 Division Pass', 'Wilmington', 'Delaware', 'rmathieay@cbc.ca', '302-899-6425', 568218, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Remus', 'O''Fergus', '490 Ilene Alley', 'Charleston', 'South Carolina', 'rofergusaz@nature.com', '843-258-0937', 472769, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Orren', 'Pavitt', '090 Blue Bill Park Parkway', 'Orlando', 'Florida', 'opavittb0@state.tx.us', '407-743-3367', 948993, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pincas', 'Ludye', '7827 Havey Court', 'Miami', 'Florida', 'pludyeb1@goodreads.com', '786-194-1685', 620044, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Liane', 'Klossek', '38693 Coleman Terrace', 'Stamford', 'Connecticut', 'lklossekb2@wufoo.com', '203-640-8535', 833890, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sheffy', 'Rundle', '6 Sutteridge Hill', 'New York City', 'New York', 'srundleb3@booking.com', '212-245-0812', 253380, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maybelle', 'Covet', '27592 Roxbury Plaza', 'El Paso', 'Texas', 'mcovetb4@amazonaws.com', '915-813-9465', 989556, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Antonella', 'Tawn', '9169 Elka Crossing', 'Las Vegas', 'Nevada', 'atawnb5@odnoklassniki.ru', '702-751-0018', 990424, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Noelani', 'Eich', '5 Reinke Way', 'Boston', 'Massachusetts', 'neichb6@usda.gov', '781-555-8199', 498907, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gwenette', 'Kyffin', '28302 Michigan Terrace', 'Norwalk', 'Connecticut', 'gkyffinb7@umich.edu', '203-743-9663', 187711, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Donal', 'Chasemoore', '2 Barby Parkway', 'Nashville', 'Tennessee', 'dchasemooreb8@artisteer.com', '615-159-5607', 477339, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tuckie', 'Trangmar', '0 Mosinee Center', 'Mobile', 'Alabama', 'ttrangmarb9@sohu.com', '251-971-3292', 665526, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Melamie', 'Conley', '660 Barby Pass', 'New York City', 'New York', 'mconleyba@youku.com', '212-935-0464', 833583, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elianora', 'Mellings', '2 Porter Point', 'Fort Lauderdale', 'Florida', 'emellingsbb@themeforest.net', '754-771-9564', 500774, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Corri', 'Gingel', '94346 Buell Alley', 'Pittsburgh', 'Pennsylvania', 'cgingelbc@de.vu', '412-317-5490', 333784, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jeanine', 'Phil', '2 Eggendart Avenue', 'Birmingham', 'Alabama', 'jphilbd@creativecommons.org', '205-177-1997', 351788, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Briney', 'Brauner', '59 Farragut Park', 'Cincinnati', 'Ohio', 'bbraunerbe@dell.com', '513-155-4629', 393476, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Filippo', 'Sponton', '0 Talisman Court', 'Little Rock', 'Arkansas', 'fspontonbf@spiegel.de', '501-447-3842', 903371, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ado', 'Zupone', '36120 Macpherson Hill', 'Saint Louis', 'Missouri', 'azuponebg@dailymotion.com', '314-899-5792', 222166, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lowrance', 'Dabner', '7 Manufacturers Terrace', 'Memphis', 'Tennessee', 'ldabnerbh@bravesites.com', '901-176-8460', 209599, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fawne', 'Hedley', '2 Memorial Court', 'Birmingham', 'Alabama', 'fhedleybi@sphinn.com', '205-569-8196', 824871, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Monty', 'Briars', '13118 Melrose Lane', 'Baltimore', 'Maryland', 'mbriarsbj@deliciousdays.com', '410-643-4950', 883894, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Em', 'Lode', '56308 Sullivan Drive', 'Bronx', 'New York', 'elodebk@google.com.hk', '718-196-4627', 605395, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hamnet', 'Bywaters', '731 Golf Course Alley', 'Alexandria', 'Virginia', 'hbywatersbl@wikia.com', '571-934-4639', 603222, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jacki', 'Rispine', '1 Dayton Parkway', 'Louisville', 'Kentucky', 'jrispinebm@imdb.com', '502-150-8688', 180144, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alie', 'Agirre', '932 5th Pass', 'Cleveland', 'Ohio', 'aagirrebn@yale.edu', '440-488-5457', 129750, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Starla', 'Burleton', '4856 Mallory Court', 'Washington', 'District of Columbia', 'sburletonbo@cnbc.com', '202-568-6014', 351679, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hubie', 'Loncaster', '00 Ridge Oak Terrace', 'Gilbert', 'Arizona', 'hloncasterbp@cloudflare.com', '602-464-0086', 75683, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Micah', 'Bodimeade', '7831 Maple Wood Hill', 'Inglewood', 'California', 'mbodimeadebq@myspace.com', '310-358-0128', 415665, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jaquelyn', 'Jermey', '752 Bellgrove Center', 'Oklahoma City', 'Oklahoma', 'jjermeybr@com.com', '405-124-5681', 376457, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alwin', 'Terbeek', '08 Lakewood Trail', 'Aurora', 'Colorado', 'aterbeekbs@google.de', '303-505-3618', 160423, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Frank', 'Emmens', '08 Hermina Junction', 'New York City', 'New York', 'femmensbt@istockphoto.com', '917-533-5269', 156383, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Roddy', 'Yannoni', '90 Mayer Lane', 'San Diego', 'California', 'ryannonibu@i2i.jp', '619-946-0843', 60536, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marc', 'Auckland', '79574 Ruskin Court', 'Newark', 'New Jersey', 'maucklandbv@sohu.com', '862-529-0595', 165449, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gerti', 'Villaron', '28 Tomscot Court', 'Huntsville', 'Alabama', 'gvillaronbw@economist.com', '256-387-9078', 629850, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Justinn', 'Steagall', '7043 Warbler Court', 'Stamford', 'Connecticut', 'jsteagallbx@artisteer.com', '203-831-1547', 366827, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Heddie', 'Sherrocks', '80 Dapin Trail', 'Henderson', 'Nevada', 'hsherrocksby@nature.com', '702-981-6706', 834371, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Grace', 'Froom', '0354 Red Cloud Junction', 'Washington', 'District of Columbia', 'gfroombz@photobucket.com', '202-666-5638', 20967, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marquita', 'Chaise', '48230 Reinke Street', 'Berkeley', 'California', 'mchaisec0@wikispaces.com', '510-996-0570', 380360, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kakalina', 'Rucklesse', '9636 Pawling Road', 'Staten Island', 'New York', 'krucklessec1@bravesites.com', '718-250-1821', 863798, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Findlay', 'Matthiae', '42729 Rieder Park', 'Stockton', 'California', 'fmatthiaec2@independent.co.uk', '209-514-5897', 45466, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dominique', 'Brownscombe', '917 Manley Junction', 'Jefferson City', 'Missouri', 'dbrownscombec3@canalblog.com', '573-709-2484', 20005, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kaleb', 'Assinder', '9 Crescent Oaks Point', 'Tulsa', 'Oklahoma', 'kassinderc4@omniture.com', '918-514-9811', 560866, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kingston', 'Chopy', '3 Briar Crest Park', 'Tulsa', 'Oklahoma', 'kchopyc5@gnu.org', '918-554-0337', 932249, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Yalonda', 'Leydon', '90 Sugar Way', 'Aurora', 'Illinois', 'yleydonc6@comsenz.com', '312-107-7211', 135423, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rosalie', 'McVitty', '27030 Schurz Plaza', 'Miami', 'Florida', 'rmcvittyc7@cloudflare.com', '786-296-6115', 206158, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cherey', 'L''Homme', '16 Waubesa Park', 'Cincinnati', 'Ohio', 'clhommec8@howstuffworks.com', '513-392-8710', 594190, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bernice', 'Askham', '9 Fulton Trail', 'Brooksville', 'Florida', 'baskhamc9@ycombinator.com', '352-738-4130', 963600, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ellsworth', 'Seggie', '59975 Lunder Point', 'Corona', 'California', 'eseggieca@vkontakte.ru', '951-130-0175', 593210, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clemmy', 'Wilhelmy', '8 Scott Crossing', 'Grand Rapids', 'Michigan', 'cwilhelmycb@aol.com', '616-830-8359', 971448, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Deck', 'Calloway', '28 Lindbergh Court', 'Monticello', 'Minnesota', 'dcallowaycc@bing.com', '763-491-5070', 63646, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mellisent', 'Randalson', '0113 Trailsway Street', 'Sacramento', 'California', 'mrandalsoncd@unblog.fr', '916-841-7624', 184024, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Celene', 'Botwood', '0611 Reindahl Trail', 'Elmira', 'New York', 'cbotwoodce@comsenz.com', '607-418-3397', 820097, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cornell', 'Dank', '3 Raven Plaza', 'Cincinnati', 'Ohio', 'cdankcf@webnode.com', '513-444-3169', 552746, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elvira', 'Drife', '7 Messerschmidt Center', 'Philadelphia', 'Pennsylvania', 'edrifecg@google.com', '215-626-7440', 919943, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kasey', 'Daouse', '21 Springview Point', 'Atlanta', 'Georgia', 'kdaousech@fc2.com', '770-226-8566', 538442, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rodie', 'Wiburn', '26 Lerdahl Pass', 'New York City', 'New York', 'rwiburnci@live.com', '212-974-7242', 540933, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pincas', 'Cuseick', '7817 Shasta Place', 'Chicago', 'Illinois', 'pcuseickcj@nifty.com', '630-652-1923', 135176, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clerissa', 'Hildrew', '42220 Trailsway Pass', 'Maple Plain', 'Minnesota', 'childrewck@behance.net', '952-354-3542', 717250, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Stormie', 'Foden', '78266 Green Ridge Avenue', 'New York City', 'New York', 'sfodencl@miibeian.gov.cn', '646-408-9298', 177536, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marco', 'Moakes', '8 Hovde Circle', 'Tampa', 'Florida', 'mmoakescm@howstuffworks.com', '813-497-1993', 273275, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Inglis', 'Hacard', '00 Buell Plaza', 'Myrtle Beach', 'South Carolina', 'ihacardcn@instagram.com', '843-392-3897', 935276, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Analise', 'Robiou', '7 Rusk Pass', 'Charleston', 'South Carolina', 'arobiouco@drupal.org', '843-169-7732', 533850, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ellyn', 'Hiscoe', '16 Helena Place', 'Homestead', 'Florida', 'ehiscoecp@ucoz.ru', '305-923-9212', 639708, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ainslie', 'Fricke', '576 Portage Crossing', 'Washington', 'District of Columbia', 'africkecq@jalbum.net', '202-217-0484', 206285, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Concordia', 'Coade', '5388 Buhler Trail', 'Salt Lake City', 'Utah', 'ccoadecr@paginegialle.it', '435-356-1213', 107962, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eli', 'Worton', '08196 Norway Maple Center', 'Cincinnati', 'Ohio', 'ewortoncs@so-net.ne.jp', '513-451-1509', 192684, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Verney', 'Harley', '39024 Vahlen Terrace', 'Lawrenceville', 'Georgia', 'vharleyct@cnet.com', '678-587-6244', 258710, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arlen', 'Becken', '2053 Harbort Center', 'Phoenix', 'Arizona', 'abeckencu@printfriendly.com', '602-218-1430', 696894, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Petronille', 'Reichhardt', '05971 David Drive', 'Los Angeles', 'California', 'preichhardtcv@homestead.com', '424-433-0036', 419533, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shellysheldon', 'Donnachie', '443 Waubesa Court', 'New York City', 'New York', 'sdonnachiecw@amazon.com', '212-418-7777', 310628, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alyse', 'Glasbey', '225 Bay Avenue', 'Charleston', 'South Carolina', 'aglasbeycx@meetup.com', '843-518-2098', 544320, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wendall', 'Elizabeth', '170 Johnson Park', 'Oklahoma City', 'Oklahoma', 'welizabethcy@dagondesign.com', '405-918-3483', 824045, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pauletta', 'Riggs', '476 Utah Lane', 'Vero Beach', 'Florida', 'priggscz@zdnet.com', '772-658-3460', 132726, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Serena', 'Megahey', '55369 Prairieview Junction', 'Santa Fe', 'New Mexico', 'smegaheyd0@census.gov', '505-457-8953', 469135, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Murray', 'Issacson', '63 Straubel Place', 'Tyler', 'Texas', 'missacsond1@uol.com.br', '903-989-9975', 869974, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Terri', 'Fabry', '4 3rd Avenue', 'Atlanta', 'Georgia', 'tfabryd2@histats.com', '404-552-4268', 704029, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Blinnie', 'Challender', '04 Monica Lane', 'Decatur', 'Georgia', 'bchallenderd3@ucoz.ru', '678-621-7537', 227939, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gabriell', 'Hammant', '878 Summit Trail', 'Fort Worth', 'Texas', 'ghammantd4@facebook.com', '682-419-7902', 533934, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kassi', 'Hallowell', '88 Manufacturers Plaza', 'Philadelphia', 'Pennsylvania', 'khallowelld5@ibm.com', '215-760-7901', 282355, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Beau', 'Strain', '844 Glacier Hill Junction', 'Aurora', 'Illinois', 'bstraind6@photobucket.com', '312-715-6799', 914690, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mureil', 'MacCartair', '99 Lakeland Circle', 'New York City', 'New York', 'mmaccartaird7@nymag.com', '917-329-3901', 14615, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Merrill', 'Dadge', '681 Gulseth Pass', 'Oklahoma City', 'Oklahoma', 'mdadged8@ebay.com', '405-567-6609', 758169, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carleen', 'Wilmington', '4 Stone Corner Pass', 'Topeka', 'Kansas', 'cwilmingtond9@go.com', '785-215-3900', 736236, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Junia', 'Budd', '52 Crest Line Court', 'Albany', 'New York', 'jbuddda@plala.or.jp', '518-494-1310', 899814, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Friederike', 'Petrolli', '32353 Monument Court', 'Des Moines', 'Iowa', 'fpetrollidb@buzzfeed.com', '641-100-0932', 851864, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jenine', 'Atwill', '44642 Clyde Gallagher Crossing', 'Spartanburg', 'South Carolina', 'jatwilldc@google.com.hk', '864-465-0616', 337114, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Otho', 'Rookeby', '9 Grim Parkway', 'San Antonio', 'Texas', 'orookebydd@gravatar.com', '210-589-7337', 992583, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ealasaid', 'Duchatel', '16 Arizona Crossing', 'Youngstown', 'Ohio', 'educhatelde@so-net.ne.jp', '330-694-7240', 20158, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Terencio', 'Losemann', '7263 Miller Crossing', 'Monticello', 'Minnesota', 'tlosemanndf@purevolume.com', '763-802-8214', 128250, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Barnaby', 'Dumbare', '45161 Monterey Point', 'Columbus', 'Ohio', 'bdumbaredg@pinterest.com', '614-490-4288', 546755, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Moyna', 'Van der Son', '3 Maple Wood Drive', 'San Diego', 'California', 'mvandersondh@hhs.gov', '619-210-1354', 843681, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rhoda', 'Kohrt', '8 Manufacturers Court', 'Miami', 'Florida', 'rkohrtdi@fda.gov', '786-560-4998', 106038, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Edgar', 'Cousans', '1 Delladonna Alley', 'Jamaica', 'New York', 'ecousansdj@xinhuanet.com', '212-822-5247', 608679, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Janeta', 'Midner', '49891 Little Fleur Park', 'Austin', 'Texas', 'jmidnerdk@google.com.hk', '512-606-0606', 541813, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kimbra', 'D''Almeida', '02490 Swallow Way', 'Washington', 'District of Columbia', 'kdalmeidadl@bloomberg.com', '202-730-3526', 230356, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Staci', 'Doget', '78 Norway Maple Terrace', 'Topeka', 'Kansas', 'sdogetdm@wordpress.org', '785-449-1095', 421110, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kelcy', 'Dobeson', '411 Butternut Place', 'Norfolk', 'Virginia', 'kdobesondn@boston.com', '757-458-9001', 58783, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Stillmann', 'Ebden', '9705 Bellgrove Avenue', 'Peoria', 'Illinois', 'sebdendo@salon.com', '309-487-8744', 911397, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Reba', 'Olenikov', '47 Mendota Street', 'Louisville', 'Kentucky', 'rolenikovdp@squarespace.com', '502-548-1182', 438435, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Charis', 'Govinlock', '86415 Melrose Place', 'Detroit', 'Michigan', 'cgovinlockdq@linkedin.com', '313-991-2200', 790959, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Huey', 'Buzzing', '30 Macpherson Drive', 'Spokane', 'Washington', 'hbuzzingdr@canalblog.com', '509-200-3399', 503833, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Andi', 'Chugg', '7 Mitchell Trail', 'Jeffersonville', 'Indiana', 'achuggds@house.gov', '812-609-0930', 159306, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shamus', 'Rockliffe', '24 Bultman Circle', 'Orlando', 'Florida', 'srockliffedt@stumbleupon.com', '407-900-5887', 19904, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Angus', 'Van der Hoven', '73524 Maple Wood Street', 'Corpus Christi', 'Texas', 'avanderhovendu@reference.com', '361-537-4773', 144491, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Darcee', 'Sherville', '9365 Shelley Point', 'Birmingham', 'Alabama', 'dshervilledv@posterous.com', '205-206-5291', 602499, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Waly', 'Boydon', '401 Rutledge Lane', 'San Diego', 'California', 'wboydondw@java.com', '619-635-9684', 411996, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tasha', 'Hurne', '5 Melby Alley', 'Beaverton', 'Oregon', 'thurnedx@tinyurl.com', '503-377-8354', 888226, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gracie', 'Banbridge', '59 Monument Place', 'Salt Lake City', 'Utah', 'gbanbridgedy@mtv.com', '801-922-8973', 455553, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Priscilla', 'Sherratt', '19730 Spaight Alley', 'Oklahoma City', 'Oklahoma', 'psherrattdz@ibm.com', '405-201-3269', 258569, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nonah', 'Cayle', '0 Prentice Alley', 'Fort Lauderdale', 'Florida', 'ncaylee0@cocolog-nifty.com', '754-457-2673', 153084, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jesse', 'Merrien', '256 Park Meadow Junction', 'Virginia Beach', 'Virginia', 'jmerriene1@stumbleupon.com', '757-654-5802', 821617, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Caralie', 'Tarbett', '910 Sachtjen Crossing', 'Lima', 'Ohio', 'ctarbette2@twitpic.com', '419-154-0472', 184714, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Salmon', 'Fleeman', '44 7th Junction', 'Albany', 'New York', 'sfleemane3@dell.com', '518-113-0020', 298910, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shayla', 'Dever', '7 Ilene Center', 'Toledo', 'Ohio', 'sdevere4@go.com', '419-676-7292', 39473, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jemmy', 'Woodyeare', '2 Birchwood Pass', 'Tacoma', 'Washington', 'jwoodyearee5@alexa.com', '253-701-3177', 655338, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Godart', 'Lockney', '5347 Milwaukee Drive', 'Tacoma', 'Washington', 'glockneye6@bloglines.com', '253-338-2417', 891949, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Oby', 'Caesmans', '59271 Clyde Gallagher Parkway', 'Harrisburg', 'Pennsylvania', 'ocaesmanse7@yahoo.co.jp', '717-280-7647', 906020, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Laughton', 'Jeffress', '2 Fairview Point', 'Saint Louis', 'Missouri', 'ljeffresse8@hp.com', '314-944-0783', 892351, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bernardina', 'Hooks', '642 Knutson Point', 'Sacramento', 'California', 'bhookse9@themeforest.net', '916-137-4537', 124427, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sherline', 'Huddle', '20 Spohn Trail', 'Washington', 'District of Columbia', 'shuddleea@sun.com', '202-694-0794', 404025, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Luca', 'Mosco', '157 Basil Parkway', 'Aurora', 'Colorado', 'lmoscoeb@wired.com', '303-596-0407', 349887, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ronda', 'Iron', '45 Sutteridge Avenue', 'Birmingham', 'Alabama', 'rironec@vk.com', '205-548-6253', 271177, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nathanial', 'Hearfield', '4 Charing Cross Road', 'Roanoke', 'Virginia', 'nhearfielded@alibaba.com', '540-865-0087', 127748, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tricia', 'Roden', '27362 Algoma Lane', 'Flint', 'Michigan', 'trodenee@intel.com', '810-124-7254', 805034, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mia', 'Latliff', '6669 Lien Point', 'Reno', 'Nevada', 'mlatliffef@w3.org', '775-874-4751', 836501, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Perle', 'Grealish', '231 Troy Crossing', 'Chicago', 'Illinois', 'pgrealisheg@bbc.co.uk', '773-842-5611', 846496, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Leif', 'Bawles', '64 Mesta Drive', 'Greensboro', 'North Carolina', 'lbawleseh@elegantthemes.com', '336-717-9041', 224423, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Joshia', 'Lucia', '13 Reindahl Junction', 'Washington', 'District of Columbia', 'jluciaei@admin.ch', '202-776-3615', 236018, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brent', 'Leeke', '7113 Fairview Lane', 'Miami', 'Florida', 'bleekeej@baidu.com', '786-439-4444', 894592, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Abbie', 'Eschalotte', '71 Larry Park', 'Midland', 'Texas', 'aeschalotteek@umn.edu', '432-190-6555', 210227, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Steve', 'Sharer', '38797 Stoughton Road', 'Winston Salem', 'North Carolina', 'ssharerel@time.com', '336-156-0927', 703589, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eden', 'Mostin', '66177 Hagan Junction', 'Houston', 'Texas', 'emostinem@e-recht24.de', '832-488-8791', 226637, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sim', 'Tytterton', '55435 Holy Cross Point', 'Huntington', 'West Virginia', 'styttertonen@aboutads.info', '304-261-2872', 386672, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Astra', 'Georgeot', '991 North Terrace', 'Buffalo', 'New York', 'ageorgeoteo@odnoklassniki.ru', '716-161-0810', 378733, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elspeth', 'Mapes', '1847 Main Park', 'Washington', 'District of Columbia', 'emapesep@bigcartel.com', '202-238-3768', 91379, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nikki', 'Daspar', '01805 Oneill Alley', 'Washington', 'District of Columbia', 'ndaspareq@vistaprint.com', '202-266-5758', 70280, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carolus', 'Coleman', '7810 Crowley Crossing', 'Houston', 'Texas', 'ccolemaner@columbia.edu', '713-919-7384', 540120, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zolly', 'Clemmey', '32 Sutherland Place', 'Corpus Christi', 'Texas', 'zclemmeyes@opensource.org', '361-999-1037', 589094, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Konrad', 'Curling', '43583 Lyons Plaza', 'Macon', 'Georgia', 'kcurlinget@sciencedaily.com', '912-371-8223', 703371, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sam', 'Paxman', '9 Marquette Alley', 'Vancouver', 'Washington', 'spaxmaneu@marketwatch.com', '360-228-5138', 536713, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Danie', 'Treherne', '7 Ruskin Place', 'Stockton', 'California', 'dtreherneev@mozilla.com', '209-177-9761', 276282, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Candida', 'Gopsell', '231 Menomonie Place', 'Portland', 'Oregon', 'cgopsellew@squarespace.com', '503-258-7781', 115876, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Timmy', 'Witchell', '896 Sunnyside Pass', 'Minneapolis', 'Minnesota', 'twitchellex@stumbleupon.com', '763-502-3499', 990665, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jecho', 'Klementz', '502 Manufacturers Plaza', 'Charlotte', 'North Carolina', 'jklementzey@free.fr', '704-750-9417', 523071, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cirillo', 'Swyndley', '97 Crownhardt Crossing', 'Gilbert', 'Arizona', 'cswyndleyez@apache.org', '480-871-6745', 589541, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elvira', 'Bannard', '425 Maywood Road', 'Palm Bay', 'Florida', 'ebannardf0@state.gov', '561-244-0684', 860305, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tadio', 'Trask', '796 Daystar Parkway', 'Columbus', 'Ohio', 'ttraskf1@salon.com', '614-742-9771', 876608, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jozef', 'Nickolls', '8 Corben Court', 'Seattle', 'Washington', 'jnickollsf2@businessweek.com', '206-365-0273', 964978, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clarisse', 'Rangell', '3254 Daystar Street', 'Memphis', 'Tennessee', 'crangellf3@dedecms.com', '901-532-8536', 748979, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Erik', 'Harpin', '93984 Gerald Point', 'Pittsburgh', 'Pennsylvania', 'eharpinf4@i2i.jp', '412-897-5214', 9839, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rustie', 'Yarker', '4324 Birchwood Alley', 'Kansas City', 'Missouri', 'ryarkerf5@a8.net', '816-411-4582', 466471, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Constantino', 'Giovanardi', '0438 Dwight Street', 'Roanoke', 'Virginia', 'cgiovanardif6@umich.edu', '540-159-3033', 683258, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('William', 'Casino', '72 Welch Parkway', 'Corpus Christi', 'Texas', 'wcasinof7@wordpress.com', '361-819-1084', 732866, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vitoria', 'Ashmole', '2 Rutledge Place', 'Springfield', 'Illinois', 'vashmolef8@about.me', '217-738-5913', 419937, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Giulietta', 'Timlin', '88 Eastwood Lane', 'Austin', 'Texas', 'gtimlinf9@japanpost.jp', '512-730-4227', 733595, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rochelle', 'Clemonts', '47104 Banding Circle', 'Waterloo', 'Iowa', 'rclemontsfa@webs.com', '319-594-0308', 209402, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elinore', 'Le Floch', '5457 Meadow Valley Lane', 'Huntington', 'West Virginia', 'eleflochfb@blogtalkradio.com', '304-759-8808', 718997, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Malinda', 'O''Corren', '63416 Oriole Avenue', 'North Little Rock', 'Arkansas', 'mocorrenfc@google.it', '501-776-8673', 594724, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Baron', 'Mulmuray', '2311 Dakota Street', 'New York City', 'New York', 'bmulmurayfd@harvard.edu', '212-803-1358', 877762, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Valaria', 'Cussons', '0458 Cardinal Road', 'Phoenix', 'Arizona', 'vcussonsfe@gizmodo.com', '602-790-1705', 318831, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gerhard', 'Langeren', '77384 John Wall Crossing', 'Pensacola', 'Florida', 'glangerenff@slashdot.org', '850-856-4394', 546251, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brittne', 'Hyman', '24970 Forest Dale Avenue', 'Oklahoma City', 'Oklahoma', 'bhymanfg@nytimes.com', '405-735-0166', 818506, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Julina', 'Plunket', '358 Laurel Avenue', 'Minneapolis', 'Minnesota', 'jplunketfh@unc.edu', '612-618-0804', 531185, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maynord', 'Georgiades', '05 Texas Lane', 'Austin', 'Texas', 'mgeorgiadesfi@oakley.com', '512-379-2264', 628104, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Redd', 'Dalling', '7774 Muir Hill', 'Lansing', 'Michigan', 'rdallingfj@wikia.com', '517-628-6658', 552722, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dimitry', 'Laval', '87 6th Crossing', 'Dallas', 'Texas', 'dlavalfk@sciencedaily.com', '214-758-2705', 100746, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nada', 'Sacks', '9316 Express Point', 'Atlanta', 'Georgia', 'nsacksfl@tripod.com', '404-806-2362', 154663, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Thadeus', 'Bake', '972 Waxwing Park', 'Beaumont', 'Texas', 'tbakefm@nytimes.com', '936-848-2443', 445126, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meade', 'Pays', '54162 Sutteridge Trail', 'Modesto', 'California', 'mpaysfn@webmd.com', '209-797-0090', 379064, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Grazia', 'Napoli', '10 Springs Drive', 'Virginia Beach', 'Virginia', 'gnapolifo@merriam-webster.com', '757-293-9195', 923959, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fanchette', 'McCumskay', '18 Troy Circle', 'Springfield', 'Illinois', 'fmccumskayfp@cnbc.com', '217-144-0817', 414429, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kelsey', 'Gonthard', '0 Bellgrove Junction', 'Monticello', 'Minnesota', 'kgonthardfq@soup.io', '763-934-0824', 327846, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Balduin', 'Harvatt', '75596 Sycamore Drive', 'Erie', 'Pennsylvania', 'bharvattfr@whitehouse.gov', '814-332-2169', 983761, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Armando', 'Batchelor', '482 Pleasure Parkway', 'Bradenton', 'Florida', 'abatchelorfs@e-recht24.de', '727-487-3194', 6042, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Farah', 'Duffie', '4210 Esch Crossing', 'Washington', 'District of Columbia', 'fduffieft@amazonaws.com', '202-913-8614', 176878, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dom', 'Alessandretti', '0 Hoepker Junction', 'Houston', 'Texas', 'dalessandrettifu@pagesperso-orange.fr', '713-237-8418', 62625, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jasper', 'Gabbatiss', '43 Westend Court', 'Lincoln', 'Nebraska', 'jgabbatissfv@digg.com', '402-198-9135', 560537, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jeannette', 'Jenicke', '559 Barnett Circle', 'Miami', 'Florida', 'jjenickefw@flickr.com', '786-690-1535', 567107, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dorena', 'Brogioni', '33780 Fairview Circle', 'Virginia Beach', 'Virginia', 'dbrogionifx@plala.or.jp', '757-974-2528', 937233, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Myriam', 'Chupin', '45415 Lotheville Circle', 'Arlington', 'Texas', 'mchupinfy@tuttocitta.it', '214-207-7238', 803557, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Teddy', 'Payne', '0283 Comanche Court', 'Shreveport', 'Louisiana', 'tpaynefz@scribd.com', '318-694-9225', 514306, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jonie', 'Whitticks', '2965 Kinsman Avenue', 'Visalia', 'California', 'jwhitticksg0@youtu.be', '209-923-9586', 773378, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Laraine', 'Pelzer', '3 Moose Junction', 'Texarkana', 'Texas', 'lpelzerg1@linkedin.com', '903-895-1348', 190902, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Consuela', 'Colliar', '4 Melody Crossing', 'Honolulu', 'Hawaii', 'ccolliarg2@trellian.com', '808-674-9476', 962891, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mahalia', 'Ambrus', '390 Stephen Hill', 'Johnstown', 'Pennsylvania', 'mambrusg3@go.com', '814-968-7315', 684744, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jakie', 'Braybrooks', '3 Grayhawk Alley', 'Houston', 'Texas', 'jbraybrooksg4@addtoany.com', '713-157-2906', 196248, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Reese', 'Lunn', '9744 Crest Line Way', 'Fort Lauderdale', 'Florida', 'rlunng5@slashdot.org', '754-627-3738', 605472, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Beatrix', 'Targe', '402 Kedzie Crossing', 'Portland', 'Oregon', 'btargeg6@wufoo.com', '971-216-9415', 586501, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Norbie', 'Codman', '1 Hagan Street', 'Tulsa', 'Oklahoma', 'ncodmang7@statcounter.com', '918-737-4692', 198598, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alfonse', 'Bowell', '276 Schmedeman Court', 'Fort Pierce', 'Florida', 'abowellg8@hibu.com', '772-450-5515', 656041, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gilberto', 'Riccard', '051 Pennsylvania Parkway', 'Birmingham', 'Alabama', 'griccardg9@blogs.com', '205-801-5393', 959736, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Artemus', 'Doyle', '4999 Eagan Circle', 'Louisville', 'Kentucky', 'adoylega@gov.uk', '502-331-1821', 755006, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Luke', 'Dantesia', '9 Moose Crossing', 'Norwalk', 'Connecticut', 'ldantesiagb@last.fm', '203-576-5050', 130271, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brady', 'Polendine', '8 Boyd Court', 'Minneapolis', 'Minnesota', 'bpolendinegc@google.com.hk', '763-472-8219', 887483, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Misty', 'Brogi', '8 Dawn Circle', 'San Antonio', 'Texas', 'mbrogigd@ucsd.edu', '830-144-5107', 465505, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adele', 'McQuaker', '166 Fisk Alley', 'Atlanta', 'Georgia', 'amcquakerge@accuweather.com', '404-668-4916', 762813, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zorah', 'Dykes', '81091 Straubel Junction', 'Houston', 'Texas', 'zdykesgf@hp.com', '713-177-0674', 114619, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Noak', 'Kier', '11 Fairfield Avenue', 'Longview', 'Texas', 'nkiergg@artisteer.com', '903-404-2430', 374154, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eberhard', 'Needs', '022 Donald Road', 'Jamaica', 'New York', 'eneedsgh@irs.gov', '917-787-5852', 137258, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Leta', 'Feldon', '06 Sage Center', 'Bradenton', 'Florida', 'lfeldongi@prlog.org', '941-400-9619', 342623, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Desmond', 'Kolushev', '820 Manufacturers Avenue', 'Fairbanks', 'Alaska', 'dkolushevgj@cargocollective.com', '907-853-6992', 534443, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vikky', 'Morlon', '457 Crownhardt Park', 'Gadsden', 'Alabama', 'vmorlongk@domainmarket.com', '256-184-2494', 537375, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Abelard', 'Leghorn', '73839 Doe Crossing Alley', 'Yakima', 'Washington', 'aleghorngl@sogou.com', '509-258-8577', 96734, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meggie', 'Curneen', '750 Ohio Road', 'Sacramento', 'California', 'mcurneengm@acquirethisname.com', '916-664-9335', 735650, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meyer', 'Dunkerley', '8166 Summerview Parkway', 'Philadelphia', 'Pennsylvania', 'mdunkerleygn@arstechnica.com', '215-678-7664', 879843, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashien', 'Mapp', '2483 Northview Parkway', 'Salt Lake City', 'Utah', 'amappgo@php.net', '801-253-6403', 176279, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fabio', 'Griggs', '51 Corry Street', 'Montgomery', 'Alabama', 'fgriggsgp@1688.com', '334-802-3314', 135567, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vickie', 'Bednell', '228 Dunning Plaza', 'Mesa', 'Arizona', 'vbednellgq@businessinsider.com', '480-901-8952', 220486, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Saxe', 'Timby', '258 Iowa Road', 'Rochester', 'New York', 'stimbygr@mapy.cz', '585-186-9537', 32179, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gwen', 'Mitchell', '21 Stuart Terrace', 'Lansing', 'Michigan', 'gmitchellgs@microsoft.com', '517-544-7979', 389768, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lisbeth', 'Campsall', '30164 Sherman Street', 'Saint Paul', 'Minnesota', 'lcampsallgt@loc.gov', '763-497-9943', 26735, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Neda', 'MacDonogh', '7696 Ludington Point', 'Orlando', 'Florida', 'nmacdonoghgu@upenn.edu', '407-105-6764', 787109, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Baryram', 'Solley', '7759 Lakewood Street', 'Newport News', 'Virginia', 'bsolleygv@si.edu', '757-847-8250', 282376, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Trever', 'MacKartan', '58 North Crossing', 'Santa Fe', 'New Mexico', 'tmackartangw@mashable.com', '505-910-0033', 471316, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Colly', 'McLarty', '73 Steensland Plaza', 'San Jose', 'California', 'cmclartygx@nhs.uk', '408-568-9533', 735196, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ethelda', 'Dinnies', '3321 Burrows Place', 'Alexandria', 'Virginia', 'edinniesgy@taobao.com', '571-484-8719', 682383, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Karel', 'Nickolls', '2 Hauk Parkway', 'Houston', 'Texas', 'knickollsgz@msu.edu', '713-802-4034', 799570, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Andreas', 'Simic', '91 Harbort Alley', 'Norfolk', 'Virginia', 'asimich0@google.co.uk', '757-349-0760', 913746, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hort', 'Cattanach', '78 Brentwood Place', 'Honolulu', 'Hawaii', 'hcattanachh1@marketwatch.com', '808-939-8707', 388192, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Idell', 'Arlott', '75 Homewood Way', 'Washington', 'District of Columbia', 'iarlotth2@google.it', '202-526-3695', 302273, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elton', 'Proswell', '039 Darwin Way', 'Omaha', 'Nebraska', 'eproswellh3@t-online.de', '402-444-8364', 384097, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Minnnie', 'Ellsom', '81 Vera Lane', 'Los Angeles', 'California', 'mellsomh4@slate.com', '323-963-5837', 691377, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Benny', 'Mollen', '98843 Veith Pass', 'Houston', 'Texas', 'bmollenh5@bizjournals.com', '281-243-9791', 97022, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Miguel', 'Emmot', '361 Bayside Way', 'Saint Louis', 'Missouri', 'memmoth6@simplemachines.org', '314-571-9448', 992051, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alexandros', 'McAlister', '3 Bowman Circle', 'Boston', 'Massachusetts', 'amcalisterh7@weibo.com', '617-970-1673', 80706, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tabbie', 'Radenhurst', '890 Drewry Road', 'Syracuse', 'New York', 'tradenhursth8@desdev.cn', '315-690-8275', 938237, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Caprice', 'Bowne', '0373 Hazelcrest Place', 'Chicago', 'Illinois', 'cbowneh9@mtv.com', '312-222-5438', 367957, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Schuyler', 'Portail', '576 Vermont Circle', 'Lansing', 'Michigan', 'sportailha@nifty.com', '517-614-0290', 798824, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Babita', 'Oldershaw', '28106 Manitowish Plaza', 'Santa Fe', 'New Mexico', 'boldershawhb@gmpg.org', '505-481-8196', 655642, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Christiano', 'MacAlroy', '72336 Forest Run Parkway', 'Rochester', 'Minnesota', 'cmacalroyhc@samsung.com', '507-321-3450', 934208, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Darby', 'Mottershead', '92 Ridgeway Way', 'Baltimore', 'Maryland', 'dmottersheadhd@princeton.edu', '443-661-6033', 54998, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bendick', 'Dyott', '85310 Marcy Circle', 'Macon', 'Georgia', 'bdyotthe@ucla.edu', '912-597-6561', 920289, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Layney', 'Boswood', '5556 Blackbird Trail', 'Cleveland', 'Ohio', 'lboswoodhf@scribd.com', '216-149-7451', 132261, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Giustino', 'Goddert.sf', '397 Cody Way', 'Palo Alto', 'California', 'ggoddertsfhg@posterous.com', '650-518-6459', 222454, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cordell', 'Berrane', '25778 Summer Ridge Road', 'Los Angeles', 'California', 'cberranehh@multiply.com', '213-243-1937', 66292, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Berty', 'Joiner', '67493 Blackbird Parkway', 'Chattanooga', 'Tennessee', 'bjoinerhi@wunderground.com', '423-190-2395', 887068, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tamara', 'Glabach', '1 Raven Court', 'Jamaica', 'New York', 'tglabachhj@amazon.de', '718-702-5999', 19639, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Boone', 'Wickerson', '38497 Aberg Avenue', 'Atlanta', 'Georgia', 'bwickersonhk@alibaba.com', '404-883-3718', 440645, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rockwell', 'Castella', '4259 Hermina Lane', 'Jackson', 'Mississippi', 'rcastellahl@howstuffworks.com', '601-611-1260', 885591, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sheff', 'Pleass', '72 Gateway Parkway', 'Sacramento', 'California', 'spleasshm@cornell.edu', '916-137-8788', 748410, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Reggy', 'Eglington', '22 Steensland Plaza', 'Wilmington', 'Delaware', 'reglingtonhn@nasa.gov', '302-216-1583', 858075, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bealle', 'Monkman', '4864 Loftsgordon Trail', 'Dallas', 'Texas', 'bmonkmanho@twitpic.com', '214-978-1014', 690696, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Verine', 'Strangeway', '30 Starling Trail', 'Albuquerque', 'New Mexico', 'vstrangewayhp@yellowpages.com', '505-149-9838', 898357, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Berna', 'Portis', '926 Memorial Court', 'Charlottesville', 'Virginia', 'bportishq@flavors.me', '434-875-6135', 585763, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nate', 'Leroy', '93951 Longview Junction', 'Sacramento', 'California', 'nleroyhr@nasa.gov', '916-513-7284', 647586, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ferris', 'Bracken', '52776 Helena Avenue', 'San Antonio', 'Texas', 'fbrackenhs@sohu.com', '830-736-0007', 292780, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sasha', 'Burcombe', '2026 Green Place', 'Merrifield', 'Virginia', 'sburcombeht@spotify.com', '571-231-8393', 254067, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marnie', 'Barroux', '1 Stoughton Way', 'Sarasota', 'Florida', 'mbarrouxhu@dailymail.co.uk', '941-728-8406', 727983, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Burke', 'Beetham', '429 Esker Pass', 'Seattle', 'Washington', 'bbeethamhv@hc360.com', '206-537-6236', 539205, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sharleen', 'Santon', '183 Karstens Crossing', 'Rockford', 'Illinois', 'ssantonhw@auda.org.au', '815-170-2025', 798747, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shandeigh', 'Swadon', '36 Cascade Center', 'Gadsden', 'Alabama', 'sswadonhx@wisc.edu', '256-411-0716', 336435, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mariette', 'Kloster', '67 Maple Wood Pass', 'Houston', 'Texas', 'mklosterhy@w3.org', '832-175-4392', 371274, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dione', 'Readshaw', '564 Hovde Avenue', 'Trenton', 'New Jersey', 'dreadshawhz@hubpages.com', '609-207-5557', 737798, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Valene', 'Clausson', '4 Melody Point', 'Dayton', 'Ohio', 'vclaussoni0@facebook.com', '937-924-6415', 656158, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Pebrook', 'Anderer', '93259 Delaware Park', 'Kansas City', 'Missouri', 'pandereri1@last.fm', '816-204-3695', 76893, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mamie', 'Ruddle', '13816 Rieder Hill', 'Huntsville', 'Alabama', 'mruddlei2@ebay.co.uk', '256-623-3853', 646571, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shelli', 'Swidenbank', '73604 Artisan Crossing', 'Helena', 'Montana', 'sswidenbanki3@cloudflare.com', '406-885-4693', 659419, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Max', 'Jenkerson', '013 Ridge Oak Hill', 'El Paso', 'Texas', 'mjenkersoni4@admin.ch', '915-889-1484', 277254, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zackariah', 'Carratt', '480 Arrowood Street', 'Miami', 'Florida', 'zcarratti5@quantcast.com', '305-588-2207', 570762, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cynthea', 'Iggalden', '05422 Center Way', 'Orlando', 'Florida', 'ciggaldeni6@huffingtonpost.com', '321-530-3935', 140851, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jodie', 'Callar', '49592 Lyons Trail', 'Jackson', 'Mississippi', 'jcallari7@upenn.edu', '601-721-9827', 483793, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dill', 'Hinrichsen', '952 Atwood Hill', 'Little Rock', 'Arkansas', 'dhinrichseni8@nih.gov', '501-335-9986', 937015, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wendell', 'Cuolahan', '81911 Burrows Trail', 'Independence', 'Missouri', 'wcuolahani9@google.co.uk', '816-561-0196', 233812, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ellwood', 'Arnli', '8918 Buell Place', 'Hagerstown', 'Maryland', 'earnliia@economist.com', '240-307-5149', 767492, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Redford', 'Nendick', '665 Barby Road', 'Atlanta', 'Georgia', 'rnendickib@npr.org', '404-397-7689', 729608, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Albertine', 'Liven', '4 Marquette Lane', 'Stamford', 'Connecticut', 'alivenic@census.gov', '203-549-1134', 800956, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Toby', 'Strand', '98302 Maple Junction', 'Salinas', 'California', 'tstrandid@time.com', '831-501-9563', 313638, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ingeberg', 'Ccomini', '2482 Cordelia Crossing', 'Falls Church', 'Virginia', 'iccominiie@booking.com', '571-908-2089', 232133, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shawnee', 'Childerley', '0 Carberry Street', 'Albany', 'Georgia', 'schilderleyif@foxnews.com', '229-916-3177', 662765, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Haydon', 'Abramowitz', '28414 Jackson Place', 'Columbus', 'Ohio', 'habramowitzig@moonfruit.com', '614-935-0765', 413605, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cammi', 'Crisford', '73 Clemons Terrace', 'Las Vegas', 'Nevada', 'ccrisfordih@dion.ne.jp', '702-413-9711', 814708, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ignazio', 'Alfwy', '171 New Castle Lane', 'Alexandria', 'Virginia', 'ialfwyii@angelfire.com', '571-372-6263', 235844, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dyanne', 'Buckler', '45 2nd Hill', 'New Orleans', 'Louisiana', 'dbucklerij@mlb.com', '504-567-3058', 757042, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Callean', 'Cano', '27110 Forest Circle', 'Crawfordsville', 'Indiana', 'ccanoik@artisteer.com', '765-858-8050', 648274, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nixie', 'Swigger', '3 Maple Circle', 'Fresno', 'California', 'nswiggeril@photobucket.com', '559-622-7714', 276103, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aloysia', 'Klejna', '25 Village Green Drive', 'Fort Worth', 'Texas', 'aklejnaim@cloudflare.com', '682-172-9891', 988448, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gamaliel', 'Kyd', '83944 Meadow Valley Center', 'Peoria', 'Illinois', 'gkydin@360.cn', '309-189-9118', 665178, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wini', 'Pabel', '622 Hoffman Way', 'Jacksonville', 'Florida', 'wpabelio@shutterfly.com', '904-597-1873', 986555, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Selestina', 'Bails', '74048 Gale Court', 'Charleston', 'West Virginia', 'sbailsip@disqus.com', '304-259-3077', 13740, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chastity', 'Rickeard', '5 Algoma Circle', 'Charleston', 'South Carolina', 'crickeardiq@wsj.com', '843-626-4436', 970536, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Starla', 'D''Arrigo', '9850 Village Junction', 'Miami', 'Florida', 'sdarrigoir@google.ru', '786-440-3112', 276899, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Stearne', 'Renon', '97418 Southridge Place', 'Kansas City', 'Missouri', 'srenonis@ovh.net', '816-612-8895', 900800, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kele', 'Eger', '726 Trailsway Junction', 'Boston', 'Massachusetts', 'kegerit@t-online.de', '617-653-1962', 121180, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Daryle', 'M''Barron', '15 School Trail', 'Fresno', 'California', 'dmbarroniu@blog.com', '559-326-6998', 158246, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Georgine', 'Labell', '4720 New Castle Place', 'Athens', 'Georgia', 'glabelliv@chronoengine.com', '706-938-0883', 14110, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carlen', 'Zimek', '28 Forest Run Street', 'Pocatello', 'Idaho', 'czimekiw@slate.com', '208-591-5681', 403520, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wye', 'Zecchinii', '721 Esch Junction', 'Toledo', 'Ohio', 'wzecchiniiix@deliciousdays.com', '419-350-5960', 214069, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dede', 'Bundy', '6 Loeprich Point', 'Newark', 'Delaware', 'dbundyiy@harvard.edu', '302-590-8485', 437204, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adolph', 'Inkster', '2315 Lotheville Place', 'Manassas', 'Virginia', 'ainksteriz@google.com.au', '434-174-6781', 438018, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Edee', 'Hodgon', '9 Tony Road', 'Spokane', 'Washington', 'ehodgonj0@ocn.ne.jp', '509-568-5773', 100245, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Malory', 'Offner', '852 Kings Junction', 'Newark', 'Delaware', 'moffnerj1@furl.net', '302-118-9880', 125254, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marshall', 'Enderwick', '2566 Burning Wood Hill', 'Washington', 'District of Columbia', 'menderwickj2@flavors.me', '703-165-0059', 283191, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zolly', 'Lampen', '308 International Road', 'Lees Summit', 'Missouri', 'zlampenj3@wsj.com', '816-884-7962', 673610, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adam', 'Dowsey', '5 Northport Road', 'Youngstown', 'Ohio', 'adowseyj4@networkadvertising.org', '330-163-8896', 163294, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Raquel', 'Warr', '0 Bunting Pass', 'Roanoke', 'Virginia', 'rwarrj5@globo.com', '540-644-6429', 387086, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Micheal', 'Poyner', '3 Dakota Trail', 'San Antonio', 'Texas', 'mpoynerj6@disqus.com', '210-340-3234', 105518, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tally', 'Fischer', '18961 Mesta Terrace', 'San Francisco', 'California', 'tfischerj7@sun.com', '415-997-2677', 974028, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nichol', 'Leaver', '10 Susan Circle', 'Birmingham', 'Alabama', 'nleaverj8@altervista.org', '205-262-3878', 159124, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carlyle', 'Swarbrigg', '8210 Evergreen Lane', 'Terre Haute', 'Indiana', 'cswarbriggj9@discovery.com', '812-294-1119', 734280, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Selena', 'Ackland', '3 Burrows Road', 'Buffalo', 'New York', 'sacklandja@wix.com', '716-657-0165', 135394, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Alayne', 'Caird', '60213 Roxbury Road', 'Marietta', 'Georgia', 'acairdjb@google.ru', '770-197-5974', 44934, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tamas', 'Scurrey', '67822 Mayer Court', 'Madison', 'Wisconsin', 'tscurreyjc@marriott.com', '608-981-0291', 777958, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Conchita', 'Belfrage', '5 Mendota Center', 'Columbus', 'Georgia', 'cbelfragejd@mashable.com', '706-359-7000', 870639, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Willy', 'Odo', '2399 Dwight Park', 'Dallas', 'Texas', 'wodoje@ezinearticles.com', '972-669-3212', 778412, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Abagail', 'McComiskie', '93085 School Street', 'Los Angeles', 'California', 'amccomiskiejf@tripadvisor.com', '310-479-0231', 16973, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Emelyne', 'Deboo', '77152 Anzinger Hill', 'Colorado Springs', 'Colorado', 'edeboojg@nifty.com', '719-876-2843', 732162, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Garald', 'Fernando', '0 Maple Way', 'Grand Junction', 'Colorado', 'gfernandojh@nba.com', '970-139-4159', 632594, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Westbrooke', 'Pickvance', '3469 Myrtle Hill', 'Sacramento', 'California', 'wpickvanceji@shinystat.com', '916-373-0643', 674002, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Angelico', 'Gartan', '2441 Tennyson Avenue', 'Philadelphia', 'Pennsylvania', 'agartanjj@dropbox.com', '215-337-7489', 262724, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Irving', 'Goodday', '8742 Basil Place', 'Greensboro', 'North Carolina', 'igooddayjk@parallels.com', '336-372-1192', 208480, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eva', 'Butte', '2003 Cordelia Parkway', 'Bradenton', 'Florida', 'ebuttejl@globo.com', '941-518-8917', 853051, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bryce', 'Petofi', '544 Rutledge Parkway', 'Minneapolis', 'Minnesota', 'bpetofijm@ft.com', '612-636-3970', 696028, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Damiano', 'Haliburn', '84362 Lunder Center', 'Wichita', 'Kansas', 'dhaliburnjn@webnode.com', '316-673-8993', 625441, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Camilla', 'Winham', '009 Namekagon Road', 'Lexington', 'Kentucky', 'cwinhamjo@simplemachines.org', '859-572-5471', 777321, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adan', 'Carluccio', '7 Arizona Center', 'Charlotte', 'North Carolina', 'acarlucciojp@who.int', '704-736-0258', 676879, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gillie', 'Calliss', '6 Express Street', 'Huntington', 'West Virginia', 'gcallissjq@google.co.uk', '304-465-1322', 183452, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Meridel', 'Fidilis', '6125 Ryan Lane', 'Pueblo', 'Colorado', 'mfidilisjr@example.com', '719-625-7042', 956343, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nap', 'Meysham', '961 Prentice Plaza', 'El Paso', 'Texas', 'nmeyshamjs@jigsy.com', '915-698-1954', 71762, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Layne', 'Etchell', '75 Artisan Hill', 'Portland', 'Oregon', 'letchelljt@unblog.fr', '971-626-8132', 659841, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Derwin', 'Di Maggio', '1769 Lakewood Gardens Crossing', 'Aiken', 'South Carolina', 'ddimaggioju@odnoklassniki.ru', '803-649-8286', 458531, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sheela', 'Siveter', '7356 Hoard Circle', 'Kissimmee', 'Florida', 'ssiveterjv@so-net.ne.jp', '407-697-5087', 710409, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Helyn', 'McSporrin', '3 Evergreen Park', 'Oklahoma City', 'Oklahoma', 'hmcsporrinjw@vinaora.com', '405-870-6585', 562680, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Daniella', 'Tamsett', '73 Carey Road', 'Houston', 'Texas', 'dtamsettjx@gmpg.org', '713-120-4397', 20640, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Xerxes', 'Balderson', '747 Waxwing Hill', 'Peoria', 'Illinois', 'xbaldersonjy@51.la', '309-210-7915', 119852, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aldus', 'Norway', '4364 Merchant Place', 'San Jose', 'California', 'anorwayjz@ehow.com', '714-281-2533', 249424, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kiele', 'Peyro', '0 Kropf Circle', 'Paterson', 'New Jersey', 'kpeyrok0@upenn.edu', '862-308-3517', 507106, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Idaline', 'Hartil', '465 Knutson Center', 'North Hollywood', 'California', 'ihartilk1@gnu.org', '323-585-6851', 397085, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cherice', 'Orgen', '304 Oxford Lane', 'Portland', 'Oregon', 'corgenk2@nps.gov', '503-186-5438', 720931, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Raymond', 'Money', '96 Hudson Way', 'Flushing', 'New York', 'rmoneyk3@topsy.com', '718-541-7041', 114751, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Con', 'Maddin', '85447 Melrose Trail', 'Fort Worth', 'Texas', 'cmaddink4@pinterest.com', '817-940-0393', 29078, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zaccaria', 'Nassie', '79597 Mallard Street', 'Naples', 'Florida', 'znassiek5@apple.com', '305-822-3475', 697522, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hort', 'Boggon', '08 Schlimgen Pass', 'Mobile', 'Alabama', 'hboggonk6@smh.com.au', '251-187-2340', 842382, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Patricia', 'Piaggia', '72 Schiller Parkway', 'Montgomery', 'Alabama', 'ppiaggiak7@simplemachines.org', '334-937-1750', 906483, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elbertina', 'Kneaphsey', '047 Lukken Road', 'Jacksonville', 'Florida', 'ekneaphseyk8@latimes.com', '904-799-9140', 226974, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Niall', 'Cano', '7163 Katie Plaza', 'El Paso', 'Texas', 'ncanok9@wiley.com', '915-938-8762', 954437, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tierney', 'Deinhard', '01 Mifflin Hill', 'Hattiesburg', 'Mississippi', 'tdeinhardka@psu.edu', '601-908-5507', 57343, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Selle', 'Ferrettino', '2588 Evergreen Crossing', 'Indianapolis', 'Indiana', 'sferrettinokb@independent.co.uk', '317-616-1406', 146679, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Carlin', 'Haddacks', '32254 Fisk Park', 'Boston', 'Massachusetts', 'chaddackskc@creativecommons.org', '617-324-4425', 799794, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Viv', 'Walles', '950 High Crossing Drive', 'Escondido', 'California', 'vwalleskd@cornell.edu', '760-741-6886', 243984, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eugine', 'Raisbeck', '237 Clemons Alley', 'Washington', 'District of Columbia', 'eraisbeckke@squarespace.com', '202-863-5891', 541725, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Laureen', 'Westoll', '119 Annamark Avenue', 'Grand Rapids', 'Michigan', 'lwestollkf@spiegel.de', '616-176-2256', 59456, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jamal', 'McComas', '73 Center Center', 'Little Rock', 'Arkansas', 'jmccomaskg@opensource.org', '501-126-2760', 687930, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Debora', 'Hinrichs', '22160 Maple Wood Circle', 'Naples', 'Florida', 'dhinrichskh@feedburner.com', '239-555-8457', 493952, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Blinni', 'Colling', '9400 Steensland Junction', 'Humble', 'Texas', 'bcollingki@admin.ch', '281-240-0800', 164465, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clemmie', 'Carmen', '2506 Heffernan Pass', 'Huntsville', 'Alabama', 'ccarmenkj@paypal.com', '256-855-1580', 831828, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brook', 'Klampk', '2 Mosinee Alley', 'Orlando', 'Florida', 'bklampkkk@parallels.com', '407-423-5980', 206322, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Harri', 'Brydie', '2 Carey Center', 'Shawnee Mission', 'Kansas', 'hbrydiekl@ebay.co.uk', '913-244-0000', 746768, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Annice', 'Niccols', '883 Ridgeway Court', 'Las Vegas', 'Nevada', 'aniccolskm@huffingtonpost.com', '702-100-0606', 817867, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rafaellle', 'Giorgietto', '5973 Scoville Trail', 'Richmond', 'Virginia', 'rgiorgiettokn@exblog.jp', '804-465-4165', 933531, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Datha', 'Jagels', '6100 Ludington Junction', 'Greensboro', 'North Carolina', 'djagelsko@edublogs.org', '336-171-1577', 529363, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Consalve', 'Fraczak', '91 Heath Trail', 'Detroit', 'Michigan', 'cfraczakkp@hc360.com', '313-751-6924', 709765, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shaine', 'Simeon', '3597 Londonderry Lane', 'Chula Vista', 'California', 'ssimeonkq@amazon.de', '619-167-7588', 865163, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wynny', 'Blanden', '9810 Washington Lane', 'Philadelphia', 'Pennsylvania', 'wblandenkr@rediff.com', '215-805-2949', 957867, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Corney', 'Pinnegar', '49483 Bluestem Junction', 'Cedar Rapids', 'Iowa', 'cpinnegarks@dion.ne.jp', '319-251-8607', 139581, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Joellen', 'De Clairmont', '37 Rusk Terrace', 'Staten Island', 'New York', 'jdeclairmontkt@w3.org', '718-625-6867', 106837, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ximenez', 'Van Daalen', '87 Transport Trail', 'Arlington', 'Virginia', 'xvandaalenku@cloudflare.com', '571-209-4116', 374199, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Claybourne', 'Veck', '4 Commercial Center', 'Mc Keesport', 'Pennsylvania', 'cveckkv@shutterfly.com', '412-195-2547', 176750, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eleonore', 'Rodda', '111 Waxwing Avenue', 'Montgomery', 'Alabama', 'eroddakw@illinois.edu', '334-654-9601', 976238, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Franky', 'Peers', '89 Twin Pines Center', 'Long Beach', 'California', 'fpeerskx@privacy.gov.au', '310-455-4674', 933067, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adair', 'MacKeever', '929 Dryden Pass', 'Provo', 'Utah', 'amackeeverky@dailymail.co.uk', '801-628-7464', 112642, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Judi', 'Gowan', '7 Hoepker Way', 'Sacramento', 'California', 'jgowankz@tiny.cc', '916-607-4166', 54502, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Natalie', 'Phelipeaux', '77 Park Meadow Hill', 'Houston', 'Texas', 'nphelipeauxl0@xinhuanet.com', '832-638-9920', 167237, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bowie', 'Pound', '9399 School Hill', 'Tampa', 'Florida', 'bpoundl1@csmonitor.com', '813-154-4474', 76958, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Franky', 'Breedy', '0648 Veith Parkway', 'Fresno', 'California', 'fbreedyl2@nifty.com', '559-552-5472', 574564, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Burton', 'Deyenhardt', '1669 Columbus Center', 'Jersey City', 'New Jersey', 'bdeyenhardtl3@chron.com', '908-921-0136', 477727, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cazzie', 'Holehouse', '7 Hansons Parkway', 'Kansas City', 'Kansas', 'cholehousel4@comsenz.com', '913-637-8022', 565116, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gasparo', 'Darey', '74228 Scott Lane', 'Washington', 'District of Columbia', 'gdareyl5@dailymotion.com', '202-134-9187', 654357, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Roseanne', 'Geke', '3 Michigan Pass', 'Paterson', 'New Jersey', 'rgekel6@weebly.com', '862-788-0632', 367859, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashley', 'Crock', '15 Menomonie Road', 'Gilbert', 'Arizona', 'acrockl7@youtu.be', '480-822-6016', 592050, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Curtis', 'Titt', '31842 Lien Way', 'Birmingham', 'Alabama', 'ctittl8@disqus.com', '205-829-3459', 682143, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Prent', 'Schreurs', '43330 Gale Crossing', 'San Francisco', 'California', 'pschreursl9@eepurl.com', '415-140-8675', 355269, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Duffie', 'Pegden', '44441 Green Ridge Court', 'Pittsburgh', 'Pennsylvania', 'dpegdenla@homestead.com', '412-865-4834', 268658, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chrissy', 'Vear', '16862 Beilfuss Circle', 'Orlando', 'Florida', 'cvearlb@ed.gov', '407-466-3586', 424613, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eveline', 'Baldacchino', '81299 Nova Court', 'Fort Wayne', 'Indiana', 'ebaldacchinolc@skyrock.com', '260-244-5855', 261708, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Erhart', 'Cothey', '4 Menomonie Terrace', 'San Antonio', 'Texas', 'ecotheyld@mashable.com', '210-754-6745', 533620, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jecho', 'Paddy', '68 Nobel Place', 'Baton Rouge', 'Louisiana', 'jpaddyle@chron.com', '225-501-8113', 851659, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Violetta', 'Ovesen', '525 Mccormick Place', 'Buffalo', 'New York', 'vovesenlf@bloomberg.com', '716-378-5009', 741480, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chrissy', 'Cullon', '85 Tony Parkway', 'Springfield', 'Illinois', 'ccullonlg@networkadvertising.org', '217-854-6637', 100881, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lauraine', 'Ponter', '00 Merchant Hill', 'Valdosta', 'Georgia', 'lponterlh@tinypic.com', '229-884-5256', 965949, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Michele', 'Studd', '75 Gerald Plaza', 'Trenton', 'New Jersey', 'mstuddli@ucoz.ru', '609-917-8819', 838071, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rossie', 'Fallen', '15526 Jenifer Pass', 'Brooklyn', 'New York', 'rfallenlj@mapy.cz', '718-415-0490', 11736, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Celisse', 'Meiklem', '32291 Transport Lane', 'Pittsburgh', 'Pennsylvania', 'cmeiklemlk@blog.com', '412-677-4496', 865171, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Goran', 'Shelborne', '9 Lukken Point', 'Sandy', 'Utah', 'gshelbornell@npr.org', '801-378-6587', 427502, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Burk', 'Fillimore', '887 Farwell Pass', 'Joliet', 'Illinois', 'bfillimorelm@amazon.com', '815-186-6509', 324631, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Smith', 'Borg-Bartolo', '6008 Esch Avenue', 'Raleigh', 'North Carolina', 'sborgbartololn@omniture.com', '919-414-7720', 535635, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Anderea', 'Bouchier', '2 Forest Dale Point', 'Oakland', 'California', 'abouchierlo@ask.com', '510-671-1796', 54407, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Malvin', 'Lumly', '68131 Warrior Junction', 'El Paso', 'Texas', 'mlumlylp@nasa.gov', '915-173-6822', 416923, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Malina', 'Defraine', '64699 Golf View Trail', 'Cleveland', 'Ohio', 'mdefrainelq@ibm.com', '216-559-5467', 279961, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Antone', 'Maro', '54489 Eastwood Terrace', 'Portland', 'Oregon', 'amarolr@scribd.com', '971-447-2905', 60665, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Fulton', 'Morratt', '6395 Judy Lane', 'Nashville', 'Tennessee', 'fmorrattls@symantec.com', '615-371-0757', 259228, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Boniface', 'Nappin', '945 Veith Way', 'Miami', 'Florida', 'bnappinlt@bing.com', '305-279-3008', 168008, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aura', 'Hance', '04 6th Road', 'Midland', 'Texas', 'ahancelu@cloudflare.com', '432-103-2839', 999633, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Farleigh', 'Wetherill', '32854 Rockefeller Road', 'Las Vegas', 'Nevada', 'fwetherilllv@naver.com', '702-854-9770', 711297, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jonathan', 'Ricarde', '74516 Dorton Avenue', 'Jamaica', 'New York', 'jricardelw@msu.edu', '516-244-6744', 590220, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aloysius', 'Gaffer', '036 Brickson Park Place', 'Youngstown', 'Ohio', 'agafferlx@dyndns.org', '330-189-0434', 651735, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Veronike', 'Hindes', '1 Larry Avenue', 'Montgomery', 'Alabama', 'vhindesly@etsy.com', '334-243-5486', 141403, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Johannes', 'Virgoe', '18 Stuart Alley', 'Spokane', 'Washington', 'jvirgoelz@addtoany.com', '509-664-1572', 452637, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Erasmus', 'Kidson', '85702 Mallard Street', 'Tulsa', 'Oklahoma', 'ekidsonm0@elpais.com', '918-754-6505', 100079, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brianne', 'Salzberger', '799 Corben Avenue', 'New Orleans', 'Louisiana', 'bsalzbergerm1@aol.com', '504-425-8755', 161568, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lark', 'Halfhide', '25596 Canary Point', 'Lexington', 'Kentucky', 'lhalfhidem2@examiner.com', '859-974-0395', 526838, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clementine', 'Coskerry', '528 Everett Lane', 'Honolulu', 'Hawaii', 'ccoskerrym3@linkedin.com', '808-592-8737', 277689, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sybilla', 'Padson', '98 Continental Lane', 'Corpus Christi', 'Texas', 'spadsonm4@disqus.com', '361-167-5311', 82975, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dick', 'Dallaghan', '3 Acker Hill', 'Jamaica', 'New York', 'ddallaghanm5@devhub.com', '718-517-7085', 488645, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Estele', 'Berriball', '1927 Trailsway Road', 'Bradenton', 'Florida', 'eberriballm6@xrea.com', '941-321-4974', 124068, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dulcy', 'Gower', '80417 Hansons Road', 'Madison', 'Wisconsin', 'dgowerm7@walmart.com', '608-127-6116', 665252, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nikita', 'McJury', '9392 Norway Maple Parkway', 'Houston', 'Texas', 'nmcjurym8@imgur.com', '713-829-0424', 286784, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brena', 'Tewkesberrie', '928 Moose Street', 'Pasadena', 'California', 'btewkesberriem9@discuz.net', '626-175-2245', 998880, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gerhardt', 'Kenney', '77491 Loftsgordon Circle', 'Atlanta', 'Georgia', 'gkenneyma@nationalgeographic.com', '404-311-1234', 615802, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Derk', 'Yuryaev', '7022 Pankratz Parkway', 'New York City', 'New York', 'dyuryaevmb@networksolutions.com', '212-677-2356', 797662, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vinson', 'Stubbs', '7366 Meadow Vale Terrace', 'Seattle', 'Washington', 'vstubbsmc@chicagotribune.com', '425-782-7006', 352038, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eula', 'MacGeffen', '24 Iowa Pass', 'Jacksonville', 'Florida', 'emacgeffenmd@vistaprint.com', '904-185-4483', 655419, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kelley', 'Berks', '8973 Manitowish Street', 'Portland', 'Oregon', 'kberksme@godaddy.com', '503-278-6657', 87690, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Biron', 'Nazer', '52752 Warbler Street', 'Irving', 'Texas', 'bnazermf@weebly.com', '817-713-7289', 281065, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ferrel', 'Mc Coughan', '7 Weeping Birch Plaza', 'Baltimore', 'Maryland', 'fmccoughanmg@t.co', '410-190-4866', 972375, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Guillemette', 'Melesk', '661 Dennis Place', 'Anchorage', 'Alaska', 'gmeleskmh@feedburner.com', '907-598-0486', 74717, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Micheil', 'Casswell', '9313 Moulton Lane', 'Shreveport', 'Louisiana', 'mcasswellmi@senate.gov', '318-377-5324', 740718, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kerwin', 'Fynn', '78974 Cherokee Place', 'Omaha', 'Nebraska', 'kfynnmj@yale.edu', '402-800-5878', 39830, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rockey', 'Yitzhakof', '328 Hazelcrest Drive', 'Milwaukee', 'Wisconsin', 'ryitzhakofmk@amazon.co.uk', '414-518-6512', 83440, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rubetta', 'Sabban', '533 Arapahoe Circle', 'Amarillo', 'Texas', 'rsabbanml@usnews.com', '806-187-7958', 81188, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gardener', 'Mallon', '577 Barby Hill', 'Manassas', 'Virginia', 'gmallonmm@adobe.com', '434-140-6991', 310388, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Merry', 'Harbage', '043 Jana Plaza', 'Charlotte', 'North Carolina', 'mharbagemn@imgur.com', '704-618-1168', 205355, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cathee', 'Dielhenn', '2 Londonderry Plaza', 'Fresno', 'California', 'cdielhennmo@sina.com.cn', '209-102-9534', 720871, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Germain', 'Chezier', '459 Waubesa Drive', 'Wilkes Barre', 'Pennsylvania', 'gcheziermp@jalbum.net', '570-519-4814', 453082, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kristopher', 'Rawling', '93 Waubesa Court', 'Seattle', 'Washington', 'krawlingmq@opera.com', '206-203-7513', 529725, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zola', 'Glennie', '3 Marcy Plaza', 'Springfield', 'Ohio', 'zglenniemr@wp.com', '937-785-7158', 617247, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ruperto', 'Dennehy', '7281 Towne Parkway', 'New York City', 'New York', 'rdennehyms@tamu.edu', '646-686-5122', 11339, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Denny', 'Feasey', '53 Dayton Terrace', 'Worcester', 'Massachusetts', 'dfeaseymt@dell.com', '508-991-1815', 927905, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kelbee', 'Fores', '9728 5th Trail', 'Irvine', 'California', 'kforesmu@wsj.com', '714-368-2058', 25164, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Haley', 'Varndell', '18696 Browning Avenue', 'Oklahoma City', 'Oklahoma', 'hvarndellmv@cyberchimps.com', '405-471-1359', 867608, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Garvy', 'Heggs', '4163 Dottie Pass', 'New York City', 'New York', 'gheggsmw@mail.ru', '718-730-1706', 165257, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shirline', 'Dupoy', '28453 Myrtle Center', 'Austin', 'Texas', 'sdupoymx@wix.com', '512-907-4769', 652844, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kirbee', 'Goldney', '6247 Bay Plaza', 'Mobile', 'Alabama', 'kgoldneymy@hostgator.com', '251-776-5053', 790718, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Spense', 'Bertlin', '2642 Cascade Lane', 'Dulles', 'Virginia', 'sbertlinmz@columbia.edu', '571-486-2830', 982326, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Giselle', 'Saunderson', '3 Cottonwood Lane', 'Billings', 'Montana', 'gsaundersonn0@phoca.cz', '406-425-9504', 924670, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cinderella', 'Warby', '5053 Crownhardt Lane', 'Seattle', 'Washington', 'cwarbyn1@soup.io', '206-806-9356', 836623, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Peter', 'Kleinhausen', '0764 Morning Center', 'Greensboro', 'North Carolina', 'pkleinhausenn2@studiopress.com', '336-373-6997', 564814, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hewie', 'Ascrofte', '3017 Stephen Avenue', 'New York City', 'New York', 'hascroften3@vinaora.com', '917-428-8105', 788121, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adolph', 'Ferriday', '04 Redwing Trail', 'Albany', 'New York', 'aferridayn4@joomla.org', '518-680-4694', 115454, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Budd', 'Hardson', '7672 Evergreen Place', 'Columbus', 'Mississippi', 'bhardsonn5@creativecommons.org', '662-592-3916', 49714, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Myrle', 'Mackelworth', '2 Merchant Court', 'Fort Lauderdale', 'Florida', 'mmackelworthn6@issuu.com', '954-966-3510', 460626, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maris', 'Hallgath', '65 Shasta Court', 'New York City', 'New York', 'mhallgathn7@upenn.edu', '212-919-0018', 866705, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nickie', 'Castagnasso', '7809 Maryland Junction', 'San Mateo', 'California', 'ncastagnasson8@gmpg.org', '805-243-0447', 189394, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashla', 'Kubes', '0792 Sunbrook Avenue', 'Cape Coral', 'Florida', 'akubesn9@imdb.com', '239-797-6543', 314964, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bent', 'de Cullip', '7978 Springview Road', 'Greensboro', 'North Carolina', 'bdecullipna@hostgator.com', '336-515-6097', 668914, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nealy', 'Petruskevich', '4279 International Court', 'Akron', 'Ohio', 'npetruskevichnb@wsj.com', '330-792-9066', 40677, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Baxy', 'Lewer', '33 Ilene Parkway', 'Kingsport', 'Tennessee', 'blewernc@loc.gov', '423-410-1170', 269041, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Arlene', 'Deinhardt', '5 Lakeland Court', 'Seattle', 'Washington', 'adeinhardtnd@accuweather.com', '425-721-6319', 508390, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ilse', 'Phlipon', '100 Maywood Park', 'Fort Worth', 'Texas', 'iphliponne@businessweek.com', '682-338-4301', 896863, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marcellus', 'Bordes', '0 Debra Lane', 'Wilmington', 'Delaware', 'mbordesnf@surveymonkey.com', '302-108-1419', 443270, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rosita', 'Vanyukhin', '10 Sommers Alley', 'Omaha', 'Nebraska', 'rvanyukhinng@drupal.org', '402-281-9268', 872581, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Toddie', 'Antoons', '99 Gerald Lane', 'Colorado Springs', 'Colorado', 'tantoonsnh@upenn.edu', '719-323-2155', 859944, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ken', 'Empleton', '087 Thierer Point', 'Pittsburgh', 'Pennsylvania', 'kempletonni@buzzfeed.com', '724-568-7032', 372238, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Isaak', 'Dilke', '023 Reindahl Alley', 'Memphis', 'Tennessee', 'idilkenj@plala.or.jp', '615-218-6284', 188870, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elianore', 'Gilson', '879 Acker Lane', 'Newport News', 'Virginia', 'egilsonnk@fastcompany.com', '757-692-9453', 688358, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gardiner', 'Langtree', '33 Killdeer Way', 'Dallas', 'Texas', 'glangtreenl@jiathis.com', '214-691-7316', 634863, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Johann', 'Bedding', '1 Morningstar Street', 'Pocatello', 'Idaho', 'jbeddingnm@wired.com', '208-566-2916', 389920, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kylie', 'Sprouls', '3521 Corry Hill', 'Saint Louis', 'Missouri', 'ksproulsnn@sohu.com', '314-488-8855', 331961, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adelind', 'Dunstan', '8975 Hanover Place', 'New Orleans', 'Louisiana', 'adunstanno@businessinsider.com', '504-414-8878', 355006, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Miguela', 'Loweth', '286 Anzinger Drive', 'Kansas City', 'Missouri', 'mlowethnp@google.com', '816-267-3990', 263367, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Haroun', 'Moncreif', '07630 Hauk Pass', 'Atlanta', 'Georgia', 'hmoncreifnq@unicef.org', '404-900-5294', 613749, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Benedetto', 'Orrin', '84668 Merry Point', 'Minneapolis', 'Minnesota', 'borrinnr@dot.gov', '612-113-0134', 965812, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Winnie', 'Bernasek', '64 Upham Parkway', 'Houston', 'Texas', 'wbernasekns@yahoo.co.jp', '713-192-9468', 323867, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Field', 'Adhams', '090 Little Fleur Road', 'Wichita Falls', 'Texas', 'fadhamsnt@dion.ne.jp', '940-690-3522', 344873, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Serene', 'Baynom', '19626 Vahlen Trail', 'Greensboro', 'North Carolina', 'sbaynomnu@admin.ch', '336-154-8941', 720837, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Vi', 'Dunne', '05 Twin Pines Parkway', 'Atlanta', 'Georgia', 'vdunnenv@odnoklassniki.ru', '770-382-4122', 292172, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Svend', 'McKeevers', '09196 Heath Place', 'Toledo', 'Ohio', 'smckeeversnw@baidu.com', '419-378-3243', 470513, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Modestia', 'Cokly', '26 Steensland Trail', 'Washington', 'District of Columbia', 'mcoklynx@google.pl', '202-733-7121', 12717, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mirabelle', 'Houselee', '1176 Lukken Terrace', 'Saint Petersburg', 'Florida', 'mhouseleeny@histats.com', '727-502-9933', 598911, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nobie', 'Adamoli', '44412 Upham Road', 'Sioux Falls', 'South Dakota', 'nadamolinz@photobucket.com', '605-388-9268', 347068, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sid', 'Reymers', '3 Waxwing Street', 'Albany', 'New York', 'sreymerso0@symantec.com', '518-659-2529', 693677, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wake', 'Kubelka', '2 Fairfield Avenue', 'Pittsburgh', 'Pennsylvania', 'wkubelkao1@japanpost.jp', '412-906-3610', 235944, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ronica', 'Maccaig', '87016 Petterle Junction', 'Norfolk', 'Virginia', 'rmaccaigo2@businessweek.com', '757-446-6985', 394943, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elden', 'Nucciotti', '2 Corben Point', 'Kingsport', 'Tennessee', 'enucciottio3@livejournal.com', '423-995-3884', 316366, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dolley', 'Venus', '8 Veith Terrace', 'Boston', 'Massachusetts', 'dvenuso4@smh.com.au', '617-943-8746', 167620, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Monika', 'Kave', '589 Anhalt Place', 'Columbus', 'Ohio', 'mkaveo5@deviantart.com', '614-363-9438', 221023, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Roma', 'Goodlett', '7214 Ohio Road', 'San Diego', 'California', 'rgoodletto6@deliciousdays.com', '619-698-1632', 55073, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Klemens', 'Lumbley', '0 Moland Court', 'Pompano Beach', 'Florida', 'klumbleyo7@about.me', '954-486-1192', 739355, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rebeka', 'Breckon', '99 Glendale Place', 'Colorado Springs', 'Colorado', 'rbreckono8@chronoengine.com', '719-284-0851', 924702, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gram', 'Strelitzki', '0 Nevada Terrace', 'Athens', 'Georgia', 'gstrelitzkio9@furl.net', '706-789-3916', 502259, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Theresa', 'Dennes', '99 Dayton Parkway', 'Fort Worth', 'Texas', 'tdennesoa@ovh.net', '682-996-3906', 522044, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Therine', 'Jacombs', '9334 Kennedy Parkway', 'Durham', 'North Carolina', 'tjacombsob@nymag.com', '919-368-5071', 175138, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cheslie', 'Victor', '01579 Orin Drive', 'Chicago', 'Illinois', 'cvictoroc@networksolutions.com', '773-910-5159', 531462, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lion', 'Rye', '60 Crowley Alley', 'Pensacola', 'Florida', 'lryeod@liveinternet.ru', '850-200-0336', 479450, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ber', 'McCuish', '2 Fallview Circle', 'Los Angeles', 'California', 'bmccuishoe@digg.com', '213-775-1572', 723519, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashley', 'Pietroni', '895 Summerview Street', 'San Diego', 'California', 'apietroniof@wordpress.org', '619-435-0032', 203053, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bevvy', 'Delafont', '95 Cascade Way', 'Richmond', 'Virginia', 'bdelafontog@si.edu', '804-835-1274', 14565, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Keriann', 'Sarath', '6 Oxford Drive', 'Santa Fe', 'New Mexico', 'ksarathoh@nyu.edu', '505-279-9136', 498878, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jonathon', 'Brand', '989 Ludington Trail', 'Indianapolis', 'Indiana', 'jbrandoi@who.int', '317-739-5868', 868880, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hillery', 'Gladeche', '130 4th Circle', 'Akron', 'Ohio', 'hgladecheoj@zdnet.com', '234-583-3600', 261609, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Beilul', 'Addekin', '3408 Eliot Parkway', 'Tulsa', 'Oklahoma', 'baddekinok@sun.com', '918-428-4528', 25318, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bevon', 'Siemandl', '9047 Hayes Center', 'Oakland', 'California', 'bsiemandlol@mediafire.com', '510-106-5100', 528703, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Richardo', 'Grimme', '1 Bultman Drive', 'Baltimore', 'Maryland', 'rgrimmeom@hexun.com', '301-523-4015', 659566, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Corry', 'Wilkenson', '1 Bobwhite Hill', 'Atlanta', 'Georgia', 'cwilkensonon@goodreads.com', '404-794-4030', 229774, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Virgie', 'Crittal', '25335 Raven Court', 'Phoenix', 'Arizona', 'vcrittaloo@github.com', '602-327-3327', 125389, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Sarina', 'Allmond', '170 Manufacturers Park', 'Milwaukee', 'Wisconsin', 'sallmondop@desdev.cn', '414-308-3368', 611823, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Josephina', 'Rouff', '95 Bayside Circle', 'Fort Worth', 'Texas', 'jrouffoq@noaa.gov', '682-527-0913', 49045, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Joly', 'Jentges', '488 Prairieview Plaza', 'El Paso', 'Texas', 'jjentgesor@senate.gov', '915-945-0807', 363770, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Zara', 'Tillot', '725 Vidon Trail', 'Temple', 'Texas', 'ztillotos@epa.gov', '254-588-2948', 265838, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tressa', 'MacMenamin', '365 Scott Plaza', 'Washington', 'District of Columbia', 'tmacmenaminot@wunderground.com', '202-884-7778', 876406, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Annalise', 'Vowles', '1 Hovde Junction', 'Washington', 'District of Columbia', 'avowlesou@addthis.com', '202-593-9602', 585915, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Briney', 'Jewis', '32179 Miller Hill', 'Atlanta', 'Georgia', 'bjewisov@storify.com', '404-930-5335', 819464, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lyndy', 'Varnam', '3944 American Ash Street', 'Clearwater', 'Florida', 'lvarnamow@yelp.com', '727-638-5237', 264762, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Maire', 'Craythorne', '4 Bonner Street', 'Saint Paul', 'Minnesota', 'mcraythorneox@aol.com', '763-349-2356', 950554, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ricky', 'Ellicock', '7 Sommers Terrace', 'San Francisco', 'California', 'rellicockoy@ovh.net', '415-994-6749', 854026, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Menard', 'Nudde', '0757 Carey Point', 'Atlanta', 'Georgia', 'mnuddeoz@wisc.edu', '404-704-4823', 378405, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Biron', 'Rogister', '94 Maple Place', 'Migrate', 'Kentucky', 'brogisterp0@comsenz.com', '502-697-5960', 358807, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Deeann', 'Tanby', '99671 Sachtjen Alley', 'Morgantown', 'West Virginia', 'dtanbyp1@flavors.me', '304-145-0721', 231452, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kathlin', 'Fray', '3 Rutledge Lane', 'Mobile', 'Alabama', 'kfrayp2@tinypic.com', '251-255-3994', 409036, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chan', 'Bonnor', '12472 Buhler Road', 'Peoria', 'Illinois', 'cbonnorp3@unblog.fr', '309-684-2840', 267391, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shelli', 'McMurthy', '61 West Avenue', 'El Paso', 'Texas', 'smcmurthyp4@ameblo.jp', '915-293-3533', 558669, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lynda', 'Seally', '5201 Southridge Plaza', 'Jacksonville', 'Florida', 'lseallyp5@hc360.com', '904-931-6471', 115793, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mersey', 'Hemshall', '7 Lighthouse Bay Hill', 'Aurora', 'Illinois', 'mhemshallp6@hc360.com', '630-739-9098', 488381, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kally', 'McRobb', '3660 Blackbird Crossing', 'White Plains', 'New York', 'kmcrobbp7@cornell.edu', '914-773-1937', 744437, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marj', 'Benns', '00344 Orin Avenue', 'Boise', 'Idaho', 'mbennsp8@meetup.com', '208-667-8332', 79340, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ashien', 'Campbell', '7200 Mariners Cove Terrace', 'Kansas City', 'Missouri', 'acampbellp9@edublogs.org', '816-349-0108', 541148, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cassi', 'Buddle', '1 Forest Parkway', 'Murfreesboro', 'Tennessee', 'cbuddlepa@youku.com', '615-637-8851', 498307, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Caro', 'Ollett', '6 Lillian Alley', 'Santa Fe', 'New Mexico', 'collettpb@twitpic.com', '505-362-4317', 266882, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mab', 'Busen', '632 Mockingbird Crossing', 'Minneapolis', 'Minnesota', 'mbusenpc@zimbio.com', '763-897-2817', 378324, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lindsay', 'Steffans', '02600 Summer Ridge Trail', 'Sioux Falls', 'South Dakota', 'lsteffanspd@discuz.net', '605-861-3981', 167971, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Mabelle', 'Kiefer', '04762 Vera Junction', 'Corpus Christi', 'Texas', 'mkieferpe@theguardian.com', '361-496-3314', 37348, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Delphinia', 'Goult', '9 Scofield Parkway', 'New York City', 'New York', 'dgoultpf@guardian.co.uk', '718-833-3864', 869185, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Terrell', 'Stutte', '2 Fulton Point', 'Waltham', 'Massachusetts', 'tstuttepg@dagondesign.com', '774-559-2487', 401442, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tilly', 'Ruilton', '02 Sommers Pass', 'Atlanta', 'Georgia', 'truiltonph@yandex.ru', '404-370-5108', 523723, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kora', 'Haistwell', '57 Dapin Crossing', 'Chicago', 'Illinois', 'khaistwellpi@paypal.com', '773-908-4307', 693370, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Kass', 'Dominguez', '2 Mandrake Way', 'Naperville', 'Illinois', 'kdominguezpj@toplist.cz', '630-171-2323', 125364, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shalom', 'Demcak', '7 Springview Pass', 'Pueblo', 'Colorado', 'sdemcakpk@google.it', '719-899-5110', 619554, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ray', 'Quelch', '5463 Browning Pass', 'Washington', 'District of Columbia', 'rquelchpl@ocn.ne.jp', '202-286-2887', 554090, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gonzales', 'Cockerham', '41635 Blue Bill Park Terrace', 'Richmond', 'California', 'gcockerhampm@cnbc.com', '510-732-0943', 302947, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dilly', 'Faunch', '082 Towne Junction', 'Jacksonville', 'Florida', 'dfaunchpn@chronoengine.com', '904-100-2426', 720779, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rockie', 'Helm', '5571 Toban Drive', 'Cincinnati', 'Ohio', 'rhelmpo@army.mil', '513-306-4204', 248, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Anna-maria', 'Juarez', '36 Summer Ridge Park', 'Houston', 'Texas', 'ajuarezpp@nydailynews.com', '713-319-6912', 296394, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Haroun', 'Schenkel', '33607 Pleasure Avenue', 'Reading', 'Pennsylvania', 'hschenkelpq@usda.gov', '484-764-4755', 566194, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hyatt', 'Mation', '36222 Dovetail Point', 'Johnson City', 'Tennessee', 'hmationpr@xinhuanet.com', '423-698-0532', 230648, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wilton', 'Fairrie', '78 Grover Court', 'Sacramento', 'California', 'wfairrieps@bbc.co.uk', '510-374-1193', 974493, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tomi', 'Roycroft', '2096 Elmside Park', 'Brooklyn', 'New York', 'troycroftpt@usa.gov', '718-831-1467', 607777, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lindsey', 'Stallworth', '60588 Morning Center', 'Houston', 'Texas', 'lstallworthpu@ucsd.edu', '713-952-3317', 955441, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Jdavie', 'Butte', '22616 Fulton Place', 'El Paso', 'Texas', 'jbuttepv@yale.edu', '915-610-4775', 118116, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Tarrance', 'Samwayes', '6 Mayer Plaza', 'Tuscaloosa', 'Alabama', 'tsamwayespw@ehow.com', '205-281-0463', 808081, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Brew', 'Haliburton', '612 Del Mar Street', 'Naperville', 'Illinois', 'bhaliburtonpx@adobe.com', '630-470-8540', 550116, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Yulma', 'Karpfen', '26599 Magdeline Parkway', 'Portland', 'Oregon', 'ykarpfenpy@ehow.com', '971-341-6720', 675043, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Susan', 'Hardwidge', '5 Cordelia Pass', 'Peoria', 'Illinois', 'shardwidgepz@myspace.com', '309-633-5355', 773621, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Quincy', 'Wigelsworth', '5 School Hill', 'Edmond', 'Oklahoma', 'qwigelsworthq0@mtv.com', '405-159-6949', 215898, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lief', 'Gossage', '44 Moland Lane', 'Pittsburgh', 'Pennsylvania', 'lgossageq1@homestead.com', '-525-9378', 239827, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Darell', 'Greason', '52 Mesta Trail', 'North Little Rock', 'Arkansas', 'dgreasonq2@pbs.org', '501-275-2933', 535637, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Editha', 'Blyth', '04493 Mesta Point', 'Mobile', 'Alabama', 'eblythq3@goodreads.com', '251-231-0452', 348577, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Franklyn', 'Coddington', '515 Little Fleur Center', 'Salt Lake City', 'Utah', 'fcoddingtonq4@wunderground.com', '801-848-7056', 452713, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Haslett', 'Flescher', '139 Caliangt Plaza', 'Saint Louis', 'Missouri', 'hflescherq5@fema.gov', '314-755-7585', 937881, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Leonidas', 'Undrell', '62285 Mifflin Crossing', 'Silver Spring', 'Maryland', 'lundrellq6@samsung.com', '301-836-9408', 298520, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clary', 'Bandey', '3156 Lakewood Gardens Park', 'Boca Raton', 'Florida', 'cbandeyq7@fotki.com', '561-588-0271', 669293, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hodge', 'Vigus', '39516 Dovetail Crossing', 'Peoria', 'Illinois', 'hvigusq8@toplist.cz', '309-743-5978', 183154, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Helge', 'Domniney', '805 Loeprich Lane', 'Toledo', 'Ohio', 'hdomnineyq9@ucla.edu', '419-954-6084', 655466, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Loy', 'Gronno', '5 Bluejay Crossing', 'Levittown', 'Pennsylvania', 'lgronnoqa@tripod.com', '267-430-2464', 972539, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Felicdad', 'Vedntyev', '5318 Debra Place', 'Evansville', 'Indiana', 'fvedntyevqb@360.cn', '812-643-6158', 37559, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Caresse', 'Cammiemile', '74 Trailsway Crossing', 'Birmingham', 'Alabama', 'ccammiemileqc@ehow.com', '205-167-3469', 751289, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Nigel', 'Persian', '8 Knutson Terrace', 'El Paso', 'Texas', 'npersianqd@reddit.com', '915-747-6877', 477945, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hilarius', 'Collumbell', '45375 Gulseth Pass', 'Jamaica', 'New York', 'hcollumbellqe@google.ru', '718-481-7692', 41706, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Balduin', 'Kernar', '353 Grayhawk Parkway', 'Springfield', 'Illinois', 'bkernarqf@wordpress.com', '217-612-2207', 837226, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Natassia', 'Sterke', '38 Moulton Hill', 'Boston', 'Massachusetts', 'nsterkeqg@reddit.com', '978-943-0735', 89085, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Faith', 'Gorce', '530 Shelley Lane', 'Duluth', 'Georgia', 'fgorceqh@berkeley.edu', '678-805-2653', 763756, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Barrett', 'Graeme', '48249 Messerschmidt Park', 'Carson City', 'Nevada', 'bgraemeqi@symantec.com', '775-922-8535', 237055, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gallard', 'Marcq', '31 Meadow Vale Hill', 'Washington', 'District of Columbia', 'gmarcqqj@surveymonkey.com', '202-274-1720', 757194, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Neysa', 'Gaylord', '6 Iowa Way', 'Canton', 'Ohio', 'ngaylordqk@rambler.ru', '234-615-7997', 961037, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Franklin', 'Ansty', '933 Holy Cross Lane', 'Minneapolis', 'Minnesota', 'fanstyql@ftc.gov', '612-528-2062', 934030, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Karyl', 'Altoft', '9283 Forster Hill', 'Gatesville', 'Texas', 'kaltoftqm@flickr.com', '254-598-1479', 786797, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Adriane', 'Heppenspall', '00 Claremont Avenue', 'Oakland', 'California', 'aheppenspallqn@gmpg.org', '510-868-3176', 213244, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gerek', 'Halvosen', '85197 Dixon Crossing', 'Akron', 'Ohio', 'ghalvosenqo@scribd.com', '330-857-1015', 301343, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lelah', 'Elegood', '417 East Lane', 'Columbia', 'South Carolina', 'lelegoodqp@theguardian.com', '803-205-9329', 852538, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Frankie', 'Andreazzi', '26 Bluejay Junction', 'Oakland', 'California', 'fandreazziqq@cam.ac.uk', '510-848-8244', 956901, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Felita', 'Height', '32233 Upham Junction', 'San Francisco', 'California', 'fheightqr@e-recht24.de', '562-132-4549', 610734, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Goober', 'Gascoyne', '7709 Warrior Parkway', 'Houston', 'Texas', 'ggascoyneqs@51.la', '979-426-4727', 29573, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gerard', 'Massy', '7 Sloan Parkway', 'Saint Paul', 'Minnesota', 'gmassyqt@umich.edu', '651-631-1634', 21452, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Merissa', 'Gavrieli', '0 Cambridge Trail', 'Pasadena', 'California', 'mgavrieliqu@scientificamerican.com', '626-746-6923', 133160, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Merwyn', 'Conring', '99848 Rutledge Plaza', 'New York City', 'New York', 'mconringqv@independent.co.uk', '212-176-6559', 604318, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ellwood', 'Howlin', '03280 Prairie Rose Road', 'Fort Smith', 'Arkansas', 'ehowlinqw@dailymail.co.uk', '479-577-0385', 233859, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Wallas', 'Landrieu', '7 Tennyson Hill', 'Washington', 'District of Columbia', 'wlandrieuqx@clickbank.net', '202-642-2567', 557960, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hendrick', 'Verna', '1022 Sullivan Drive', 'Washington', 'District of Columbia', 'hvernaqy@harvard.edu', '202-956-0065', 65766, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eydie', 'Bastin', '11836 Orin Terrace', 'Sacramento', 'California', 'ebastinqz@dropbox.com', '916-768-2235', 886242, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Bron', 'McConaghy', '8623 Brown Court', 'North Hollywood', 'California', 'bmcconaghyr0@dot.gov', '213-767-0675', 979539, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Shelba', 'Baurerich', '7 Fremont Drive', 'Santa Barbara', 'California', 'sbaurerichr1@economist.com', '805-715-4639', 145787, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Dede', 'Guitel', '998 Forster Hill', 'Portsmouth', 'New Hampshire', 'dguitelr2@tinyurl.com', '603-868-6069', 636318, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Upton', 'Dorre', '2437 International Terrace', 'Richmond', 'Virginia', 'udorrer3@unc.edu', '804-846-9749', 211336, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Julio', 'O''Ferris', '338 Leroy Circle', 'Washington', 'District of Columbia', 'joferrisr4@wired.com', '202-512-6029', 630989, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Molli', 'Alexander', '05013 Everett Point', 'Huntington', 'West Virginia', 'malexanderr5@europa.eu', '304-840-0788', 758524, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ezechiel', 'Dearl', '61 Merrick Trail', 'Clearwater', 'Florida', 'edearlr6@engadget.com', '727-633-8464', 225124, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Gelya', 'Abbot', '2 Nobel Parkway', 'Mountain View', 'California', 'gabbotr7@instagram.com', '650-997-9616', 821990, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Chrissy', 'Kensley', '910 Arapahoe Trail', 'Dearborn', 'Michigan', 'ckensleyr8@spotify.com', '313-955-4292', 69728, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Marcelle', 'Clampe', '0322 Chive Circle', 'Macon', 'Georgia', 'mclamper9@amazon.com', '478-116-3995', 631846, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Eldridge', 'Banks', '18950 Duke Alley', 'Baltimore', 'Maryland', 'ebanksra@seattletimes.com', '410-309-6930', 867809, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lisette', 'Gounard', '44848 Heffernan Lane', 'Miami', 'Florida', 'lgounardrb@theguardian.com', '786-984-3754', 22882, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Timothee', 'Stubbin', '66612 Lakewood Lane', 'Providence', 'Rhode Island', 'tstubbinrc@comcast.net', '401-470-2489', 773653, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Elka', 'Tewes', '3816 Tony Plaza', 'New York City', 'New York', 'etewesrd@tripadvisor.com', '718-280-7449', 792588, 'E');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Juli', 'Guyon', '262 Farwell Parkway', 'Chico', 'California', 'jguyonre@globo.com', '916-625-6029', 786458, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aigneis', 'Laugharne', '19 Roxbury Pass', 'Dallas', 'Texas', 'alaugharnerf@economist.com', '469-262-5527', 500801, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Babita', 'Navarijo', '57 Norway Maple Road', 'Bethesda', 'Maryland', 'bnavarijorg@fema.gov', '240-245-0736', 29159, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cate', 'Haley', '44388 Melby Place', 'Durham', 'North Carolina', 'chaleyrh@ezinearticles.com', '919-116-9939', 112435, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Betsey', 'Skeemor', '58628 Hansons Drive', 'Bronx', 'New York', 'bskeemorri@google.nl', '718-339-7500', 116397, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Rogers', 'Grono', '91503 Randy Plaza', 'Sacramento', 'California', 'rgronorj@sakura.ne.jp', '916-147-8708', 236038, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Hal', 'Atyea', '51786 Jana Road', 'Sioux City', 'Iowa', 'hatyeark@examiner.com', '712-439-5374', 842633, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Myranda', 'Scamel', '6008 Arrowood Point', 'Des Moines', 'Iowa', 'mscamelrl@meetup.com', '515-547-2195', 36131, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Ximenes', 'Lodeke', '11445 Cordelia Circle', 'Atlanta', 'Georgia', 'xlodekerm@discuz.net', '404-483-9937', 858301, 'C');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Naomi', 'Southerill', '5771 Hansons Alley', 'Tucson', 'Arizona', 'nsoutherillrn@linkedin.com', '520-670-6578', 911500, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Clarisse', 'Arnaldy', '3485 Nancy Trail', 'Boca Raton', 'Florida', 'carnaldyro@bravesites.com', '561-323-9227', 667888, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Aksel', 'Berick', '7006 5th Court', 'Baltimore', 'Maryland', 'aberickrp@ucsd.edu', '410-348-8094', 599753, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Lisetta', 'Ferrers', '2235 Graedel Court', 'Chattanooga', 'Tennessee', 'lferrersrq@uol.com.br', '423-727-8065', 28167, 'P');
+INSERT INTO PERSONA (NOMBRE, APELLIDO, DIRECCION, CIUDAD, ESTADO, EMAIL, TELEFONO, ID_PERSOMA, TIPO) 
+VALUES ('Cherye', 'Guwer', '2919 Everett Lane', 'Sacramento', 'California', 'cguwerrr@icq.com', '916-376-9937', 24140, 'P');
