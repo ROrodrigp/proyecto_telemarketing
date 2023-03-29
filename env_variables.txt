@@ -1,9 +1,0 @@
-  alias sqlplus="rlwrap sqlplus"
-  alias rman="rlwrap rman"
-  export ORACLE_BASE=/u01/app/oracle
-  export ORACLE_HOME=$ORACLE_BASE/product/19.3.0/dbhome_1
-  export ORA_INVENTORY=/u01/app/oraInventory
-  #export ORACLE_SID=rgpdip01
-  export NLS_LANG=American_America.AL32UTF8
-  export PATH=$ORACLE_HOME/bin:$PATH
-  export LD_LIBRARY_PATH=$ORACLE_HOME/lib:$LD_LIBRARY_PATH
