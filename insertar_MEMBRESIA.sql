@@ -1,1000 +1,2001 @@
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (330065, 'Membresía Básica', 250, 227);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (206752, 'Membresía Estándar', 1000, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (992083, 'Membresía Estándar', 1000, 50);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (681739, 'Membresía Corporativa', 1000, 356);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (812265, 'Membresía Estándar', 1000, 182);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (753322, 'Membresía Corporativa', 1500, 358);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (862876, 'Membresía Estándar', 1000, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (352100, 'Membresía Básica', 250, 82);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (530204, 'Membresía Premium', 1000, 356);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (916638, 'Membresía Estándar', 500, 318);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (318033, 'Membresía Premium', 1000, 314);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (91476, 'Membresía Básica', 250, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (594782, 'Membresía Corporativa', 500, 211);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (501204, 'Membresía Premium', 1000, 283);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (852482, 'Membresía Premium', 1000, 22);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (471747, 'Membresía Básica', 250, 157);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (231841, 'Membresía Corporativa', 1000, 287);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (265711, 'Membresía Corporativa', 500, 123);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (985841, 'Membresía Estándar', 250, 287);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (431313, 'Membresía Estándar', 1500, 14);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (55511, 'Membresía Estándar', 250, 336);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (415346, 'Membresía Básica', 250, 345);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (370646, 'Membresía Premium', 1000, 215);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (103543, 'Membresía Estándar', 1500, 143);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (534326, 'Membresía Estándar', 1500, 321);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (713064, 'Membresía Premium', 1000, 261);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (477738, 'Membresía Estándar', 1000, 24);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (848319, 'Membresía Básica', 250, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (64641, 'Membresía Corporativa', 1500, 79);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (726709, 'Membresía Corporativa', 250, 362);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (10716, 'Membresía Premium', 1000, 184);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (88261, 'Membresía Básica', 250, 198);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (253543, 'Membresía Corporativa', 250, 75);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (792124, 'Membresía Básica', 250, 146);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (684771, 'Membresía Premium', 1000, 91);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (477212, 'Membresía Premium', 1000, 62);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (835689, 'Membresía Premium', 1000, 133);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (567405, 'Membresía Corporativa', 1000, 152);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (428972, 'Membresía Básica', 250, 258);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (623141, 'Membresía Estándar', 250, 11);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (674483, 'Membresía Básica', 250, 261);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (105544, 'Membresía Corporativa', 1500, 196);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (843532, 'Membresía Estándar', 250, 104);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (675438, 'Membresía Corporativa', 500, 226);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (517233, 'Membresía Básica', 250, 7);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (790903, 'Membresía Corporativa', 1500, 190);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (351674, 'Membresía Básica', 250, 96);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (207378, 'Membresía Básica', 250, 108);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (353812, 'Membresía Básica', 250, 196);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (467500, 'Membresía Básica', 250, 201);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (578069, 'Membresía Corporativa', 1500, 255);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (819510, 'Membresía Básica', 250, 276);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (410576, 'Membresía Básica', 250, 289);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (50705, 'Membresía Estándar', 500, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (204236, 'Membresía Básica', 250, 358);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (293137, 'Membresía Corporativa', 250, 235);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (701939, 'Membresía Estándar', 500, 44);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (948522, 'Membresía Corporativa', 1500, 319);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (138318, 'Membresía Básica', 250, 114);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (252709, 'Membresía Estándar', 250, 207);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (936317, 'Membresía Estándar', 500, 284);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (67782, 'Membresía Estándar', 1500, 99);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (830255, 'Membresía Básica', 250, 156);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (437239, 'Membresía Estándar', 250, 278);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (870869, 'Membresía Básica', 250, 2);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (410268, 'Membresía Corporativa', 1000, 330);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (704249, 'Membresía Básica', 250, 190);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (525726, 'Membresía Básica', 250, 355);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (521355, 'Membresía Premium', 1000, 80);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (253188, 'Membresía Estándar', 1000, 112);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (27615, 'Membresía Estándar', 500, 202);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (588963, 'Membresía Estándar', 250, 150);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (699173, 'Membresía Premium', 1000, 348);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (465399, 'Membresía Corporativa', 1000, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (60046, 'Membresía Estándar', 1000, 214);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (898448, 'Membresía Básica', 250, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (251208, 'Membresía Corporativa', 250, 21);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (66296, 'Membresía Corporativa', 1500, 16);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (398071, 'Membresía Premium', 1000, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (303339, 'Membresía Estándar', 500, 361);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (857862, 'Membresía Corporativa', 1000, 10);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (34045, 'Membresía Corporativa', 500, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (688692, 'Membresía Premium', 1000, 57);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (486862, 'Membresía Corporativa', 500, 347);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (578413, 'Membresía Estándar', 1500, 24);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (729040, 'Membresía Estándar', 1000, 279);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (591211, 'Membresía Corporativa', 1000, 54);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (333639, 'Membresía Básica', 250, 124);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (168049, 'Membresía Corporativa', 500, 267);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (544167, 'Membresía Estándar', 250, 296);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (576931, 'Membresía Básica', 250, 333);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (825831, 'Membresía Estándar', 1500, 326);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (153770, 'Membresía Estándar', 500, 288);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (316868, 'Membresía Premium', 1000, 134);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (420302, 'Membresía Básica', 250, 253);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (447116, 'Membresía Premium', 1000, 70);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (355438, 'Membresía Estándar', 250, 311);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (836196, 'Membresía Básica', 250, 68);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (164709, 'Membresía Estándar', 250, 325);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (193928, 'Membresía Premium', 1000, 5);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (435333, 'Membresía Corporativa', 500, 256);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (190470, 'Membresía Estándar', 1000, 100);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (788838, 'Membresía Estándar', 250, 277);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (735061, 'Membresía Estándar', 500, 70);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (107216, 'Membresía Estándar', 1000, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (532158, 'Membresía Básica', 250, 9);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (574524, 'Membresía Estándar', 500, 339);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (292952, 'Membresía Básica', 250, 189);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (915112, 'Membresía Básica', 250, 291);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (421873, 'Membresía Premium', 1000, 20);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (963854, 'Membresía Estándar', 1000, 233);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (126425, 'Membresía Premium', 1000, 316);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (781628, 'Membresía Premium', 1000, 9);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (157646, 'Membresía Corporativa', 1000, 206);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (253179, 'Membresía Estándar', 250, 233);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (303867, 'Membresía Premium', 1000, 335);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (619929, 'Membresía Corporativa', 1500, 330);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (193441, 'Membresía Estándar', 1500, 238);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (310138, 'Membresía Básica', 250, 193);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (983090, 'Membresía Estándar', 1000, 161);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (220159, 'Membresía Corporativa', 1500, 62);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (776575, 'Membresía Premium', 1000, 284);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (69435, 'Membresía Corporativa', 1000, 169);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (602868, 'Membresía Básica', 250, 1);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (616492, 'Membresía Corporativa', 250, 2);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (129192, 'Membresía Estándar', 1000, 10);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (746533, 'Membresía Premium', 1000, 42);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (819615, 'Membresía Básica', 250, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (279235, 'Membresía Básica', 250, 21);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (9652, 'Membresía Estándar', 1500, 25);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (746295, 'Membresía Estándar', 1000, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (431019, 'Membresía Estándar', 1000, 98);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (829856, 'Membresía Básica', 250, 200);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (948840, 'Membresía Premium', 1000, 265);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (745532, 'Membresía Premium', 1000, 340);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (123564, 'Membresía Premium', 1000, 40);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (825432, 'Membresía Básica', 250, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (832497, 'Membresía Básica', 250, 161);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (361742, 'Membresía Básica', 250, 295);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (14088, 'Membresía Estándar', 1000, 165);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (599310, 'Membresía Básica', 250, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (901948, 'Membresía Estándar', 1000, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (939226, 'Membresía Corporativa', 1500, 226);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (573203, 'Membresía Estándar', 250, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (284242, 'Membresía Básica', 250, 56);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (673759, 'Membresía Básica', 250, 314);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (281085, 'Membresía Estándar', 1000, 300);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (71977, 'Membresía Estándar', 1000, 246);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (329044, 'Membresía Corporativa', 500, 108);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (766688, 'Membresía Estándar', 500, 278);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (364448, 'Membresía Premium', 1000, 201);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (467054, 'Membresía Premium', 1000, 316);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (35187, 'Membresía Estándar', 1000, 347);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (474433, 'Membresía Premium', 1000, 37);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (535816, 'Membresía Corporativa', 1500, 317);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (141978, 'Membresía Básica', 250, 203);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (192811, 'Membresía Estándar', 1500, 353);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (304450, 'Membresía Premium', 1000, 241);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (490446, 'Membresía Corporativa', 500, 255);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (150210, 'Membresía Premium', 1000, 28);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (881774, 'Membresía Básica', 250, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (160045, 'Membresía Premium', 1000, 281);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (415010, 'Membresía Premium', 1000, 183);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (830934, 'Membresía Básica', 250, 112);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (496775, 'Membresía Corporativa', 1000, 232);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (458033, 'Membresía Estándar', 1500, 26);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (466253, 'Membresía Corporativa', 500, 175);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (206729, 'Membresía Corporativa', 1000, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (912345, 'Membresía Corporativa', 1500, 306);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (680558, 'Membresía Estándar', 1000, 316);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (403429, 'Membresía Básica', 250, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (785844, 'Membresía Premium', 1000, 44);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (999765, 'Membresía Estándar', 500, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (880208, 'Membresía Premium', 1000, 327);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (858762, 'Membresía Básica', 250, 145);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (598841, 'Membresía Corporativa', 1000, 150);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (555324, 'Membresía Estándar', 500, 351);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (792148, 'Membresía Estándar', 1500, 287);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (955089, 'Membresía Básica', 250, 342);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (151913, 'Membresía Premium', 1000, 286);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (684986, 'Membresía Estándar', 500, 125);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (493863, 'Membresía Corporativa', 1000, 252);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (383086, 'Membresía Estándar', 500, 343);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (84309, 'Membresía Corporativa', 1000, 21);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (860720, 'Membresía Corporativa', 1500, 221);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (920866, 'Membresía Premium', 1000, 128);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (552632, 'Membresía Estándar', 1000, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (418183, 'Membresía Básica', 250, 60);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (521619, 'Membresía Básica', 250, 252);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (416277, 'Membresía Corporativa', 1000, 356);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (490774, 'Membresía Básica', 250, 77);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (901733, 'Membresía Premium', 1000, 259);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (294438, 'Membresía Estándar', 500, 184);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (532376, 'Membresía Básica', 250, 188);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (83408, 'Membresía Premium', 1000, 137);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (262008, 'Membresía Premium', 1000, 256);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (7059, 'Membresía Premium', 1000, 153);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (354067, 'Membresía Premium', 1000, 143);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (760732, 'Membresía Básica', 250, 241);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (62585, 'Membresía Premium', 1000, 191);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (376700, 'Membresía Estándar', 250, 122);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (40201, 'Membresía Corporativa', 500, 94);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (558777, 'Membresía Corporativa', 500, 29);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (49392, 'Membresía Estándar', 1000, 19);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (30509, 'Membresía Básica', 250, 64);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (399047, 'Membresía Estándar', 250, 104);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (580039, 'Membresía Premium', 1000, 59);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (763115, 'Membresía Corporativa', 1000, 147);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (12111, 'Membresía Estándar', 500, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (162302, 'Membresía Corporativa', 250, 200);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (715133, 'Membresía Básica', 250, 144);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (546855, 'Membresía Básica', 250, 44);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (622519, 'Membresía Corporativa', 500, 273);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (170995, 'Membresía Corporativa', 250, 314);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (559001, 'Membresía Estándar', 500, 78);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (19900, 'Membresía Premium', 1000, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (632594, 'Membresía Corporativa', 1500, 169);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (601133, 'Membresía Premium', 1000, 305);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (842948, 'Membresía Estándar', 500, 260);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (993231, 'Membresía Básica', 250, 204);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (354354, 'Membresía Premium', 1000, 220);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (465389, 'Membresía Corporativa', 1500, 353);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (293482, 'Membresía Básica', 250, 80);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (424510, 'Membresía Premium', 1000, 106);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (803359, 'Membresía Básica', 250, 145);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (637704, 'Membresía Estándar', 1000, 198);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (363854, 'Membresía Corporativa', 1500, 248);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (124296, 'Membresía Premium', 1000, 311);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (595775, 'Membresía Corporativa', 1000, 174);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (157166, 'Membresía Básica', 250, 168);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (185008, 'Membresía Estándar', 250, 253);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (885179, 'Membresía Básica', 250, 322);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (22030, 'Membresía Premium', 1000, 1);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (412038, 'Membresía Corporativa', 500, 280);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (90924, 'Membresía Estándar', 250, 122);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (237372, 'Membresía Básica', 250, 362);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (303681, 'Membresía Corporativa', 1000, 50);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (230530, 'Membresía Premium', 1000, 70);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (292293, 'Membresía Básica', 250, 67);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (894991, 'Membresía Estándar', 250, 215);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (37338, 'Membresía Estándar', 1500, 242);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (306850, 'Membresía Premium', 1000, 165);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (131860, 'Membresía Estándar', 250, 197);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (860299, 'Membresía Corporativa', 1500, 187);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (952683, 'Membresía Premium', 1000, 212);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (261692, 'Membresía Básica', 250, 184);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (607460, 'Membresía Premium', 1000, 138);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (210028, 'Membresía Premium', 1000, 223);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (857577, 'Membresía Estándar', 1000, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (670482, 'Membresía Premium', 1000, 107);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (964049, 'Membresía Básica', 250, 264);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (870724, 'Membresía Estándar', 250, 303);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (526499, 'Membresía Corporativa', 1000, 363);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (123697, 'Membresía Corporativa', 250, 88);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (984572, 'Membresía Corporativa', 1500, 306);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (377255, 'Membresía Premium', 1000, 269);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (869258, 'Membresía Básica', 250, 291);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (311731, 'Membresía Estándar', 500, 220);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (297382, 'Membresía Básica', 250, 360);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (409669, 'Membresía Premium', 1000, 15);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (83582, 'Membresía Corporativa', 1500, 67);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (320773, 'Membresía Premium', 1000, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (394378, 'Membresía Estándar', 250, 238);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (368054, 'Membresía Premium', 1000, 62);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (129193, 'Membresía Premium', 1000, 136);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (825777, 'Membresía Básica', 250, 147);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (604547, 'Membresía Estándar', 1000, 237);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (197042, 'Membresía Premium', 1000, 70);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (836704, 'Membresía Corporativa', 1500, 267);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (957996, 'Membresía Corporativa', 500, 154);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (740961, 'Membresía Premium', 1000, 100);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (318157, 'Membresía Corporativa', 1000, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (416958, 'Membresía Estándar', 1500, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (730268, 'Membresía Corporativa', 250, 231);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (161762, 'Membresía Corporativa', 1500, 202);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (541922, 'Membresía Premium', 1000, 241);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (606647, 'Membresía Básica', 250, 175);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (956956, 'Membresía Estándar', 500, 32);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (384899, 'Membresía Corporativa', 500, 22);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (57863, 'Membresía Premium', 1000, 356);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (910906, 'Membresía Estándar', 1000, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (964270, 'Membresía Estándar', 1500, 282);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (6817, 'Membresía Estándar', 1500, 345);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (676969, 'Membresía Estándar', 500, 348);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (491673, 'Membresía Premium', 1000, 351);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (710996, 'Membresía Estándar', 1000, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (227325, 'Membresía Premium', 1000, 277);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (907056, 'Membresía Corporativa', 1000, 250);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (788226, 'Membresía Básica', 250, 20);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (117765, 'Membresía Corporativa', 250, 196);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (316272, 'Membresía Estándar', 1500, 92);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (582355, 'Membresía Básica', 250, 9);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (529587, 'Membresía Estándar', 1500, 206);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (993765, 'Membresía Premium', 1000, 323);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (546458, 'Membresía Estándar', 500, 46);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (695775, 'Membresía Básica', 250, 330);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (904278, 'Membresía Premium', 1000, 150);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (49808, 'Membresía Básica', 250, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (594105, 'Membresía Básica', 250, 87);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (583098, 'Membresía Corporativa', 250, 344);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (53527, 'Membresía Básica', 250, 67);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (599169, 'Membresía Estándar', 1000, 217);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (267447, 'Membresía Corporativa', 500, 349);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (787049, 'Membresía Corporativa', 1000, 355);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (774083, 'Membresía Básica', 250, 193);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (896065, 'Membresía Premium', 1000, 160);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (888200, 'Membresía Premium', 1000, 248);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (520714, 'Membresía Corporativa', 500, 276);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (568906, 'Membresía Básica', 250, 65);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (967995, 'Membresía Estándar', 500, 359);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (300807, 'Membresía Premium', 1000, 41);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (479957, 'Membresía Premium', 1000, 364);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (468569, 'Membresía Premium', 1000, 345);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (923778, 'Membresía Estándar', 1000, 52);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (638218, 'Membresía Básica', 250, 161);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (945819, 'Membresía Premium', 1000, 298);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (543361, 'Membresía Corporativa', 500, 205);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (752481, 'Membresía Corporativa', 1000, 1);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (705268, 'Membresía Premium', 1000, 213);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (521536, 'Membresía Premium', 1000, 241);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (967095, 'Membresía Premium', 1000, 336);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (226132, 'Membresía Básica', 250, 33);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (391001, 'Membresía Básica', 250, 36);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (698524, 'Membresía Premium', 1000, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (505053, 'Membresía Básica', 250, 278);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (944663, 'Membresía Básica', 250, 314);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (466116, 'Membresía Básica', 250, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (930337, 'Membresía Premium', 1000, 245);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (229143, 'Membresía Corporativa', 1500, 284);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (871785, 'Membresía Básica', 250, 309);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (39463, 'Membresía Estándar', 500, 140);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (683292, 'Membresía Corporativa', 250, 2);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (966149, 'Membresía Básica', 250, 242);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (490734, 'Membresía Corporativa', 1500, 106);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (223562, 'Membresía Estándar', 250, 279);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (420301, 'Membresía Corporativa', 1000, 22);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (941706, 'Membresía Básica', 250, 104);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (779102, 'Membresía Premium', 1000, 202);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (982585, 'Membresía Premium', 1000, 122);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (666109, 'Membresía Estándar', 500, 216);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (862635, 'Membresía Básica', 250, 38);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (749346, 'Membresía Básica', 250, 214);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (779138, 'Membresía Premium', 1000, 188);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (951189, 'Membresía Estándar', 250, 324);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (979749, 'Membresía Estándar', 1500, 96);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (384020, 'Membresía Premium', 1000, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (865140, 'Membresía Estándar', 1500, 217);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (75469, 'Membresía Corporativa', 1000, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (967164, 'Membresía Premium', 1000, 253);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (94796, 'Membresía Estándar', 1500, 192);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (406100, 'Membresía Básica', 250, 326);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (373203, 'Membresía Premium', 1000, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (312058, 'Membresía Premium', 1000, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (967608, 'Membresía Premium', 1000, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (537448, 'Membresía Corporativa', 1000, 204);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (166588, 'Membresía Básica', 250, 283);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (861713, 'Membresía Estándar', 1000, 175);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (437259, 'Membresía Básica', 250, 298);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (474805, 'Membresía Corporativa', 250, 19);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (712926, 'Membresía Premium', 1000, 266);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (106558, 'Membresía Básica', 250, 163);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (694726, 'Membresía Premium', 1000, 273);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (396170, 'Membresía Premium', 1000, 248);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (348754, 'Membresía Estándar', 1500, 67);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (991542, 'Membresía Básica', 250, 311);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (20039, 'Membresía Corporativa', 250, 197);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (783100, 'Membresía Premium', 1000, 328);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (106683, 'Membresía Estándar', 250, 122);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (326739, 'Membresía Corporativa', 500, 286);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (816804, 'Membresía Corporativa', 1000, 287);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (25429, 'Membresía Corporativa', 250, 316);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (332016, 'Membresía Estándar', 1000, 86);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (251902, 'Membresía Corporativa', 1000, 123);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (25341, 'Membresía Estándar', 1500, 347);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (273580, 'Membresía Premium', 1000, 95);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (583148, 'Membresía Corporativa', 250, 5);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (359644, 'Membresía Básica', 250, 287);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (906969, 'Membresía Estándar', 1000, 48);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (43588, 'Membresía Básica', 250, 57);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (779365, 'Membresía Premium', 1000, 56);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (717057, 'Membresía Estándar', 250, 246);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (223199, 'Membresía Corporativa', 1000, 108);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (75145, 'Membresía Básica', 250, 6);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (654039, 'Membresía Corporativa', 500, 202);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (955292, 'Membresía Estándar', 1500, 82);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (263150, 'Membresía Corporativa', 1000, 153);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (79704, 'Membresía Estándar', 1000, 204);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (625945, 'Membresía Estándar', 1500, 329);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (319462, 'Membresía Corporativa', 250, 106);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (322507, 'Membresía Premium', 1000, 28);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (93733, 'Membresía Corporativa', 1000, 11);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (274128, 'Membresía Estándar', 1500, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (523357, 'Membresía Premium', 1000, 47);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (157962, 'Membresía Estándar', 250, 232);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (247578, 'Membresía Estándar', 1500, 83);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (249235, 'Membresía Estándar', 500, 244);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (282636, 'Membresía Corporativa', 500, 249);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (89418, 'Membresía Premium', 1000, 197);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (99829, 'Membresía Premium', 1000, 29);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (55460, 'Membresía Estándar', 250, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (581355, 'Membresía Premium', 1000, 138);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (472988, 'Membresía Estándar', 1500, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (658696, 'Membresía Estándar', 250, 79);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (521093, 'Membresía Premium', 1000, 359);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (58025, 'Membresía Premium', 1000, 229);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (925685, 'Membresía Estándar', 250, 322);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (480015, 'Membresía Premium', 1000, 6);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (495676, 'Membresía Básica', 250, 79);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (726038, 'Membresía Básica', 250, 181);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (373749, 'Membresía Estándar', 1500, 100);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (442612, 'Membresía Estándar', 500, 65);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (883580, 'Membresía Estándar', 500, 67);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (683346, 'Membresía Corporativa', 1000, 195);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (183512, 'Membresía Básica', 250, 111);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (845129, 'Membresía Básica', 250, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (138716, 'Membresía Corporativa', 500, 124);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (692593, 'Membresía Premium', 1000, 297);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (165342, 'Membresía Premium', 1000, 309);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (476292, 'Membresía Premium', 1000, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (284505, 'Membresía Básica', 250, 193);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (346707, 'Membresía Corporativa', 500, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (178684, 'Membresía Corporativa', 250, 317);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (852737, 'Membresía Básica', 250, 61);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (172390, 'Membresía Básica', 250, 321);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (361668, 'Membresía Premium', 1000, 129);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (295760, 'Membresía Premium', 1000, 271);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (652412, 'Membresía Estándar', 500, 357);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (663026, 'Membresía Básica', 250, 87);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (242370, 'Membresía Corporativa', 1500, 128);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (805362, 'Membresía Premium', 1000, 247);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (89912, 'Membresía Estándar', 250, 180);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (452558, 'Membresía Básica', 250, 328);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (731834, 'Membresía Premium', 1000, 219);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (532441, 'Membresía Corporativa', 500, 20);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (97928, 'Membresía Premium', 1000, 317);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (973210, 'Membresía Estándar', 250, 365);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (408313, 'Membresía Estándar', 250, 50);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (347046, 'Membresía Básica', 250, 181);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (822142, 'Membresía Básica', 250, 168);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (525455, 'Membresía Estándar', 1500, 294);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (143477, 'Membresía Básica', 250, 304);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (763697, 'Membresía Corporativa', 500, 248);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (37465, 'Membresía Estándar', 1500, 260);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (43403, 'Membresía Corporativa', 1000, 317);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (906012, 'Membresía Básica', 250, 329);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (878750, 'Membresía Básica', 250, 185);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (994426, 'Membresía Premium', 1000, 292);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (100553, 'Membresía Básica', 250, 261);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (866571, 'Membresía Corporativa', 500, 278);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (343286, 'Membresía Premium', 1000, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (602898, 'Membresía Estándar', 250, 76);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (558966, 'Membresía Corporativa', 1000, 359);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (922719, 'Membresía Premium', 1000, 189);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (243083, 'Membresía Estándar', 1500, 242);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (61383, 'Membresía Premium', 1000, 227);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (946612, 'Membresía Básica', 250, 335);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (55504, 'Membresía Premium', 1000, 308);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (611102, 'Membresía Estándar', 500, 219);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (722931, 'Membresía Básica', 250, 224);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (84578, 'Membresía Corporativa', 1500, 95);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (414631, 'Membresía Corporativa', 250, 334);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (545956, 'Membresía Estándar', 1500, 188);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (114675, 'Membresía Premium', 1000, 91);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (25814, 'Membresía Premium', 1000, 292);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (789505, 'Membresía Premium', 1000, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (550631, 'Membresía Estándar', 250, 12);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (975969, 'Membresía Básica', 250, 320);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (62309, 'Membresía Básica', 250, 105);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (521577, 'Membresía Premium', 1000, 158);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (783411, 'Membresía Básica', 250, 19);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (980774, 'Membresía Corporativa', 250, 300);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (382456, 'Membresía Estándar', 500, 334);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (733762, 'Membresía Estándar', 1500, 324);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (646293, 'Membresía Premium', 1000, 342);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (175658, 'Membresía Estándar', 1000, 314);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (885638, 'Membresía Estándar', 500, 182);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (712037, 'Membresía Premium', 1000, 89);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (206552, 'Membresía Estándar', 250, 87);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (421712, 'Membresía Corporativa', 250, 147);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (514758, 'Membresía Corporativa', 1000, 98);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (363169, 'Membresía Estándar', 250, 244);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (19746, 'Membresía Corporativa', 250, 364);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (950588, 'Membresía Corporativa', 1500, 164);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (894222, 'Membresía Corporativa', 1500, 71);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (58895, 'Membresía Corporativa', 500, 281);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (921850, 'Membresía Básica', 250, 88);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (623776, 'Membresía Estándar', 250, 101);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (665756, 'Membresía Básica', 250, 76);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (681741, 'Membresía Corporativa', 250, 60);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (594987, 'Membresía Premium', 1000, 310);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (38733, 'Membresía Estándar', 500, 115);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (627208, 'Membresía Básica', 250, 20);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (570836, 'Membresía Premium', 1000, 221);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (176211, 'Membresía Premium', 1000, 351);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (313262, 'Membresía Estándar', 1000, 143);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (805911, 'Membresía Premium', 1000, 128);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (963609, 'Membresía Básica', 250, 62);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (507401, 'Membresía Básica', 250, 184);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (749645, 'Membresía Estándar', 250, 226);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (671391, 'Membresía Premium', 1000, 306);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (35160, 'Membresía Corporativa', 500, 291);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (983128, 'Membresía Estándar', 500, 288);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (727936, 'Membresía Estándar', 1000, 239);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (287992, 'Membresía Premium', 1000, 307);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (798106, 'Membresía Estándar', 1500, 218);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (436887, 'Membresía Corporativa', 1500, 315);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (10366, 'Membresía Básica', 250, 62);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (646178, 'Membresía Básica', 250, 352);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (123717, 'Membresía Básica', 250, 93);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (488455, 'Membresía Corporativa', 1000, 79);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (930135, 'Membresía Básica', 250, 102);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (914792, 'Membresía Corporativa', 1500, 346);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (222569, 'Membresía Básica', 250, 229);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (846249, 'Membresía Estándar', 1500, 78);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (679188, 'Membresía Estándar', 250, 288);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (494475, 'Membresía Corporativa', 1000, 56);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (198626, 'Membresía Estándar', 250, 80);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (968328, 'Membresía Corporativa', 500, 310);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (273502, 'Membresía Premium', 1000, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (223611, 'Membresía Corporativa', 500, 8);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (86979, 'Membresía Básica', 250, 17);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (640387, 'Membresía Estándar', 500, 348);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (994510, 'Membresía Premium', 1000, 178);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (394687, 'Membresía Básica', 250, 211);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (194976, 'Membresía Corporativa', 500, 217);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (794297, 'Membresía Corporativa', 500, 221);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (223132, 'Membresía Premium', 1000, 265);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (491275, 'Membresía Corporativa', 1500, 320);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (825794, 'Membresía Básica', 250, 108);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (469078, 'Membresía Premium', 1000, 154);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (365655, 'Membresía Premium', 1000, 256);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (300879, 'Membresía Corporativa', 250, 88);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (876630, 'Membresía Corporativa', 250, 312);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (123190, 'Membresía Corporativa', 1000, 339);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (593022, 'Membresía Premium', 1000, 309);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (967266, 'Membresía Corporativa', 250, 132);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (643943, 'Membresía Estándar', 250, 102);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (772319, 'Membresía Básica', 250, 87);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (427025, 'Membresía Corporativa', 500, 301);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (731857, 'Membresía Básica', 250, 189);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (124569, 'Membresía Premium', 1000, 228);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (138062, 'Membresía Básica', 250, 137);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (86426, 'Membresía Premium', 1000, 163);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (605038, 'Membresía Estándar', 500, 59);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (359587, 'Membresía Premium', 1000, 42);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (620431, 'Membresía Corporativa', 1000, 290);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (612503, 'Membresía Corporativa', 500, 115);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (354469, 'Membresía Básica', 250, 71);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (10492, 'Membresía Premium', 1000, 335);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (115529, 'Membresía Premium', 1000, 239);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (4887, 'Membresía Estándar', 250, 276);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (703801, 'Membresía Corporativa', 1000, 109);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (615055, 'Membresía Básica', 250, 363);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (813873, 'Membresía Corporativa', 1500, 316);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (604661, 'Membresía Corporativa', 500, 133);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (45752, 'Membresía Premium', 1000, 37);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (214910, 'Membresía Premium', 1000, 298);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (864182, 'Membresía Estándar', 1500, 289);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (393219, 'Membresía Corporativa', 1000, 192);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (205120, 'Membresía Básica', 250, 241);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (263116, 'Membresía Básica', 250, 283);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (203691, 'Membresía Corporativa', 500, 242);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (57993, 'Membresía Premium', 1000, 30);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (739711, 'Membresía Estándar', 1000, 29);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (640475, 'Membresía Premium', 1000, 20);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (413566, 'Membresía Estándar', 1500, 24);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (803984, 'Membresía Corporativa', 1500, 100);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (415275, 'Membresía Corporativa', 1500, 302);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (517180, 'Membresía Corporativa', 1000, 258);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (226344, 'Membresía Básica', 250, 246);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (458363, 'Membresía Estándar', 1000, 176);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (96511, 'Membresía Corporativa', 250, 353);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (234406, 'Membresía Estándar', 1500, 351);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (426227, 'Membresía Corporativa', 1500, 199);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (938471, 'Membresía Premium', 1000, 252);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (788263, 'Membresía Corporativa', 1000, 207);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (447147, 'Membresía Básica', 250, 74);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (401883, 'Membresía Básica', 250, 112);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (167117, 'Membresía Corporativa', 1500, 38);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (56227, 'Membresía Corporativa', 1500, 174);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (855584, 'Membresía Premium', 1000, 51);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (354037, 'Membresía Premium', 1000, 105);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (978522, 'Membresía Premium', 1000, 28);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (250427, 'Membresía Básica', 250, 72);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (323155, 'Membresía Corporativa', 1000, 325);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (568874, 'Membresía Básica', 250, 323);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (29869, 'Membresía Premium', 1000, 82);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (73982, 'Membresía Básica', 250, 7);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (528460, 'Membresía Premium', 1000, 41);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (946160, 'Membresía Básica', 250, 22);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (940905, 'Membresía Corporativa', 1500, 143);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (104003, 'Membresía Estándar', 1000, 321);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (2057, 'Membresía Corporativa', 1500, 217);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (522190, 'Membresía Premium', 1000, 13);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (155831, 'Membresía Premium', 1000, 176);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (713204, 'Membresía Básica', 250, 11);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (351632, 'Membresía Estándar', 1500, 217);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (846844, 'Membresía Corporativa', 250, 332);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (877888, 'Membresía Premium', 1000, 291);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (173968, 'Membresía Premium', 1000, 350);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (411242, 'Membresía Premium', 1000, 123);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (870646, 'Membresía Corporativa', 250, 207);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (656166, 'Membresía Estándar', 250, 152);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (496467, 'Membresía Básica', 250, 164);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (167851, 'Membresía Premium', 1000, 205);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (528125, 'Membresía Básica', 250, 282);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (582531, 'Membresía Estándar', 1500, 234);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (89156, 'Membresía Premium', 1000, 90);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (13091, 'Membresía Estándar', 250, 272);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (850729, 'Membresía Estándar', 1500, 17);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (665698, 'Membresía Estándar', 250, 281);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (766999, 'Membresía Premium', 1000, 52);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (965323, 'Membresía Corporativa', 500, 49);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (692155, 'Membresía Básica', 250, 206);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (940736, 'Membresía Básica', 250, 199);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (916213, 'Membresía Estándar', 250, 316);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (233324, 'Membresía Premium', 1000, 123);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (864629, 'Membresía Premium', 1000, 218);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (281100, 'Membresía Estándar', 1500, 108);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (118591, 'Membresía Básica', 250, 234);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (45917, 'Membresía Estándar', 1500, 320);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (503532, 'Membresía Premium', 1000, 183);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (209477, 'Membresía Corporativa', 1000, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (612460, 'Membresía Estándar', 1000, 15);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (760126, 'Membresía Básica', 250, 137);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (938598, 'Membresía Estándar', 500, 115);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (749936, 'Membresía Corporativa', 250, 346);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (673039, 'Membresía Estándar', 250, 130);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (815940, 'Membresía Corporativa', 1000, 291);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (941613, 'Membresía Premium', 1000, 258);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (496123, 'Membresía Estándar', 1000, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (736229, 'Membresía Premium', 1000, 173);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (890354, 'Membresía Estándar', 1000, 149);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (436547, 'Membresía Estándar', 1500, 138);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (394987, 'Membresía Estándar', 1500, 239);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (457997, 'Membresía Corporativa', 1500, 288);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (934376, 'Membresía Corporativa', 250, 348);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (911688, 'Membresía Corporativa', 500, 30);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (324884, 'Membresía Corporativa', 1000, 45);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (422838, 'Membresía Básica', 250, 2);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (616255, 'Membresía Básica', 250, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (327128, 'Membresía Corporativa', 1500, 302);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (599208, 'Membresía Estándar', 250, 13);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (71207, 'Membresía Básica', 250, 16);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (597902, 'Membresía Premium', 1000, 236);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (843058, 'Membresía Corporativa', 1500, 118);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (832807, 'Membresía Estándar', 250, 260);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (45277, 'Membresía Corporativa', 500, 144);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (200661, 'Membresía Básica', 250, 235);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (571393, 'Membresía Corporativa', 250, 337);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (812921, 'Membresía Premium', 1000, 294);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (186350, 'Membresía Estándar', 1500, 294);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (42840, 'Membresía Premium', 1000, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (776500, 'Membresía Corporativa', 500, 38);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (875891, 'Membresía Estándar', 1000, 86);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (801720, 'Membresía Premium', 1000, 341);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (262565, 'Membresía Premium', 1000, 361);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (502071, 'Membresía Básica', 250, 140);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (602451, 'Membresía Corporativa', 250, 251);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (493450, 'Membresía Corporativa', 250, 333);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (846717, 'Membresía Estándar', 500, 9);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (608200, 'Membresía Estándar', 1500, 4);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (209637, 'Membresía Estándar', 250, 100);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (772412, 'Membresía Corporativa', 250, 325);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (693727, 'Membresía Estándar', 1000, 59);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (928127, 'Membresía Premium', 1000, 4);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (241245, 'Membresía Corporativa', 500, 95);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (312975, 'Membresía Premium', 1000, 358);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (810743, 'Membresía Premium', 1000, 330);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (341509, 'Membresía Premium', 1000, 118);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (132038, 'Membresía Estándar', 1000, 56);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (309454, 'Membresía Básica', 250, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (846725, 'Membresía Premium', 1000, 249);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (819312, 'Membresía Básica', 250, 229);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (808876, 'Membresía Estándar', 1000, 165);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (203006, 'Membresía Premium', 1000, 270);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (100256, 'Membresía Estándar', 500, 94);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (29985, 'Membresía Premium', 1000, 320);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (35891, 'Membresía Estándar', 1500, 354);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (767989, 'Membresía Corporativa', 500, 208);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (21174, 'Membresía Básica', 250, 10);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (964104, 'Membresía Estándar', 1000, 255);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (490658, 'Membresía Básica', 250, 44);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (317613, 'Membresía Estándar', 1000, 141);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (742845, 'Membresía Premium', 1000, 15);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (227223, 'Membresía Estándar', 250, 69);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (784027, 'Membresía Básica', 250, 332);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (381591, 'Membresía Corporativa', 1500, 202);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (361196, 'Membresía Básica', 250, 202);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (266746, 'Membresía Estándar', 1500, 270);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (335737, 'Membresía Estándar', 1000, 308);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (983062, 'Membresía Básica', 250, 54);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (766916, 'Membresía Corporativa', 500, 294);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (356815, 'Membresía Corporativa', 1500, 302);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (961838, 'Membresía Corporativa', 250, 272);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (803187, 'Membresía Premium', 1000, 272);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (112201, 'Membresía Estándar', 250, 296);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (587511, 'Membresía Estándar', 1000, 348);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (250034, 'Membresía Premium', 1000, 245);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (3317, 'Membresía Premium', 1000, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (711057, 'Membresía Corporativa', 1500, 51);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (971964, 'Membresía Corporativa', 500, 190);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (590548, 'Membresía Premium', 1000, 61);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (985701, 'Membresía Premium', 1000, 245);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (232622, 'Membresía Básica', 250, 29);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (811779, 'Membresía Premium', 1000, 286);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (87291, 'Membresía Básica', 250, 273);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (131938, 'Membresía Básica', 250, 283);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (901710, 'Membresía Premium', 1000, 42);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (292602, 'Membresía Básica', 250, 76);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (112613, 'Membresía Básica', 250, 222);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (485990, 'Membresía Básica', 250, 345);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (329265, 'Membresía Premium', 1000, 294);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (398704, 'Membresía Premium', 1000, 55);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (969531, 'Membresía Básica', 250, 187);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (251728, 'Membresía Premium', 1000, 294);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (427309, 'Membresía Premium', 1000, 38);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (224543, 'Membresía Corporativa', 500, 303);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (163048, 'Membresía Básica', 250, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (304613, 'Membresía Estándar', 500, 162);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (976077, 'Membresía Corporativa', 1500, 333);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (929274, 'Membresía Básica', 250, 4);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (251866, 'Membresía Básica', 250, 95);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (709130, 'Membresía Estándar', 1000, 266);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (760830, 'Membresía Premium', 1000, 79);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (151585, 'Membresía Premium', 1000, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (694063, 'Membresía Estándar', 500, 258);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (210691, 'Membresía Básica', 250, 265);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (96410, 'Membresía Premium', 1000, 308);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (933783, 'Membresía Corporativa', 1000, 48);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (953580, 'Membresía Básica', 250, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (909994, 'Membresía Básica', 250, 111);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (21945, 'Membresía Básica', 250, 50);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (221457, 'Membresía Corporativa', 1500, 142);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (140069, 'Membresía Corporativa', 250, 214);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (218635, 'Membresía Corporativa', 250, 172);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (144144, 'Membresía Estándar', 1500, 118);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (652450, 'Membresía Estándar', 500, 357);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (522698, 'Membresía Básica', 250, 89);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (955865, 'Membresía Corporativa', 1500, 159);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (57320, 'Membresía Premium', 1000, 32);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (847802, 'Membresía Premium', 1000, 6);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (509027, 'Membresía Corporativa', 500, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (293528, 'Membresía Estándar', 1500, 200);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (546681, 'Membresía Corporativa', 1000, 68);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (167771, 'Membresía Corporativa', 1500, 279);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (151338, 'Membresía Corporativa', 250, 158);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (965178, 'Membresía Corporativa', 1000, 198);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (685333, 'Membresía Premium', 1000, 111);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (308759, 'Membresía Corporativa', 500, 315);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (34834, 'Membresía Corporativa', 1000, 249);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (129670, 'Membresía Corporativa', 250, 279);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (540253, 'Membresía Premium', 1000, 23);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (704657, 'Membresía Estándar', 500, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (850810, 'Membresía Premium', 1000, 224);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (64498, 'Membresía Básica', 250, 365);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (230402, 'Membresía Estándar', 500, 208);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (400611, 'Membresía Premium', 1000, 249);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (631124, 'Membresía Estándar', 1000, 270);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (960703, 'Membresía Estándar', 1500, 49);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (695829, 'Membresía Premium', 1000, 51);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (852687, 'Membresía Premium', 1000, 197);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (992507, 'Membresía Básica', 250, 343);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (919151, 'Membresía Premium', 1000, 1);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (954371, 'Membresía Corporativa', 1000, 67);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (598632, 'Membresía Estándar', 1500, 51);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (742219, 'Membresía Corporativa', 250, 61);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (739698, 'Membresía Corporativa', 1500, 174);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (645719, 'Membresía Estándar', 1500, 152);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (71250, 'Membresía Corporativa', 1500, 163);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (290546, 'Membresía Estándar', 250, 50);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (161864, 'Membresía Básica', 250, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (279943, 'Membresía Básica', 250, 138);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (615537, 'Membresía Corporativa', 1500, 260);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (425706, 'Membresía Premium', 1000, 105);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (37192, 'Membresía Básica', 250, 124);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (977647, 'Membresía Premium', 1000, 358);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (113721, 'Membresía Premium', 1000, 115);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (471072, 'Membresía Básica', 250, 184);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (624710, 'Membresía Corporativa', 500, 276);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (80611, 'Membresía Estándar', 1500, 335);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (523927, 'Membresía Corporativa', 1000, 315);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (854128, 'Membresía Corporativa', 500, 245);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (455539, 'Membresía Básica', 250, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (585051, 'Membresía Estándar', 1000, 8);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (497131, 'Membresía Premium', 1000, 37);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (952649, 'Membresía Corporativa', 1500, 98);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (129795, 'Membresía Estándar', 1500, 304);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (209946, 'Membresía Corporativa', 1000, 51);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (325554, 'Membresía Estándar', 500, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (379398, 'Membresía Premium', 1000, 242);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (777507, 'Membresía Corporativa', 500, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (144980, 'Membresía Corporativa', 250, 39);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (316389, 'Membresía Básica', 250, 158);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (699099, 'Membresía Estándar', 250, 173);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (72669, 'Membresía Premium', 1000, 3);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (459074, 'Membresía Corporativa', 500, 78);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (391862, 'Membresía Estándar', 250, 287);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (547265, 'Membresía Básica', 250, 275);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (674536, 'Membresía Estándar', 1500, 64);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (588818, 'Membresía Premium', 1000, 328);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (807937, 'Membresía Corporativa', 250, 237);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (63242, 'Membresía Premium', 1000, 302);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (135121, 'Membresía Corporativa', 1500, 333);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (867495, 'Membresía Básica', 250, 185);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (890482, 'Membresía Básica', 250, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (620631, 'Membresía Estándar', 500, 5);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (656307, 'Membresía Básica', 250, 103);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (561421, 'Membresía Estándar', 250, 234);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (878943, 'Membresía Corporativa', 500, 364);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (195674, 'Membresía Estándar', 1000, 298);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (364722, 'Membresía Estándar', 1000, 87);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (161426, 'Membresía Corporativa', 1000, 8);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (68227, 'Membresía Premium', 1000, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (776216, 'Membresía Corporativa', 1000, 86);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (454631, 'Membresía Premium', 1000, 9);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (534307, 'Membresía Básica', 250, 346);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (477104, 'Membresía Básica', 250, 278);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (528456, 'Membresía Estándar', 1000, 6);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (479697, 'Membresía Básica', 250, 351);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (960775, 'Membresía Básica', 250, 47);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (157213, 'Membresía Estándar', 250, 138);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (375288, 'Membresía Básica', 250, 363);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (277757, 'Membresía Estándar', 1500, 187);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (948262, 'Membresía Básica', 250, 212);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (846049, 'Membresía Corporativa', 250, 228);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (715656, 'Membresía Premium', 1000, 333);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (827196, 'Membresía Estándar', 500, 241);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (428395, 'Membresía Premium', 1000, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (586584, 'Membresía Básica', 250, 325);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (920620, 'Membresía Básica', 250, 34);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (389128, 'Membresía Premium', 1000, 42);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (160294, 'Membresía Corporativa', 500, 279);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (933274, 'Membresía Estándar', 500, 228);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (289991, 'Membresía Corporativa', 500, 15);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (88804, 'Membresía Premium', 1000, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (565392, 'Membresía Premium', 1000, 98);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (51758, 'Membresía Premium', 1000, 77);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (243606, 'Membresía Corporativa', 250, 178);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (441457, 'Membresía Básica', 250, 232);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (613811, 'Membresía Estándar', 1000, 251);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (865086, 'Membresía Corporativa', 1500, 308);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (53825, 'Membresía Corporativa', 250, 289);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (865774, 'Membresía Básica', 250, 312);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (963224, 'Membresía Básica', 250, 194);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (757005, 'Membresía Corporativa', 500, 299);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (865651, 'Membresía Básica', 250, 40);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (257709, 'Membresía Premium', 1000, 338);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (837514, 'Membresía Premium', 1000, 347);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (829279, 'Membresía Premium', 1000, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (102293, 'Membresía Estándar', 1500, 119);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (531197, 'Membresía Premium', 1000, 282);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (128267, 'Membresía Premium', 1000, 195);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (312663, 'Membresía Estándar', 250, 175);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (465029, 'Membresía Corporativa', 250, 277);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (925301, 'Membresía Premium', 1000, 290);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (749841, 'Membresía Corporativa', 250, 205);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (962504, 'Membresía Corporativa', 250, 208);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (635172, 'Membresía Corporativa', 1000, 208);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (649369, 'Membresía Corporativa', 1000, 158);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (904417, 'Membresía Estándar', 500, 253);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (601071, 'Membresía Básica', 250, 68);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (280112, 'Membresía Básica', 250, 325);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (291155, 'Membresía Básica', 250, 310);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (343174, 'Membresía Premium', 1000, 31);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (965126, 'Membresía Corporativa', 500, 329);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (743553, 'Membresía Básica', 250, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (825001, 'Membresía Básica', 250, 88);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (177702, 'Membresía Estándar', 250, 328);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (145762, 'Membresía Corporativa', 1500, 183);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (651408, 'Membresía Premium', 1000, 346);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (358063, 'Membresía Corporativa', 500, 221);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (202948, 'Membresía Estándar', 500, 283);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (751047, 'Membresía Estándar', 250, 194);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (677623, 'Membresía Básica', 250, 228);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (260930, 'Membresía Estándar', 1000, 363);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (792516, 'Membresía Premium', 1000, 308);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (162817, 'Membresía Básica', 250, 158);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (88906, 'Membresía Premium', 1000, 290);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (629727, 'Membresía Estándar', 250, 220);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (433840, 'Membresía Básica', 250, 246);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (79678, 'Membresía Premium', 1000, 134);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (579316, 'Membresía Básica', 250, 179);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (135361, 'Membresía Premium', 1000, 135);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (114190, 'Membresía Premium', 1000, 208);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (907202, 'Membresía Corporativa', 500, 65);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (849816, 'Membresía Básica', 250, 306);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (679539, 'Membresía Básica', 250, 5);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (560712, 'Membresía Premium', 1000, 44);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (781311, 'Membresía Corporativa', 250, 239);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (28377, 'Membresía Corporativa', 500, 307);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (457937, 'Membresía Estándar', 1500, 10);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (954388, 'Membresía Estándar', 250, 209);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (792523, 'Membresía Corporativa', 1500, 337);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (287867, 'Membresía Básica', 250, 99);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (757005, 'Membresía Estándar', 1000, 106);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (271252, 'Membresía Corporativa', 250, 298);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (814290, 'Membresía Básica', 250, 345);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (680465, 'Membresía Estándar', 500, 308);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (445992, 'Membresía Corporativa', 1000, 133);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (687826, 'Membresía Básica', 250, 33);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (86627, 'Membresía Básica', 250, 134);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (403577, 'Membresía Corporativa', 500, 289);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (316003, 'Membresía Corporativa', 500, 133);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (130648, 'Membresía Estándar', 250, 2);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (816917, 'Membresía Básica', 250, 228);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (582213, 'Membresía Premium', 1000, 191);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (747075, 'Membresía Corporativa', 1500, 97);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (309255, 'Membresía Estándar', 250, 71);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (869977, 'Membresía Estándar', 1000, 55);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (857591, 'Membresía Estándar', 1500, 6);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (650688, 'Membresía Estándar', 1500, 350);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (576718, 'Membresía Premium', 1000, 215);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (804956, 'Membresía Estándar', 1500, 319);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (576939, 'Membresía Corporativa', 1500, 277);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (888680, 'Membresía Básica', 250, 174);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (514609, 'Membresía Corporativa', 250, 215);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (507557, 'Membresía Premium', 1000, 14);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (861655, 'Membresía Corporativa', 1500, 322);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (802915, 'Membresía Corporativa', 1500, 15);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (798161, 'Membresía Básica', 250, 147);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (503729, 'Membresía Corporativa', 1000, 281);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (991839, 'Membresía Corporativa', 500, 281);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (301215, 'Membresía Corporativa', 250, 187);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (875759, 'Membresía Premium', 1000, 150);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (972061, 'Membresía Básica', 250, 153);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (500492, 'Membresía Estándar', 500, 225);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (57421, 'Membresía Premium', 1000, 174);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (9956, 'Membresía Básica', 250, 319);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (745394, 'Membresía Corporativa', 500, 121);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (679670, 'Membresía Básica', 250, 72);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (939133, 'Membresía Básica', 250, 187);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (231738, 'Membresía Básica', 250, 73);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (789020, 'Membresía Premium', 1000, 132);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (105183, 'Membresía Premium', 1000, 262);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (818291, 'Membresía Básica', 250, 142);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (836124, 'Membresía Básica', 250, 309);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (842155, 'Membresía Estándar', 250, 53);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (327879, 'Membresía Premium', 1000, 5);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (332144, 'Membresía Básica', 250, 243);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (795108, 'Membresía Básica', 250, 161);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (302552, 'Membresía Estándar', 1500, 183);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (852792, 'Membresía Estándar', 1000, 102);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (483443, 'Membresía Básica', 250, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (296722, 'Membresía Corporativa', 500, 190);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (657349, 'Membresía Estándar', 1500, 136);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (309794, 'Membresía Estándar', 500, 232);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (202910, 'Membresía Premium', 1000, 201);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (628412, 'Membresía Estándar', 500, 169);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (118336, 'Membresía Estándar', 1000, 143);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (363495, 'Membresía Estándar', 1500, 285);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (772990, 'Membresía Premium', 1000, 63);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (406266, 'Membresía Estándar', 1500, 293);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (393711, 'Membresía Premium', 1000, 253);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (199887, 'Membresía Corporativa', 1000, 151);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (939296, 'Membresía Premium', 1000, 279);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (736754, 'Membresía Premium', 1000, 277);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (180877, 'Membresía Premium', 1000, 26);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (104074, 'Membresía Básica', 250, 278);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (922957, 'Membresía Básica', 250, 50);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (188130, 'Membresía Corporativa', 250, 145);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (801939, 'Membresía Básica', 250, 307);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (118199, 'Membresía Estándar', 1000, 238);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (365489, 'Membresía Corporativa', 250, 64);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (566816, 'Membresía Estándar', 1500, 321);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (504437, 'Membresía Estándar', 250, 103);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (181089, 'Membresía Premium', 1000, 83);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (741812, 'Membresía Estándar', 250, 36);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (423366, 'Membresía Premium', 1000, 284);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (899119, 'Membresía Corporativa', 500, 111);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (208524, 'Membresía Básica', 250, 110);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (269673, 'Membresía Estándar', 250, 94);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (82665, 'Membresía Básica', 250, 131);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (926075, 'Membresía Estándar', 500, 335);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (254635, 'Membresía Corporativa', 500, 231);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (584045, 'Membresía Premium', 1000, 40);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (612113, 'Membresía Estándar', 500, 69);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (442490, 'Membresía Corporativa', 250, 244);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (295594, 'Membresía Básica', 250, 199);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (355200, 'Membresía Estándar', 250, 92);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (681982, 'Membresía Corporativa', 1500, 292);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (235231, 'Membresía Estándar', 250, 260);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (810347, 'Membresía Premium', 1000, 266);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (846544, 'Membresía Premium', 1000, 299);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (716565, 'Membresía Corporativa', 500, 180);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (377890, 'Membresía Corporativa', 500, 79);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (193237, 'Membresía Premium', 1000, 84);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (700579, 'Membresía Estándar', 1500, 183);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (858751, 'Membresía Corporativa', 1000, 333);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (908089, 'Membresía Premium', 1000, 199);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (2008, 'Membresía Básica', 250, 199);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (325966, 'Membresía Básica', 250, 155);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (413746, 'Membresía Premium', 1000, 177);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (463693, 'Membresía Premium', 1000, 56);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (2406, 'Membresía Premium', 1000, 7);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (753873, 'Membresía Premium', 1000, 101);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (57027, 'Membresía Básica', 250, 200);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (249900, 'Membresía Corporativa', 500, 62);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (717485, 'Membresía Premium', 1000, 23);
-insert into MEMBRESIA (id_membresia, descripcion, costo, duracion) values (502336, 'Membresía Corporativa', 1500, 128);
+SET DEFINE OFF
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (440377, 'Membresía Estándar', 500, 110);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (134567, 'Membresía Premium', 1000, 184);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (356709, 'Membresía Estándar', 500, 217);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (431528, 'Membresía Corporativa', 1500, 13);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (783969, 'Membresía Premium', 1000, 313);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (848209, 'Membresía Estándar', 500, 173);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (531589, 'Membresía Premium', 1000, 115);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (899795, 'Membresía Premium', 1000, 159);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (54002, 'Membresía Premium', 1000, 238);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (160922, 'Membresía Corporativa', 1500, 332);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (761025, 'Membresía Básica', 250, 167);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (60502, 'Membresía Corporativa', 1500, 237);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (63700, 'Membresía Corporativa', 1500, 6);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (620800, 'Membresía Básica', 250, 355);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (911007, 'Membresía Estándar', 500, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (316590, 'Membresía Premium', 1000, 37);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (711334, 'Membresía Básica', 250, 210);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (600961, 'Membresía Estándar', 500, 177);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (73390, 'Membresía Corporativa', 1500, 14);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (27694, 'Membresía Corporativa', 1500, 247);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (709929, 'Membresía Premium', 1000, 133);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (476771, 'Membresía Premium', 1000, 355);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (388099, 'Membresía Premium', 1000, 117);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (998714, 'Membresía Básica', 250, 146);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (35322, 'Membresía Premium', 1000, 221);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (763721, 'Membresía Corporativa', 1500, 133);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (898405, 'Membresía Premium', 1000, 222);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (83903, 'Membresía Estándar', 500, 217);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (128050, 'Membresía Estándar', 500, 288);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (830682, 'Membresía Premium', 1000, 88);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (246818, 'Membresía Corporativa', 1500, 190);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (474051, 'Membresía Básica', 250, 79);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (192248, 'Membresía Premium', 1000, 245);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (8341, 'Membresía Corporativa', 1500, 34);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (761863, 'Membresía Estándar', 500, 109);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (442392, 'Membresía Estándar', 500, 74);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (926313, 'Membresía Premium', 1000, 301);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (399349, 'Membresía Básica', 250, 287);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (349450, 'Membresía Corporativa', 1500, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (260190, 'Membresía Corporativa', 1500, 111);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (754396, 'Membresía Corporativa', 1500, 4);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (445230, 'Membresía Corporativa', 1500, 26);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (202566, 'Membresía Estándar', 500, 335);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (613039, 'Membresía Estándar', 500, 244);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (848143, 'Membresía Corporativa', 1500, 274);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (882742, 'Membresía Corporativa', 1500, 301);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (234163, 'Membresía Corporativa', 1500, 111);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (206655, 'Membresía Estándar', 500, 332);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (698476, 'Membresía Básica', 250, 229);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (461304, 'Membresía Corporativa', 1500, 113);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (185436, 'Membresía Premium', 1000, 332);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (289402, 'Membresía Básica', 250, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (100191, 'Membresía Corporativa', 1500, 199);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (413943, 'Membresía Corporativa', 1500, 304);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (633379, 'Membresía Estándar', 500, 227);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (716477, 'Membresía Premium', 1000, 203);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (485152, 'Membresía Corporativa', 1500, 157);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (688511, 'Membresía Corporativa', 1500, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (771408, 'Membresía Básica', 250, 312);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (109842, 'Membresía Corporativa', 1500, 70);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (997559, 'Membresía Premium', 1000, 30);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (995154, 'Membresía Premium', 1000, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (834487, 'Membresía Estándar', 500, 15);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (227099, 'Membresía Básica', 250, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (370059, 'Membresía Premium', 1000, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (175983, 'Membresía Premium', 1000, 130);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (423941, 'Membresía Premium', 1000, 333);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (505139, 'Membresía Estándar', 500, 132);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (43402, 'Membresía Estándar', 500, 132);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (632282, 'Membresía Básica', 250, 14);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (920454, 'Membresía Estándar', 500, 201);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (446261, 'Membresía Básica', 250, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (383372, 'Membresía Básica', 250, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (557155, 'Membresía Corporativa', 1500, 127);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (11782, 'Membresía Básica', 250, 167);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (304081, 'Membresía Básica', 250, 113);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (898570, 'Membresía Premium', 1000, 244);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (937788, 'Membresía Corporativa', 1500, 83);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (484940, 'Membresía Premium', 1000, 170);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (515844, 'Membresía Corporativa', 1500, 244);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (983468, 'Membresía Corporativa', 1500, 289);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (478934, 'Membresía Premium', 1000, 225);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (739855, 'Membresía Estándar', 500, 71);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (251292, 'Membresía Corporativa', 1500, 353);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (208491, 'Membresía Premium', 1000, 111);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (722755, 'Membresía Corporativa', 1500, 112);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (857980, 'Membresía Estándar', 500, 361);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (317069, 'Membresía Premium', 1000, 85);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (549981, 'Membresía Premium', 1000, 79);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (425660, 'Membresía Corporativa', 1500, 106);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (766975, 'Membresía Corporativa', 1500, 342);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (118326, 'Membresía Básica', 250, 43);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (986052, 'Membresía Premium', 1000, 19);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (571287, 'Membresía Premium', 1000, 145);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (499961, 'Membresía Básica', 250, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (359544, 'Membresía Estándar', 500, 149);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (103367, 'Membresía Básica', 250, 154);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (583566, 'Membresía Básica', 250, 254);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (663227, 'Membresía Corporativa', 1500, 171);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (758617, 'Membresía Estándar', 500, 234);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (147203, 'Membresía Básica', 250, 346);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (167135, 'Membresía Premium', 1000, 141);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (310388, 'Membresía Premium', 1000, 183);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (385931, 'Membresía Básica', 250, 97);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (139524, 'Membresía Estándar', 500, 255);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (835826, 'Membresía Corporativa', 1500, 9);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (436240, 'Membresía Básica', 250, 16);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (425301, 'Membresía Estándar', 500, 174);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (851174, 'Membresía Básica', 250, 149);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (702115, 'Membresía Estándar', 500, 70);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (455141, 'Membresía Premium', 1000, 183);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (36156, 'Membresía Básica', 250, 38);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (832962, 'Membresía Premium', 1000, 31);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (763727, 'Membresía Básica', 250, 90);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (849552, 'Membresía Corporativa', 1500, 350);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (445020, 'Membresía Estándar', 500, 194);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (375339, 'Membresía Básica', 250, 240);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (664247, 'Membresía Premium', 1000, 170);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (684339, 'Membresía Corporativa', 1500, 221);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (277053, 'Membresía Estándar', 500, 300);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (131220, 'Membresía Básica', 250, 102);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (553249, 'Membresía Estándar', 500, 79);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (700294, 'Membresía Estándar', 500, 255);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (600805, 'Membresía Premium', 1000, 86);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (786792, 'Membresía Estándar', 500, 227);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (701379, 'Membresía Premium', 1000, 261);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (758616, 'Membresía Premium', 1000, 76);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (935090, 'Membresía Básica', 250, 4);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (570846, 'Membresía Corporativa', 1500, 95);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (863949, 'Membresía Básica', 250, 194);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (346893, 'Membresía Corporativa', 1500, 305);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (958135, 'Membresía Corporativa', 1500, 48);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (423966, 'Membresía Básica', 250, 189);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (569928, 'Membresía Premium', 1000, 28);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (923439, 'Membresía Básica', 250, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (352165, 'Membresía Premium', 1000, 19);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (95880, 'Membresía Corporativa', 1500, 217);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (853506, 'Membresía Estándar', 500, 25);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (449371, 'Membresía Básica', 250, 295);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (716848, 'Membresía Premium', 1000, 212);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (223599, 'Membresía Estándar', 500, 140);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (207781, 'Membresía Corporativa', 1500, 100);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (243257, 'Membresía Premium', 1000, 249);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (827390, 'Membresía Premium', 1000, 45);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (898997, 'Membresía Estándar', 500, 74);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (572592, 'Membresía Premium', 1000, 305);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (879183, 'Membresía Corporativa', 1500, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (929304, 'Membresía Premium', 1000, 288);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (327513, 'Membresía Estándar', 500, 221);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (833822, 'Membresía Premium', 1000, 338);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (412878, 'Membresía Básica', 250, 229);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (421155, 'Membresía Premium', 1000, 316);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (497944, 'Membresía Estándar', 500, 139);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (388611, 'Membresía Premium', 1000, 305);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (532701, 'Membresía Premium', 1000, 279);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (14980, 'Membresía Premium', 1000, 3);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (37750, 'Membresía Corporativa', 1500, 290);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (469350, 'Membresía Estándar', 500, 188);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (597704, 'Membresía Premium', 1000, 25);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (512113, 'Membresía Premium', 1000, 95);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (220881, 'Membresía Estándar', 500, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (345874, 'Membresía Premium', 1000, 16);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (563466, 'Membresía Corporativa', 1500, 328);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (874653, 'Membresía Básica', 250, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (32245, 'Membresía Premium', 1000, 119);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (811447, 'Membresía Corporativa', 1500, 226);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (634010, 'Membresía Estándar', 500, 137);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (823109, 'Membresía Básica', 250, 325);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (126957, 'Membresía Premium', 1000, 160);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (54520, 'Membresía Premium', 1000, 296);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (490182, 'Membresía Premium', 1000, 259);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (663772, 'Membresía Premium', 1000, 363);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (448714, 'Membresía Corporativa', 1500, 72);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (453689, 'Membresía Básica', 250, 244);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (118173, 'Membresía Corporativa', 1500, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (566780, 'Membresía Básica', 250, 278);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (567829, 'Membresía Premium', 1000, 75);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (79653, 'Membresía Básica', 250, 169);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (577340, 'Membresía Premium', 1000, 317);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (872487, 'Membresía Premium', 1000, 183);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (918355, 'Membresía Básica', 250, 177);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (523076, 'Membresía Básica', 250, 345);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (238005, 'Membresía Estándar', 500, 107);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (408561, 'Membresía Básica', 250, 94);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (29530, 'Membresía Básica', 250, 185);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (606243, 'Membresía Premium', 1000, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (579161, 'Membresía Estándar', 500, 29);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (613297, 'Membresía Básica', 250, 177);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (533029, 'Membresía Básica', 250, 106);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (247684, 'Membresía Estándar', 500, 107);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (618541, 'Membresía Básica', 250, 170);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (684671, 'Membresía Premium', 1000, 310);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (377354, 'Membresía Estándar', 500, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (318142, 'Membresía Básica', 250, 195);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (489942, 'Membresía Corporativa', 1500, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (310421, 'Membresía Estándar', 500, 204);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (270126, 'Membresía Corporativa', 1500, 111);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (127198, 'Membresía Estándar', 500, 101);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (261198, 'Membresía Corporativa', 1500, 35);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (225188, 'Membresía Corporativa', 1500, 343);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (541117, 'Membresía Premium', 1000, 306);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (96915, 'Membresía Estándar', 500, 242);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (58897, 'Membresía Corporativa', 1500, 86);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (504848, 'Membresía Premium', 1000, 144);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (805539, 'Membresía Básica', 250, 313);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (94926, 'Membresía Premium', 1000, 9);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (365531, 'Membresía Corporativa', 1500, 59);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (8400, 'Membresía Básica', 250, 76);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (953796, 'Membresía Premium', 1000, 284);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (554982, 'Membresía Premium', 1000, 226);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (505277, 'Membresía Premium', 1000, 187);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (485760, 'Membresía Estándar', 500, 265);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (564273, 'Membresía Estándar', 500, 336);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (238924, 'Membresía Básica', 250, 317);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (274943, 'Membresía Premium', 1000, 117);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (352374, 'Membresía Premium', 1000, 117);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (418147, 'Membresía Premium', 1000, 127);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (966723, 'Membresía Básica', 250, 173);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (142946, 'Membresía Básica', 250, 336);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (6605, 'Membresía Básica', 250, 359);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (86646, 'Membresía Estándar', 500, 29);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (550582, 'Membresía Estándar', 500, 271);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (166027, 'Membresía Premium', 1000, 177);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (522217, 'Membresía Premium', 1000, 158);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (64151, 'Membresía Corporativa', 1500, 166);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (367012, 'Membresía Premium', 1000, 55);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (463171, 'Membresía Estándar', 500, 122);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (184896, 'Membresía Premium', 1000, 343);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (471196, 'Membresía Corporativa', 1500, 176);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (413435, 'Membresía Básica', 250, 96);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (550429, 'Membresía Premium', 1000, 181);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (119719, 'Membresía Corporativa', 1500, 34);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (501148, 'Membresía Básica', 250, 269);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (757232, 'Membresía Corporativa', 1500, 202);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (214289, 'Membresía Corporativa', 1500, 102);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (420307, 'Membresía Premium', 1000, 309);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (365631, 'Membresía Básica', 250, 139);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (775050, 'Membresía Corporativa', 1500, 343);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (23349, 'Membresía Básica', 250, 213);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (478224, 'Membresía Corporativa', 1500, 263);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (161937, 'Membresía Premium', 1000, 121);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (702594, 'Membresía Básica', 250, 180);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (856285, 'Membresía Estándar', 500, 77);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (903456, 'Membresía Básica', 250, 20);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (621550, 'Membresía Estándar', 500, 165);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (251752, 'Membresía Estándar', 500, 41);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (602097, 'Membresía Premium', 1000, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (761912, 'Membresía Premium', 1000, 177);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (718462, 'Membresía Básica', 250, 323);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (662544, 'Membresía Estándar', 500, 300);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (918122, 'Membresía Corporativa', 1500, 23);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (500571, 'Membresía Estándar', 500, 345);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (920871, 'Membresía Estándar', 500, 322);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (345586, 'Membresía Básica', 250, 247);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (453078, 'Membresía Básica', 250, 92);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (606433, 'Membresía Corporativa', 1500, 248);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (166048, 'Membresía Estándar', 500, 76);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (822382, 'Membresía Estándar', 500, 181);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (128653, 'Membresía Corporativa', 1500, 277);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (181265, 'Membresía Corporativa', 1500, 346);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (838621, 'Membresía Básica', 250, 25);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (104539, 'Membresía Corporativa', 1500, 89);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (25501, 'Membresía Básica', 250, 57);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (145135, 'Membresía Estándar', 500, 31);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (84903, 'Membresía Estándar', 500, 286);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (847273, 'Membresía Premium', 1000, 203);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (639424, 'Membresía Estándar', 500, 101);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (398714, 'Membresía Corporativa', 1500, 225);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (719438, 'Membresía Básica', 250, 199);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (341980, 'Membresía Estándar', 500, 28);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (850298, 'Membresía Básica', 250, 293);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (604516, 'Membresía Corporativa', 1500, 58);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (568413, 'Membresía Estándar', 500, 302);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (205519, 'Membresía Estándar', 500, 258);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (755647, 'Membresía Estándar', 500, 284);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (353839, 'Membresía Estándar', 500, 65);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (310709, 'Membresía Corporativa', 1500, 329);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (950667, 'Membresía Premium', 1000, 85);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (461416, 'Membresía Básica', 250, 355);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (893214, 'Membresía Básica', 250, 71);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (536008, 'Membresía Corporativa', 1500, 353);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (787885, 'Membresía Estándar', 500, 140);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (273562, 'Membresía Premium', 1000, 50);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (11167, 'Membresía Estándar', 500, 243);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (664166, 'Membresía Corporativa', 1500, 283);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (22752, 'Membresía Estándar', 500, 269);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (571725, 'Membresía Premium', 1000, 148);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (417034, 'Membresía Corporativa', 1500, 363);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (870080, 'Membresía Premium', 1000, 107);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (70148, 'Membresía Estándar', 500, 269);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (575265, 'Membresía Corporativa', 1500, 118);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (555823, 'Membresía Premium', 1000, 344);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (781763, 'Membresía Premium', 1000, 365);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (676254, 'Membresía Corporativa', 1500, 73);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (629840, 'Membresía Corporativa', 1500, 36);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (553237, 'Membresía Premium', 1000, 20);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (783501, 'Membresía Premium', 1000, 277);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (281367, 'Membresía Estándar', 500, 232);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (491247, 'Membresía Básica', 250, 252);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (130060, 'Membresía Corporativa', 1500, 356);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (538425, 'Membresía Estándar', 500, 265);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (264123, 'Membresía Estándar', 500, 30);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (551535, 'Membresía Premium', 1000, 248);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (730185, 'Membresía Premium', 1000, 364);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (242582, 'Membresía Estándar', 500, 103);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (983995, 'Membresía Corporativa', 1500, 75);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (544217, 'Membresía Estándar', 500, 319);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (161677, 'Membresía Estándar', 500, 116);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (94433, 'Membresía Corporativa', 1500, 55);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (544492, 'Membresía Básica', 250, 314);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (136913, 'Membresía Estándar', 500, 202);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (733018, 'Membresía Corporativa', 1500, 253);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (796047, 'Membresía Básica', 250, 194);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (351880, 'Membresía Premium', 1000, 123);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (167674, 'Membresía Estándar', 500, 168);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (410752, 'Membresía Corporativa', 1500, 270);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (143449, 'Membresía Básica', 250, 214);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (994227, 'Membresía Corporativa', 1500, 359);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (654639, 'Membresía Premium', 1000, 322);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (70604, 'Membresía Corporativa', 1500, 342);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (594457, 'Membresía Corporativa', 1500, 287);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (549566, 'Membresía Estándar', 500, 178);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (269627, 'Membresía Premium', 1000, 201);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (199569, 'Membresía Premium', 1000, 54);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (237090, 'Membresía Básica', 250, 94);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (487241, 'Membresía Corporativa', 1500, 214);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (653194, 'Membresía Estándar', 500, 318);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (950552, 'Membresía Estándar', 500, 288);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (628710, 'Membresía Básica', 250, 17);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (967566, 'Membresía Corporativa', 1500, 7);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (216672, 'Membresía Estándar', 500, 52);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (975505, 'Membresía Premium', 1000, 202);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (410430, 'Membresía Básica', 250, 344);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (579571, 'Membresía Básica', 250, 238);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (752390, 'Membresía Básica', 250, 297);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (253022, 'Membresía Estándar', 500, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (124218, 'Membresía Corporativa', 1500, 144);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (259038, 'Membresía Básica', 250, 262);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (585586, 'Membresía Corporativa', 1500, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (421901, 'Membresía Premium', 1000, 65);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (913338, 'Membresía Básica', 250, 142);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (909635, 'Membresía Corporativa', 1500, 255);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (93679, 'Membresía Básica', 250, 180);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (74362, 'Membresía Estándar', 500, 365);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (80325, 'Membresía Estándar', 500, 317);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (328632, 'Membresía Premium', 1000, 317);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (630224, 'Membresía Premium', 1000, 318);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (354361, 'Membresía Premium', 1000, 232);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (430542, 'Membresía Premium', 1000, 228);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (186538, 'Membresía Estándar', 500, 276);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (876875, 'Membresía Estándar', 500, 78);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (923784, 'Membresía Estándar', 500, 241);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (903998, 'Membresía Premium', 1000, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (347813, 'Membresía Estándar', 500, 128);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (394418, 'Membresía Corporativa', 1500, 161);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (733443, 'Membresía Básica', 250, 92);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (970000, 'Membresía Corporativa', 1500, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (530095, 'Membresía Premium', 1000, 231);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (314515, 'Membresía Corporativa', 1500, 318);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (958964, 'Membresía Estándar', 500, 258);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (182410, 'Membresía Corporativa', 1500, 18);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (85903, 'Membresía Corporativa', 1500, 292);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (340994, 'Membresía Corporativa', 1500, 276);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (837756, 'Membresía Estándar', 500, 302);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (557806, 'Membresía Estándar', 500, 236);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (534472, 'Membresía Básica', 250, 67);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (139125, 'Membresía Estándar', 500, 237);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (240885, 'Membresía Corporativa', 1500, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (556509, 'Membresía Básica', 250, 365);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (48801, 'Membresía Premium', 1000, 26);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (75824, 'Membresía Básica', 250, 136);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (679814, 'Membresía Premium', 1000, 241);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (433314, 'Membresía Estándar', 500, 156);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (274645, 'Membresía Corporativa', 1500, 282);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (923120, 'Membresía Estándar', 500, 53);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (635000, 'Membresía Premium', 1000, 357);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (668529, 'Membresía Estándar', 500, 149);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (817534, 'Membresía Premium', 1000, 266);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (620736, 'Membresía Corporativa', 1500, 129);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (674870, 'Membresía Corporativa', 1500, 213);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (274679, 'Membresía Estándar', 500, 220);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (727689, 'Membresía Premium', 1000, 15);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (377490, 'Membresía Básica', 250, 177);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (629419, 'Membresía Premium', 1000, 207);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (112812, 'Membresía Básica', 250, 63);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (490093, 'Membresía Premium', 1000, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (186784, 'Membresía Corporativa', 1500, 65);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (2350, 'Membresía Corporativa', 1500, 283);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (582585, 'Membresía Básica', 250, 117);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (108938, 'Membresía Corporativa', 1500, 208);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (526354, 'Membresía Estándar', 500, 276);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (687074, 'Membresía Básica', 250, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (881000, 'Membresía Corporativa', 1500, 137);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (913420, 'Membresía Básica', 250, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (493225, 'Membresía Estándar', 500, 17);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (436635, 'Membresía Corporativa', 1500, 4);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (922446, 'Membresía Premium', 1000, 123);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (261709, 'Membresía Básica', 250, 42);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (240103, 'Membresía Premium', 1000, 6);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (722212, 'Membresía Estándar', 500, 315);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (643131, 'Membresía Básica', 250, 302);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (235602, 'Membresía Premium', 1000, 261);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (634208, 'Membresía Básica', 250, 215);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (699388, 'Membresía Corporativa', 1500, 172);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (887331, 'Membresía Premium', 1000, 194);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (172476, 'Membresía Estándar', 500, 185);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (540938, 'Membresía Estándar', 500, 178);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (737436, 'Membresía Premium', 1000, 34);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (358824, 'Membresía Estándar', 500, 361);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (328974, 'Membresía Corporativa', 1500, 154);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (465480, 'Membresía Corporativa', 1500, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (470732, 'Membresía Básica', 250, 51);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (661657, 'Membresía Estándar', 500, 92);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (78485, 'Membresía Básica', 250, 304);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (442959, 'Membresía Premium', 1000, 342);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (528483, 'Membresía Básica', 250, 281);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (284271, 'Membresía Estándar', 500, 141);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (18454, 'Membresía Básica', 250, 51);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (612550, 'Membresía Premium', 1000, 246);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (358903, 'Membresía Corporativa', 1500, 191);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (68886, 'Membresía Básica', 250, 107);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (262991, 'Membresía Corporativa', 1500, 293);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (205070, 'Membresía Estándar', 500, 237);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (753395, 'Membresía Corporativa', 1500, 309);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (971773, 'Membresía Básica', 250, 73);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (283756, 'Membresía Básica', 250, 168);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (460906, 'Membresía Básica', 250, 316);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (625284, 'Membresía Corporativa', 1500, 47);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (977508, 'Membresía Premium', 1000, 83);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (273168, 'Membresía Corporativa', 1500, 209);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (442059, 'Membresía Premium', 1000, 216);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (12821, 'Membresía Premium', 1000, 116);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (853920, 'Membresía Premium', 1000, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (904558, 'Membresía Básica', 250, 282);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (407968, 'Membresía Básica', 250, 19);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (918869, 'Membresía Corporativa', 1500, 205);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (457817, 'Membresía Corporativa', 1500, 347);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (780117, 'Membresía Estándar', 500, 272);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (991878, 'Membresía Estándar', 500, 91);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (340887, 'Membresía Básica', 250, 27);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (246313, 'Membresía Premium', 1000, 211);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (24465, 'Membresía Básica', 250, 357);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (858002, 'Membresía Básica', 250, 51);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (264544, 'Membresía Básica', 250, 237);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (491262, 'Membresía Estándar', 500, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (327054, 'Membresía Corporativa', 1500, 310);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (741668, 'Membresía Corporativa', 1500, 145);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (89286, 'Membresía Corporativa', 1500, 179);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (57767, 'Membresía Premium', 1000, 65);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (581977, 'Membresía Estándar', 500, 34);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (465704, 'Membresía Básica', 250, 37);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (662792, 'Membresía Estándar', 500, 334);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (345454, 'Membresía Premium', 1000, 107);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (920517, 'Membresía Corporativa', 1500, 305);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (68128, 'Membresía Estándar', 500, 85);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (577086, 'Membresía Estándar', 500, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (780224, 'Membresía Premium', 1000, 229);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (817524, 'Membresía Corporativa', 1500, 277);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (757901, 'Membresía Corporativa', 1500, 32);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (650279, 'Membresía Estándar', 500, 122);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (584880, 'Membresía Básica', 250, 197);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (631089, 'Membresía Básica', 250, 352);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (618154, 'Membresía Premium', 1000, 182);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (413031, 'Membresía Corporativa', 1500, 182);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (89318, 'Membresía Premium', 1000, 20);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (825086, 'Membresía Premium', 1000, 99);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (511945, 'Membresía Básica', 250, 218);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (336813, 'Membresía Básica', 250, 115);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (789815, 'Membresía Corporativa', 1500, 242);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (369177, 'Membresía Estándar', 500, 284);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (41528, 'Membresía Premium', 1000, 331);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (29427, 'Membresía Premium', 1000, 50);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (271668, 'Membresía Estándar', 500, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (156256, 'Membresía Básica', 250, 316);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (470409, 'Membresía Estándar', 500, 142);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (478976, 'Membresía Corporativa', 1500, 268);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (378230, 'Membresía Básica', 250, 119);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (610808, 'Membresía Premium', 1000, 331);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (211695, 'Membresía Básica', 250, 85);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (688397, 'Membresía Corporativa', 1500, 76);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (437741, 'Membresía Básica', 250, 143);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (826780, 'Membresía Corporativa', 1500, 206);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (171547, 'Membresía Premium', 1000, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (752275, 'Membresía Premium', 1000, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (137936, 'Membresía Premium', 1000, 19);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (405315, 'Membresía Premium', 1000, 27);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (976630, 'Membresía Premium', 1000, 59);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (15773, 'Membresía Básica', 250, 323);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (110433, 'Membresía Estándar', 500, 160);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (264355, 'Membresía Corporativa', 1500, 48);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (66837, 'Membresía Premium', 1000, 190);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (906980, 'Membresía Premium', 1000, 115);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (845216, 'Membresía Premium', 1000, 299);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (841244, 'Membresía Corporativa', 1500, 39);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (160651, 'Membresía Premium', 1000, 14);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (272871, 'Membresía Corporativa', 1500, 3);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (984776, 'Membresía Básica', 250, 77);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (566491, 'Membresía Básica', 250, 95);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (951522, 'Membresía Premium', 1000, 13);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (868469, 'Membresía Estándar', 500, 81);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (315488, 'Membresía Básica', 250, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (94714, 'Membresía Premium', 1000, 293);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (935591, 'Membresía Corporativa', 1500, 116);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (496345, 'Membresía Corporativa', 1500, 53);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (351447, 'Membresía Corporativa', 1500, 276);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (106820, 'Membresía Básica', 250, 304);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (172819, 'Membresía Básica', 250, 328);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (708726, 'Membresía Corporativa', 1500, 211);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (602463, 'Membresía Premium', 1000, 211);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (974580, 'Membresía Básica', 250, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (237879, 'Membresía Básica', 250, 219);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (570669, 'Membresía Corporativa', 1500, 73);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (246037, 'Membresía Básica', 250, 138);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (835470, 'Membresía Estándar', 500, 16);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (566677, 'Membresía Estándar', 500, 336);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (302683, 'Membresía Estándar', 500, 353);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (535216, 'Membresía Corporativa', 1500, 266);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (463235, 'Membresía Premium', 1000, 62);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (784462, 'Membresía Corporativa', 1500, 37);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (305190, 'Membresía Básica', 250, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (688420, 'Membresía Básica', 250, 77);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (560157, 'Membresía Básica', 250, 202);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (92736, 'Membresía Premium', 1000, 94);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (312314, 'Membresía Corporativa', 1500, 315);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (317096, 'Membresía Corporativa', 1500, 207);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (427516, 'Membresía Básica', 250, 317);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (695429, 'Membresía Premium', 1000, 85);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (329633, 'Membresía Estándar', 500, 283);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (96996, 'Membresía Corporativa', 1500, 187);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (227917, 'Membresía Estándar', 500, 202);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (102388, 'Membresía Premium', 1000, 311);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (561134, 'Membresía Corporativa', 1500, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (934942, 'Membresía Corporativa', 1500, 136);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (870778, 'Membresía Básica', 250, 358);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (314952, 'Membresía Básica', 250, 31);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (126357, 'Membresía Básica', 250, 340);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (190278, 'Membresía Estándar', 500, 215);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (523986, 'Membresía Premium', 1000, 205);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (211412, 'Membresía Premium', 1000, 321);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (687467, 'Membresía Estándar', 500, 279);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (152108, 'Membresía Estándar', 500, 116);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (762710, 'Membresía Estándar', 500, 238);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (838973, 'Membresía Premium', 1000, 252);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (327254, 'Membresía Corporativa', 1500, 318);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (115025, 'Membresía Corporativa', 1500, 208);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (372427, 'Membresía Estándar', 500, 55);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (535210, 'Membresía Estándar', 500, 263);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (948869, 'Membresía Básica', 250, 267);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (802896, 'Membresía Premium', 1000, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (155253, 'Membresía Premium', 1000, 127);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (380895, 'Membresía Básica', 250, 175);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (555092, 'Membresía Básica', 250, 346);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (682237, 'Membresía Corporativa', 1500, 75);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (216711, 'Membresía Corporativa', 1500, 168);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (101853, 'Membresía Corporativa', 1500, 346);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (394424, 'Membresía Premium', 1000, 92);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (322514, 'Membresía Premium', 1000, 135);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (752449, 'Membresía Estándar', 500, 266);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (85935, 'Membresía Premium', 1000, 121);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (355735, 'Membresía Básica', 250, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (944552, 'Membresía Básica', 250, 290);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (442920, 'Membresía Premium', 1000, 27);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (570166, 'Membresía Básica', 250, 20);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (390297, 'Membresía Premium', 1000, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (741252, 'Membresía Corporativa', 1500, 191);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (672219, 'Membresía Estándar', 500, 78);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (703771, 'Membresía Estándar', 500, 285);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (328577, 'Membresía Premium', 1000, 258);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (110989, 'Membresía Corporativa', 1500, 178);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (747911, 'Membresía Básica', 250, 89);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (954817, 'Membresía Corporativa', 1500, 241);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (918491, 'Membresía Corporativa', 1500, 61);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (179509, 'Membresía Estándar', 500, 289);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (180936, 'Membresía Corporativa', 1500, 234);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (980578, 'Membresía Corporativa', 1500, 307);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (615239, 'Membresía Corporativa', 1500, 33);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (62878, 'Membresía Estándar', 500, 232);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (990159, 'Membresía Premium', 1000, 312);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (212160, 'Membresía Estándar', 500, 118);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (408046, 'Membresía Premium', 1000, 159);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (366924, 'Membresía Estándar', 500, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (853638, 'Membresía Corporativa', 1500, 90);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (855538, 'Membresía Corporativa', 1500, 216);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (228095, 'Membresía Corporativa', 1500, 323);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (684528, 'Membresía Corporativa', 1500, 68);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (325430, 'Membresía Básica', 250, 61);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (365973, 'Membresía Premium', 1000, 351);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (368828, 'Membresía Corporativa', 1500, 66);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (579334, 'Membresía Premium', 1000, 222);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (5357, 'Membresía Básica', 250, 128);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (215319, 'Membresía Corporativa', 1500, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (270109, 'Membresía Básica', 250, 112);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (81828, 'Membresía Estándar', 500, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (447408, 'Membresía Corporativa', 1500, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (570044, 'Membresía Corporativa', 1500, 303);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (853186, 'Membresía Básica', 250, 72);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (426763, 'Membresía Básica', 250, 181);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (829581, 'Membresía Corporativa', 1500, 229);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (538415, 'Membresía Estándar', 500, 295);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (437335, 'Membresía Estándar', 500, 158);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (248651, 'Membresía Estándar', 500, 182);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (608378, 'Membresía Básica', 250, 138);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (706744, 'Membresía Premium', 1000, 79);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (230195, 'Membresía Corporativa', 1500, 179);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (855119, 'Membresía Corporativa', 1500, 331);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (908677, 'Membresía Estándar', 500, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (53874, 'Membresía Premium', 1000, 74);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (267937, 'Membresía Premium', 1000, 179);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (4535, 'Membresía Básica', 250, 246);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (860398, 'Membresía Corporativa', 1500, 200);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (752435, 'Membresía Premium', 1000, 132);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (349386, 'Membresía Estándar', 500, 86);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (146872, 'Membresía Premium', 1000, 349);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (603279, 'Membresía Estándar', 500, 298);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (984244, 'Membresía Estándar', 500, 355);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (360913, 'Membresía Estándar', 500, 271);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (343942, 'Membresía Corporativa', 1500, 54);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (250200, 'Membresía Básica', 250, 75);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (178257, 'Membresía Corporativa', 1500, 213);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (15798, 'Membresía Premium', 1000, 183);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (206361, 'Membresía Premium', 1000, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (60891, 'Membresía Básica', 250, 133);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (248087, 'Membresía Premium', 1000, 257);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (52707, 'Membresía Premium', 1000, 230);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (90667, 'Membresía Corporativa', 1500, 146);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (744690, 'Membresía Premium', 1000, 351);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (928132, 'Membresía Estándar', 500, 263);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (727071, 'Membresía Corporativa', 1500, 191);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (253398, 'Membresía Premium', 1000, 337);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (361498, 'Membresía Estándar', 500, 23);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (30017, 'Membresía Estándar', 500, 27);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (929063, 'Membresía Básica', 250, 142);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (880973, 'Membresía Estándar', 500, 57);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (641333, 'Membresía Estándar', 500, 5);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (655653, 'Membresía Estándar', 500, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (422039, 'Membresía Estándar', 500, 41);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (914805, 'Membresía Premium', 1000, 83);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (693060, 'Membresía Premium', 1000, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (461500, 'Membresía Premium', 1000, 207);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (392117, 'Membresía Básica', 250, 227);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (512971, 'Membresía Corporativa', 1500, 208);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (737218, 'Membresía Premium', 1000, 140);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (606502, 'Membresía Premium', 1000, 95);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (378025, 'Membresía Premium', 1000, 269);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (300489, 'Membresía Premium', 1000, 121);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (425245, 'Membresía Básica', 250, 167);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (928126, 'Membresía Premium', 1000, 225);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (457303, 'Membresía Corporativa', 1500, 322);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (363925, 'Membresía Estándar', 500, 99);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (193480, 'Membresía Estándar', 500, 191);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (980209, 'Membresía Premium', 1000, 66);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (833280, 'Membresía Básica', 250, 13);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (419643, 'Membresía Premium', 1000, 327);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (465620, 'Membresía Corporativa', 1500, 148);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (479345, 'Membresía Corporativa', 1500, 145);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (507231, 'Membresía Básica', 250, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (141635, 'Membresía Estándar', 500, 148);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (565561, 'Membresía Básica', 250, 37);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (839775, 'Membresía Básica', 250, 81);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (834889, 'Membresía Básica', 250, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (902774, 'Membresía Corporativa', 1500, 339);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (229482, 'Membresía Básica', 250, 203);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (869917, 'Membresía Corporativa', 1500, 214);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (796536, 'Membresía Corporativa', 1500, 120);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (666692, 'Membresía Premium', 1000, 151);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (362221, 'Membresía Estándar', 500, 98);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (559155, 'Membresía Estándar', 500, 166);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (347835, 'Membresía Básica', 250, 143);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (903895, 'Membresía Básica', 250, 15);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (395263, 'Membresía Básica', 250, 142);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (738434, 'Membresía Básica', 250, 305);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (778702, 'Membresía Básica', 250, 63);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (437016, 'Membresía Corporativa', 1500, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (134847, 'Membresía Premium', 1000, 205);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (660715, 'Membresía Básica', 250, 117);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (303829, 'Membresía Estándar', 500, 215);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (453095, 'Membresía Básica', 250, 212);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (432655, 'Membresía Premium', 1000, 288);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (645876, 'Membresía Corporativa', 1500, 355);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (768621, 'Membresía Estándar', 500, 192);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (850082, 'Membresía Corporativa', 1500, 328);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (767799, 'Membresía Premium', 1000, 358);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (620628, 'Membresía Estándar', 500, 127);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (612367, 'Membresía Básica', 250, 110);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (734454, 'Membresía Básica', 250, 151);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (136141, 'Membresía Premium', 1000, 104);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (142420, 'Membresía Estándar', 500, 194);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (994688, 'Membresía Premium', 1000, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (236657, 'Membresía Corporativa', 1500, 111);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (610935, 'Membresía Estándar', 500, 2);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (312246, 'Membresía Básica', 250, 327);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (880208, 'Membresía Premium', 1000, 28);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (356615, 'Membresía Premium', 1000, 226);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (229675, 'Membresía Premium', 1000, 361);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (167646, 'Membresía Estándar', 500, 209);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (414025, 'Membresía Estándar', 500, 223);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (279661, 'Membresía Premium', 1000, 178);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (557592, 'Membresía Premium', 1000, 255);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (266303, 'Membresía Básica', 250, 163);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (659602, 'Membresía Premium', 1000, 124);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (787068, 'Membresía Premium', 1000, 123);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (165520, 'Membresía Estándar', 500, 215);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (566468, 'Membresía Premium', 1000, 37);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (72561, 'Membresía Estándar', 500, 332);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (437811, 'Membresía Básica', 250, 162);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (373448, 'Membresía Corporativa', 1500, 25);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (646307, 'Membresía Básica', 250, 136);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (598115, 'Membresía Estándar', 500, 17);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (284302, 'Membresía Básica', 250, 127);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (710771, 'Membresía Básica', 250, 95);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (659848, 'Membresía Premium', 1000, 221);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (15739, 'Membresía Estándar', 500, 40);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (853500, 'Membresía Básica', 250, 262);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (611267, 'Membresía Corporativa', 1500, 95);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (80825, 'Membresía Estándar', 500, 120);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (749786, 'Membresía Premium', 1000, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (32070, 'Membresía Premium', 1000, 114);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (576804, 'Membresía Estándar', 500, 290);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (25567, 'Membresía Corporativa', 1500, 357);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (60914, 'Membresía Básica', 250, 352);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (799460, 'Membresía Estándar', 500, 317);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (793005, 'Membresía Estándar', 500, 272);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (95694, 'Membresía Básica', 250, 16);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (11673, 'Membresía Básica', 250, 129);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (484569, 'Membresía Premium', 1000, 158);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (991039, 'Membresía Estándar', 500, 112);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (96890, 'Membresía Corporativa', 1500, 146);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (760562, 'Membresía Básica', 250, 113);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (682890, 'Membresía Corporativa', 1500, 289);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (359543, 'Membresía Premium', 1000, 98);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (521372, 'Membresía Corporativa', 1500, 86);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (200257, 'Membresía Básica', 250, 243);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (320194, 'Membresía Básica', 250, 114);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (334203, 'Membresía Básica', 250, 175);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (51792, 'Membresía Estándar', 500, 31);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (855754, 'Membresía Premium', 1000, 105);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (396897, 'Membresía Estándar', 500, 57);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (432395, 'Membresía Premium', 1000, 222);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (384971, 'Membresía Premium', 1000, 330);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (343748, 'Membresía Estándar', 500, 340);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (828272, 'Membresía Premium', 1000, 249);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (703432, 'Membresía Estándar', 500, 89);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (172797, 'Membresía Estándar', 500, 10);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (938308, 'Membresía Corporativa', 1500, 217);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (348540, 'Membresía Corporativa', 1500, 245);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (876037, 'Membresía Premium', 1000, 278);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (891123, 'Membresía Básica', 250, 292);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (10837, 'Membresía Básica', 250, 90);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (377350, 'Membresía Estándar', 500, 6);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (354170, 'Membresía Premium', 1000, 57);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (113625, 'Membresía Estándar', 500, 231);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (316761, 'Membresía Corporativa', 1500, 140);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (484726, 'Membresía Básica', 250, 44);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (811581, 'Membresía Corporativa', 1500, 298);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (552112, 'Membresía Corporativa', 1500, 71);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (602957, 'Membresía Premium', 1000, 325);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (155827, 'Membresía Premium', 1000, 229);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (472278, 'Membresía Estándar', 500, 34);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (699964, 'Membresía Básica', 250, 46);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (935965, 'Membresía Estándar', 500, 180);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (726816, 'Membresía Básica', 250, 218);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (587118, 'Membresía Estándar', 500, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (226050, 'Membresía Premium', 1000, 356);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (414571, 'Membresía Estándar', 500, 36);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (449133, 'Membresía Básica', 250, 249);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (636054, 'Membresía Estándar', 500, 237);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (908931, 'Membresía Premium', 1000, 182);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (634784, 'Membresía Premium', 1000, 225);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (499916, 'Membresía Corporativa', 1500, 216);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (820331, 'Membresía Corporativa', 1500, 164);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (603233, 'Membresía Premium', 1000, 301);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (969761, 'Membresía Corporativa', 1500, 310);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (102130, 'Membresía Básica', 250, 340);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (196931, 'Membresía Corporativa', 1500, 208);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (299898, 'Membresía Corporativa', 1500, 86);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (152850, 'Membresía Básica', 250, 178);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (437517, 'Membresía Corporativa', 1500, 11);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (124123, 'Membresía Básica', 250, 122);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (136190, 'Membresía Estándar', 500, 231);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (728879, 'Membresía Básica', 250, 351);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (619878, 'Membresía Básica', 250, 238);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (602474, 'Membresía Estándar', 500, 353);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (227838, 'Membresía Corporativa', 1500, 329);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (797123, 'Membresía Corporativa', 1500, 113);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (116252, 'Membresía Corporativa', 1500, 110);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (992783, 'Membresía Estándar', 500, 195);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (140733, 'Membresía Corporativa', 1500, 335);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (489700, 'Membresía Estándar', 500, 259);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (430212, 'Membresía Premium', 1000, 168);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (993647, 'Membresía Básica', 250, 29);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (847235, 'Membresía Premium', 1000, 64);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (693943, 'Membresía Estándar', 500, 149);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (803716, 'Membresía Estándar', 500, 222);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (926781, 'Membresía Estándar', 500, 189);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (655056, 'Membresía Corporativa', 1500, 205);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (497585, 'Membresía Estándar', 500, 340);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (302001, 'Membresía Estándar', 500, 107);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (898600, 'Membresía Estándar', 500, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (503741, 'Membresía Corporativa', 1500, 108);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (969257, 'Membresía Estándar', 500, 254);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (31498, 'Membresía Básica', 250, 139);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (649979, 'Membresía Corporativa', 1500, 33);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (453457, 'Membresía Básica', 250, 41);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (125543, 'Membresía Estándar', 500, 188);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (337528, 'Membresía Corporativa', 1500, 91);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (498636, 'Membresía Premium', 1000, 78);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (714183, 'Membresía Estándar', 500, 35);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (514067, 'Membresía Corporativa', 1500, 216);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (557501, 'Membresía Corporativa', 1500, 70);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (21616, 'Membresía Premium', 1000, 10);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (458039, 'Membresía Premium', 1000, 279);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (668405, 'Membresía Básica', 250, 364);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (245869, 'Membresía Corporativa', 1500, 341);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (864257, 'Membresía Premium', 1000, 279);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (79625, 'Membresía Básica', 250, 117);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (571990, 'Membresía Corporativa', 1500, 10);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (639531, 'Membresía Corporativa', 1500, 329);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (883382, 'Membresía Estándar', 500, 201);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (665303, 'Membresía Premium', 1000, 191);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (996994, 'Membresía Corporativa', 1500, 277);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (449261, 'Membresía Corporativa', 1500, 219);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (477212, 'Membresía Estándar', 500, 164);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (607644, 'Membresía Estándar', 500, 174);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (825179, 'Membresía Premium', 1000, 4);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (884302, 'Membresía Estándar', 500, 246);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (107857, 'Membresía Básica', 250, 310);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (693612, 'Membresía Premium', 1000, 278);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (976385, 'Membresía Estándar', 500, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (579714, 'Membresía Estándar', 500, 76);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (934452, 'Membresía Corporativa', 1500, 220);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (698191, 'Membresía Premium', 1000, 180);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (757432, 'Membresía Básica', 250, 298);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (398260, 'Membresía Estándar', 500, 293);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (942503, 'Membresía Básica', 250, 47);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (733719, 'Membresía Básica', 250, 136);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (450694, 'Membresía Corporativa', 1500, 47);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (52463, 'Membresía Premium', 1000, 97);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (476837, 'Membresía Premium', 1000, 221);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (121513, 'Membresía Estándar', 500, 20);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (429242, 'Membresía Premium', 1000, 246);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (576839, 'Membresía Corporativa', 1500, 35);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (200893, 'Membresía Corporativa', 1500, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (886918, 'Membresía Corporativa', 1500, 128);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (223401, 'Membresía Premium', 1000, 164);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (625, 'Membresía Premium', 1000, 253);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (482506, 'Membresía Corporativa', 1500, 33);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (953527, 'Membresía Estándar', 500, 32);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (999250, 'Membresía Estándar', 500, 58);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (163489, 'Membresía Estándar', 500, 279);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (301280, 'Membresía Corporativa', 1500, 200);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (727139, 'Membresía Premium', 1000, 295);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (377044, 'Membresía Estándar', 500, 162);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (516796, 'Membresía Básica', 250, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (734380, 'Membresía Premium', 1000, 299);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (729807, 'Membresía Básica', 250, 319);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (325940, 'Membresía Estándar', 500, 233);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (255839, 'Membresía Básica', 250, 282);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (338522, 'Membresía Básica', 250, 115);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (499920, 'Membresía Estándar', 500, 197);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (752397, 'Membresía Corporativa', 1500, 272);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (812720, 'Membresía Premium', 1000, 336);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (882310, 'Membresía Básica', 250, 269);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (759251, 'Membresía Corporativa', 1500, 113);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (816427, 'Membresía Básica', 250, 208);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (256833, 'Membresía Premium', 1000, 116);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (175050, 'Membresía Premium', 1000, 139);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (345751, 'Membresía Premium', 1000, 138);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (835480, 'Membresía Premium', 1000, 47);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (267601, 'Membresía Premium', 1000, 194);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (607574, 'Membresía Estándar', 500, 205);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (585446, 'Membresía Premium', 1000, 98);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (2236, 'Membresía Premium', 1000, 27);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (63683, 'Membresía Corporativa', 1500, 69);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (420211, 'Membresía Premium', 1000, 360);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (118134, 'Membresía Básica', 250, 51);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (11725, 'Membresía Básica', 250, 67);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (528954, 'Membresía Premium', 1000, 78);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (617081, 'Membresía Estándar', 500, 209);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (179673, 'Membresía Básica', 250, 89);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (664652, 'Membresía Estándar', 500, 52);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (871661, 'Membresía Premium', 1000, 214);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (849291, 'Membresía Premium', 1000, 32);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (296317, 'Membresía Básica', 250, 337);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (174895, 'Membresía Estándar', 500, 274);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (974579, 'Membresía Estándar', 500, 173);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (800528, 'Membresía Básica', 250, 338);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (528359, 'Membresía Estándar', 500, 273);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (908417, 'Membresía Estándar', 500, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (631271, 'Membresía Corporativa', 1500, 12);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (302026, 'Membresía Premium', 1000, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (271519, 'Membresía Premium', 1000, 364);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (231608, 'Membresía Premium', 1000, 25);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (984422, 'Membresía Premium', 1000, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (675178, 'Membresía Corporativa', 1500, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (300069, 'Membresía Básica', 250, 305);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (903520, 'Membresía Básica', 250, 105);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (315031, 'Membresía Básica', 250, 139);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (345669, 'Membresía Estándar', 500, 262);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (776681, 'Membresía Premium', 1000, 333);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (462929, 'Membresía Básica', 250, 362);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (856557, 'Membresía Básica', 250, 183);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (705333, 'Membresía Estándar', 500, 303);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (1294, 'Membresía Corporativa', 1500, 120);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (434882, 'Membresía Básica', 250, 159);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (583570, 'Membresía Premium', 1000, 250);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (397499, 'Membresía Básica', 250, 160);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (903418, 'Membresía Corporativa', 1500, 45);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (584712, 'Membresía Corporativa', 1500, 185);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (118532, 'Membresía Corporativa', 1500, 38);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (934223, 'Membresía Premium', 1000, 284);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (796582, 'Membresía Corporativa', 1500, 123);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (643976, 'Membresía Corporativa', 1500, 327);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (302337, 'Membresía Estándar', 500, 344);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (560596, 'Membresía Premium', 1000, 306);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (478783, 'Membresía Premium', 1000, 73);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (548983, 'Membresía Básica', 250, 256);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (699524, 'Membresía Corporativa', 1500, 48);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (906064, 'Membresía Corporativa', 1500, 248);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (57113, 'Membresía Básica', 250, 237);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (196085, 'Membresía Básica', 250, 8);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (171590, 'Membresía Estándar', 500, 3);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (462320, 'Membresía Premium', 1000, 294);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (992491, 'Membresía Corporativa', 1500, 224);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (106648, 'Membresía Corporativa', 1500, 134);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (72378, 'Membresía Premium', 1000, 333);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (905792, 'Membresía Corporativa', 1500, 211);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (361806, 'Membresía Estándar', 500, 304);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (938571, 'Membresía Básica', 250, 279);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (888556, 'Membresía Premium', 1000, 233);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (979654, 'Membresía Corporativa', 1500, 267);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (501770, 'Membresía Básica', 250, 324);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (56801, 'Membresía Premium', 1000, 341);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (140980, 'Membresía Corporativa', 1500, 245);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (62948, 'Membresía Estándar', 500, 290);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (275577, 'Membresía Premium', 1000, 256);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (212254, 'Membresía Básica', 250, 72);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (991532, 'Membresía Premium', 1000, 233);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (350330, 'Membresía Básica', 250, 172);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (474839, 'Membresía Estándar', 500, 341);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (909190, 'Membresía Básica', 250, 259);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (363455, 'Membresía Estándar', 500, 250);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (124812, 'Membresía Básica', 250, 350);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (341125, 'Membresía Estándar', 500, 275);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (672103, 'Membresía Básica', 250, 131);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (370078, 'Membresía Premium', 1000, 181);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (162920, 'Membresía Premium', 1000, 174);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (550682, 'Membresía Estándar', 500, 37);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (775456, 'Membresía Básica', 250, 216);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (581240, 'Membresía Estándar', 500, 286);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (969700, 'Membresía Corporativa', 1500, 127);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (796183, 'Membresía Corporativa', 1500, 38);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (671233, 'Membresía Básica', 250, 209);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (230056, 'Membresía Básica', 250, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (841186, 'Membresía Estándar', 500, 252);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (488631, 'Membresía Estándar', 500, 134);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (61316, 'Membresía Corporativa', 1500, 80);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (236960, 'Membresía Premium', 1000, 326);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (606017, 'Membresía Corporativa', 1500, 133);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (369756, 'Membresía Corporativa', 1500, 92);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (7475, 'Membresía Premium', 1000, 358);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (430917, 'Membresía Básica', 250, 284);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (262809, 'Membresía Premium', 1000, 250);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (675996, 'Membresía Premium', 1000, 73);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (856053, 'Membresía Premium', 1000, 164);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (67054, 'Membresía Corporativa', 1500, 48);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (13117, 'Membresía Básica', 250, 48);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (384632, 'Membresía Estándar', 500, 18);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (868386, 'Membresía Básica', 250, 59);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (746676, 'Membresía Corporativa', 1500, 20);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (696607, 'Membresía Premium', 1000, 28);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (304678, 'Membresía Premium', 1000, 153);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (643616, 'Membresía Corporativa', 1500, 39);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (905824, 'Membresía Premium', 1000, 31);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (419190, 'Membresía Estándar', 500, 270);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (521232, 'Membresía Premium', 1000, 204);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (756354, 'Membresía Premium', 1000, 211);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (821725, 'Membresía Básica', 250, 164);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (32334, 'Membresía Básica', 250, 136);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (106101, 'Membresía Básica', 250, 51);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (853612, 'Membresía Estándar', 500, 364);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (944149, 'Membresía Premium', 1000, 140);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (889574, 'Membresía Premium', 1000, 299);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (839364, 'Membresía Corporativa', 1500, 264);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (734029, 'Membresía Corporativa', 1500, 67);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (603141, 'Membresía Premium', 1000, 257);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (591126, 'Membresía Premium', 1000, 186);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (493396, 'Membresía Básica', 250, 198);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (78104, 'Membresía Estándar', 500, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (846643, 'Membresía Corporativa', 1500, 339);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (175466, 'Membresía Premium', 1000, 196);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (504916, 'Membresía Estándar', 500, 272);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (617324, 'Membresía Básica', 250, 310);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (822643, 'Membresía Estándar', 500, 55);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (663604, 'Membresía Estándar', 500, 248);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (306694, 'Membresía Estándar', 500, 180);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (962875, 'Membresía Estándar', 500, 27);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (240917, 'Membresía Estándar', 500, 193);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (711780, 'Membresía Premium', 1000, 72);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (725242, 'Membresía Estándar', 500, 268);
+INSERT INTO MEMBRESIA (ID_MEMBRESIA, DESCRIPCION, COSTO, DURACION) 
+VALUES (657592, 'Membresía Estándar', 500, 156);
