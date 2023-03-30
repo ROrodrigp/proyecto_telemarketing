@@ -6,3 +6,4 @@
 @insertar_EMPLEADO.sql
 @insertar_MARCA.sql
 @insertar_PROVEEDOR_MARCA.sql
+@insertar_ESTATUS_DESCUENTO.sql
