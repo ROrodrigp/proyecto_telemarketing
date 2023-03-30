@@ -138,8 +138,8 @@ ALTER TABLE ESTADO
 CREATE TABLE ESTATUS_DESCUENTO
 (
 	id_estatus_descuento NUMBER(2) NOT NULL ,
-	estatus              VARCHAR2(20) NULL ,
-	descripcion          VARCHAR2(50) NULL 
+	estatus              VARCHAR2(30) NULL ,
+	descripcion          VARCHAR2(100) NULL 
 );
 
 
