@@ -61,10 +61,9 @@ CREATE TABLE DESCUENTO
 	id_descuento         NUMBER(6) NOT NULL ,
 	fecha_inicio         DATE NULL ,
 	fecha_fin            DATE NULL ,
-	estatus_descuento    CHAR(1) NULL ,
-	monto_descuento      DECIMAL NULL ,
-	id_membresia         NUMBER(6) NOT NULL ,
-	id_estatus_descuento NUMBER(2) NOT NULL 
+	porcentaje_descuento DECIMAL NULL ,
+	id_estatus_descuento NUMBER(2) NOT NULL,
+  descripcion          VARCHAR2(100) NULL
 );
 
 
@@ -330,6 +329,21 @@ CREATE TABLE VENTA_DETALLE
 CREATE UNIQUE INDEX XPKVENTA ON VENTA_DETALLE
 (id_orden_venta   ASC,id_producto   ASC);
 
+CREATE TABLE MEMBRESIA_DESCUENTO
+(
+    id_membresia           NUMBER(6) NOT NULL,
+    id_descuento           NUMBER(6) NOT NULL,
+    CONSTRAINT fk_membresia_descuento_membresia
+        FOREIGN KEY (id_membresia)
+        REFERENCES MEMBRESIA(id_membresia),
+    CONSTRAINT fk_membresia_descuento_descuento
+        FOREIGN KEY (id_descuento)
+        REFERENCES DESCUENTO(id_descuento)
+);
+
+-- Si deseas crear una restricción UNIQUE para evitar combinaciones duplicadas de id_membresia y id_descuento
+ALTER TABLE MEMBRESIA_DESCUENTO
+    ADD CONSTRAINT UNQ_MEMBRESIA_DESCUENTO UNIQUE (id_membresia, id_descuento);
 
 
 ALTER TABLE VENTA_DETALLE
@@ -362,8 +376,9 @@ ALTER TABLE COMPRA_DETALLE
 
 
 
-ALTER TABLE DESCUENTO
-	ADD (CONSTRAINT R_48 FOREIGN KEY (id_membresia) REFERENCES MEMBRESIA (id_membresia));
+--comentando esta FK pues se agregara una nueva tabla
+-- ALTER TABLE DESCUENTO
+-- 	ADD (CONSTRAINT R_48 FOREIGN KEY (id_membresia) REFERENCES MEMBRESIA (id_membresia));
 
 
 
