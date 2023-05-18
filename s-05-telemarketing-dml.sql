@@ -1,9 +1,9 @@
---Ejecutar carga de datos en el orden correcto 
+set feedback off
 @insertar_PERSONA.sql
 @insertar_MEMBRESIA.sql
 @insertar_CLIENTE.sql
 @insertar_PROVEEDOR.sql
 @insertar_EMPLEADO.sql
+@insertar_DESCUENTO.sql
 @insertar_MARCA.sql
-@insertar_PROVEEDOR_MARCA.sql
-@insertar_ESTATUS_DESCUENTO.sql
+set feedback on
