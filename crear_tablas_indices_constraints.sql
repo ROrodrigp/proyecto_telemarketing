@@ -61,7 +61,7 @@ CREATE TABLE DESCUENTO
 	id_descuento         NUMBER(6) NOT NULL ,
 	fecha_inicio         DATE NULL ,
 	fecha_fin            DATE NULL ,
-	porcentaje_descuento DECIMAL NULL ,
+	porcentaje_descuento DECIMAL(5, 2) NULL ,
 	id_estatus_descuento NUMBER(2) NOT NULL,
   descripcion          VARCHAR2(100) NULL
 );
