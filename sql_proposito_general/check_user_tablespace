@@ -1,3 +1,3 @@
 SELECT username, default_tablespace
 FROM dba_users
-WHERE username = 'YOUR_USERNAME';
+WHERE username = 'RODRIGO05';
