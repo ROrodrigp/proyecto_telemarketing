@@ -1,0 +1,40 @@
+SQL> CREATE OR REPLACE DIRECTORY MY_IMAGE_DIRECTORY AS '/home/oracle/proyecto_telemarketing/imagenes_MARCA';
+
+Directory MY_IMAGE_DIRECTORY created.
+
+SQL> CREATE OR REPLACE PROCEDURE cargar_imagen_marca (
+  2      p_id_marca IN NUMBER,
+  3      p_nombre_archivo IN VARCHAR2
+  4  ) AS
+  5      v_blob BLOB;
+  6      v_bfile BFILE;
+  7  BEGIN
+  8      -- Inicializar el objeto BLOB vacío
+  9      UPDATE marca SET imagen = EMPTY_BLOB() WHERE id_marca = p_id_marca RETURNING imagen INTO v_blob;
+ 10
+ 11      -- Abrir el archivo de imagen desde el sistema de archivos
+ 12      v_bfile := BFILENAME('MY_IMAGE_DIRECTORY', p_nombre_archivo);
+ 13      DBMS_LOB.fileopen(v_bfile, DBMS_LOB.file_readonly);
+ 14
+ 15      -- Cargar la imagen en la columna BLOB
+ 16      DBMS_LOB.loadfromfile(v_blob, v_bfile, DBMS_LOB.getlength(v_bfile));
+ 17
+ 18      -- Cerrar el archivo y actualizar la columna BLOB
+ 19      DBMS_LOB.fileclose(v_bfile);
+ 20
+ 21      UPDATE marca SET imagen = v_blob WHERE id_marca = p_id_marca;
+ 22
+ 23      COMMIT;
+ 24  END cargar_imagen_marca;
+ 25* /
+
+Procedure CARGAR_IMAGEN_MARCA compiled
+
+SQL> BEGIN
+  2      cargar_imagen_marca(551736, 'Gillette-logo.png');
+  3  END;
+  4* /
+
+PL/SQL procedure successfully completed.
+
+SQL>
