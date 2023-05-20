@@ -18,11 +18,18 @@ FROM
 ORDER BY
   tablespace_name, file_name;
 
--------------Revisar el estado de la FRA y el modo archive de la base de datos ----------
+-----------Preparar una consulta que muestre  la configuración y uso de la FRA---------
 
 
 show parameter db_recovery_file_dest
-SELECT log_mode FROM  v$database;
+SELECT 
+  file_type, 
+  percent_space_used, 
+  percent_space_reclaimable, 
+  number_of_files 
+FROM 
+  V$FLASH_RECOVERY_AREA_USAGE;
+
 
 -------------Preparar una consulta que muestre las ubicaciones de los archive Redo logs----------
 
@@ -39,13 +46,7 @@ ORDER BY
     first_time;
 
 
------------Preparar una consulta que muestre  la configuración y uso de la FRA---------
 
-prompt mostrando  parametros
-show spparameter log_archive_max_processes
-show spparameter log_archive_min_succeed_dest
-select flashback_on from v$database;
-show parameter db_recovery
 
 ---------------------------Preparar una consulta que muestre un resumen simple de los backups realizados----------------------
 
