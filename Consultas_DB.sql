@@ -52,6 +52,7 @@ ORDER BY
 
 
 rman target /
+LIST BACKUP;
 LIST BACKUP SUMMARY;
 
 
