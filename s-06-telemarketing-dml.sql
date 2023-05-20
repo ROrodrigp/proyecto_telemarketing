@@ -1,5 +1,5 @@
 set feedback off
-@insertar_PRODUCTO.sql
-@insertar_VENTA_DETALLE.sql
-@insertar_VENTA.sql
+@/home/oracle/proyecto_telemarketing/insertar_PRODUCTO.sql
+@/home/oracle/proyecto_telemarketing/insertar_VENTA_DETALLE.sql
+@/home/oracle/proyecto_telemarketing/insertar_VENTA.sql
 set feedback on
