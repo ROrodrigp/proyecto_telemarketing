@@ -18,12 +18,25 @@ FROM
 ORDER BY
   tablespace_name, file_name;
 
+-------------Revisar el estado de la FRA y el modo archive de la base de datos ----------
+
+
+show parameter db_recovery_file_dest
+SELECT log_mode FROM  v$database;
 
 -------------Preparar una consulta que muestre las ubicaciones de los archive Redo logs----------
 
-prompt mostrando  parametros
-show spparameter log_archive_dest_1
-show spparameter log_archive_dest_2
+SELECT 
+    name AS archive_log_file_name,
+    sequence# AS sequence,
+    thread# AS thread,
+    TO_CHAR(first_time, 'YYYY-MM-DD HH24:MI:SS') AS first_time,
+    TO_CHAR(next_time, 'YYYY-MM-DD HH24:MI:SS') AS next_time,
+    ROUND(blocks * block_size / 1024 / 1024, 2) AS size_mb
+FROM 
+    v$archived_log
+ORDER BY 
+    first_time;
 
 
 -----------Preparar una consulta que muestre  la configuración y uso de la FRA---------
