@@ -86,6 +86,15 @@ datafile '+DATA'  size 1G,
          '+DIP123RFY' size 1G
  autoextend on next 200M;
 
+ CREATE TABLESPACE BLOB_TS 
+datafile '+DATA'  size 1G,
+         '+DIP123RFY'  size 1G 
+ autoextend on next 200M;
+
+CREATE TABLESPACE INDICES_TS
+datafile '+DATA'  size 1G, 
+         '+DIP123RFY'  size 1G  autoextend on next 200M;
+
 SELECT tablespace_name FROM dba_tablespaces;
 begin
   execute immediate 'drop user &&p_usuario_t cascade';

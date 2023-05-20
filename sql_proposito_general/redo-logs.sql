@@ -9,13 +9,13 @@ prompt consulta redo log rutas  existentes
 select l.group#, l.thread#,f.member,l.archived,
 l.status,(bytes/1024/1024) fsize FROM 
 v$log l, v$logfile f 
-where f.group# = l.group#  order by 1,2;
+where f.group# = l.group#  order by 1,2
 
 prompt agregamos el grupo faltante
 
 alter database add logfile member '+DIP123RFY/DIP123RFY/ONLINELOG/redo01c_60.log' reuse to group 1 ;
 alter database add logfile member '+DIP123RFY/DIP123RFY/ONLINELOG/redo02c_60.log' reuse to group 2 ;
-alter database add logfile member '+DIP123RFY/DIP123RFY/ONLINELOG/redo03c_60.log' reuse to group 3;
+alter database add logfile member '+DIP123RFY/DIP123RFY/ONLINELOG/redo03c_60.log' to group 3;
 
 
 prompt borramos grupos para volverlos a crear y renombrar con una u otra
