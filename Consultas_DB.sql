@@ -51,10 +51,39 @@ ORDER BY
 ---------------------------Preparar una consulta que muestre un resumen simple de los backups realizados----------------------
 
 
-
+rman target /
+LIST BACKUP SUMMARY;
 
 
 /*Preparar una consulta que muestre  la cantidad en MB que se han almacenado  
 para los diferentes segmentos de la base de datos.   Se deberá  realizar una consulta por PDB.*/
-
+SELECT
+  t.tablespace_name,
+  t.contents,
+  t.block_size,
+  t.status,
+  t.extent_management,
+  t.allocation_type,
+  t.segment_space_management,
+  ROUND(SUM(NVL(df.bytes, 0)) / 1024 / 1024, 2) AS current_size_mb,
+  ROUND(SUM(NVL(df.maxbytes, 0)) / 1024 / 1024, 2) AS max_size_mb
+FROM
+  dba_tablespaces t
+  LEFT JOIN (
+    SELECT tablespace_name, file_id, bytes, maxbytes
+    FROM dba_data_files
+    UNION ALL
+    SELECT tablespace_name, file_id, bytes, maxbytes
+    FROM dba_temp_files
+  ) df ON t.tablespace_name = df.tablespace_name
+GROUP BY
+  t.tablespace_name,
+  t.contents,
+  t.block_size,
+  t.status,
+  t.extent_management,
+  t.allocation_type,
+  t.segment_space_management
+ORDER BY
+  t.tablespace_name;
 
