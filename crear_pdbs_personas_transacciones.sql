@@ -27,11 +27,15 @@ CREATE TABLESPACE INDICES_TS DATAFILE SIZE 100M AUTOEXTEND ON;
 alter session set container=personas_pdb;
 CREATE USER usuario_personas IDENTIFIED BY D1Dd1c913a46485946bd## DEFAULT TABLESPACE PERSONA_TS QUOTA UNLIMITED ON PERSONA_TS;
 grant create session, create table, create trigger, create procedure, CREATE ANY DIRECTORY to usuario_personas;
+GRANT CREATE ANY INDEX TO usuario_personas;
+GRANT UNLIMITED TABLESPACE ON INDICES_TS TO usuario_personas;
 grant EXECUTE ON DBMS_LOB to usuario_personas;
 
 alter session set container=transacciones_pdb;
 CREATE USER usuario_transacciones IDENTIFIED BY D1Dd1c913a46485946bd## DEFAULT TABLESPACE TRANSACCIONES_TS QUOTA UNLIMITED ON TRANSACCIONES_TS;
 grant create session, create table, create trigger, create procedure, CREATE ANY DIRECTORY to usuario_transacciones;
+GRANT CREATE ANY INDEX TO usuario_transacciones;
+GRANT UNLIMITED TABLESPACE ON INDICES_TS TO usuario_transacciones;
 grant EXECUTE ON DBMS_LOB to usuario_transacciones;
 
 commit;
